@@ -16,3 +16,9 @@
 [goto实现while](https://github.com/ktcl444/php/blob/master/algorithm/goto_implements_while.php)
 
 [goto实现for](https://github.com/ktcl444/php/blob/master/algorithm/goto_implements_for.php)
+
+[两数相加-逆序](https://github.com/ktcl444/php/blob/master/algorithm/add_two_number_desc.php)
+
+[两数相加-正序-递归](https://github.com/ktcl444/php/blob/master/algorithm/add_two_number_asc_recursion.php)
+
+[两数相加-正序-两个栈](https://github.com/ktcl444/php/blob/master/algorithm/add_two_number_asc_stack.php)
