@@ -7,6 +7,7 @@
     function lengthOfLongestSubstring($s) {
 		//if( !isset($s) || $s == '') return 0;
 		$n = strlen($s);
+		$max = 0;
 		$chars=[];
 		for($i = 0,$j = 0;$j<$n;$j++){
 			$char = substr($s,$j,1);
