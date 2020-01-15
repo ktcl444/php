@@ -22,3 +22,7 @@
 [两数相加-正序-递归](https://github.com/ktcl444/php/blob/master/algorithm/add_two_number_asc_recursion.php)
 
 [两数相加-正序-两个栈](https://github.com/ktcl444/php/blob/master/algorithm/add_two_number_asc_stack.php)
+
+[无重复字符的最长子串-正常遍历](https://github.com/ktcl444/php/blob/master/algorithm/length_of_longest_sub_string_traversal.php)
+
+[无重复字符的最长子串-滑动窗口](https://github.com/ktcl444/php/blob/master/algorithm/length_of_longest_sub_string_slide_window.php)
