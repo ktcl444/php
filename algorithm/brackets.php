@@ -19,7 +19,6 @@ function check_brackets($str)
         }
     }
     $result = empty($temp) && $has_left_bracket;
-    $result && print_r($brackets);
     return $result;
 }
 

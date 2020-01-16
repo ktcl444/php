@@ -24,8 +24,6 @@ class Solution {
     function addTwoNumbers($l1, $l2) {
 		$length1 =$this->getNodeLenth($l1);
 		$length2 = $this->getNodeLenth($l2);
-					echo $length1 .PHP_EOL;
-					echo $length2 .PHP_EOL;
 		$result = $length1 > $length2 ? $this->add($l1,$l2,$length1,$length2):$this->add($l2,$l1,$length2,$length1);
 		if($this->$carry ==1){
 			$root =new ListNode(1);
@@ -38,30 +36,20 @@ class Solution {
 	
 	function add($l1,$l2,$length1,$length2)
 	{
-		if($length1 <= 0 || $length2 <= 0)
-		{
-						echo $length1 .PHP_EOL;
-					echo $length2 .PHP_EOL;
-					exit;
-		}
 		$temp = 0; 
 		if($length1 ==1 && $length2 == 1){
-			
-			echo '=';
 			$temp = $l1->val + $l2->val;
 			$l1->val = $temp % 10;
 			$this->$carry = intval($temp /10);
 			return $l1;
 		}
 		if($length1 > $length2){
-			echo '>';
 			$l1->next = $this->add($l1->next,$l2,$length1 - 1,$length2);
 			$temp = $l1->val + $this->$carry;
 			$l1->val = $temp % 10;
 			$this->$carry = intval($temp /10);
 			return $l1;
 		}
-			echo '!=';
 		$l1->next = $this->add($l1->next,$l2->next,$length1-1,$length2 -1);
 		$temp = $l1->val + $l2->val +$this->$carry;
 				$l1->val = $temp % 10;
