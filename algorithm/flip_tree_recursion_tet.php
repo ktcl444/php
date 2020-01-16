@@ -11,11 +11,21 @@ class TreeNode {
 		if($t1 == null){
 			return $t1;
 		}
-		$temp_left = $t1->left;
-		$temp_right = $t1->right;
-		$t1->left = invertTree($temp_right);
-		$t1->right = invertTree($temp_left);
-
+		$stack = [$t1];
+		while(!empty($stack)){
+			$node = array_pop($stack);
+			$temp = $node->left;
+			$node->left = $node->right;
+			$node->right = $temp;
+			if(!is_null(			$node->left))
+			{
+				array_push($stack,$node->left);
+			}
+			if(!is_null($node->right))
+			{
+				array_push($stack,$node->right);
+			}
+		}
 		
 		return $t1;
     }
@@ -33,7 +43,3 @@ class TreeNode {
 	$t2->right = $t2_r;
 	print_r(invertTree($t1));
 		print_r(invertTree($t2));
-		
-		     if(!is_null($node[0]->left) || !is_null($node[0]->right)){
-             array_push($stack,[$node[0]->left,$node[0]->left,$deep+1]);
-            }
