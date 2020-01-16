@@ -26,3 +26,11 @@
 [无重复字符的最长子串-正常遍历](https://github.com/ktcl444/php/blob/master/algorithm/length_of_longest_sub_string_traversal.php)
 
 [无重复字符的最长子串-滑动窗口](https://github.com/ktcl444/php/blob/master/algorithm/length_of_longest_sub_string_slide_window.php)
+
+[翻转树-递归](https://github.com/ktcl444/php/blob/master/algorithm/flip_tree_iteration.php)
+
+[翻转树-迭代](https://github.com/ktcl444/php/blob/master/algorithm/flip_tree_recursion.php)
+
+[相加树-递归](https://github.com/ktcl444/php/blob/master/algorithm/add_tree_iteration.php)
+
+[相加树-迭代](https://github.com/ktcl444/php/blob/master/algorithm/add_tree_recursion.php)
