@@ -13,10 +13,17 @@ class TreeNode {
             return 0;
         }
         $deep = 1;
-        $stack= [[$root->left,$root->right,$deep+1]];
+       // $stack= [[$root->left,$root->right,$deep+1]];
+		$stack = [[$root,$deep]];
         while(!empty($stack)){
             $node = array_shift($stack);
-            if(is_null($node[0]) && is_null($node[1])){
+			if(is_null($node[0]))continue;
+			$deep = max($deep,$node[1]);
+			if(!is_null($node[0]->left))
+			array_push($stack,[$node[0]->left,$deep+1]);
+            if(!is_null($node[0]->right))
+			array_push($stack,[$node[0]->right,$deep+1]);
+/*             if(is_null($node[0]) && is_null($node[1])){
                 continue;
             }
             if(!is_null($node[0]) || !is_null($node[1])){
@@ -30,7 +37,7 @@ class TreeNode {
             }
 			
 			print_r($stack);
-			echo PHP_EOL.$deep;
+			echo PHP_EOL.$deep; */
         }
         return $deep;
 	}
