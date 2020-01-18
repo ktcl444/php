@@ -38,3 +38,5 @@
 [树深度-迭代](https://github.com/ktcl444/php/blob/master/algorithm/deep_tree_iteration.php)
 
 [汉明距离-按位异或](https://github.com/ktcl444/php/blob/master/algorithm/hmjl.php)
+
+[反转链表-迭代+递归](https://github.com/ktcl444/php/blob/master/algorithm/reverse_list.php)
