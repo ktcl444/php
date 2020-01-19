@@ -40,3 +40,5 @@
 [汉明距离-按位异或](https://github.com/ktcl444/php/blob/master/algorithm/hmjl.php)
 
 [反转链表-迭代+递归](https://github.com/ktcl444/php/blob/master/algorithm/reverse_list.php)
+
+[只出现一次的数字-数组+hash+数学+异或](https://github.com/ktcl444/php/blob/master/algorithm/single_number.php)
