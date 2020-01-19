@@ -8,4 +8,4 @@ function filter_repeated(array $array)
     return $arr;
 }
 
-print_r(filter_repeated(array(1, 1, 3, 2, 2, 3, 1, 1)));
+print_r(filter_repeated(array(1, 2, 4, 2, 2, 3, 1, 1)));
