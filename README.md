@@ -42,3 +42,5 @@
 [反转链表-迭代+递归](https://github.com/ktcl444/php/blob/master/algorithm/reverse_list.php)
 
 [只出现一次的数字-数组+hash+数学+异或](https://github.com/ktcl444/php/blob/master/algorithm/single_number.php)
+
+[众数-hash+排序+投票](https://github.com/ktcl444/php/blob/master/algorithm/majority_element.php)
