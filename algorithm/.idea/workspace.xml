@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="4a9ab226-9f54-4013-9f57-6a9f777b9224" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/merge_two_list.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/move_zeros.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -16,17 +16,26 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/merge_two_list.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="972">
-              <caret line="131" column="27" lean-forward="true" selection-start-line="131" selection-start-column="27" selection-end-line="131" selection-end-column="27" />
+            <state relative-caret-position="3537">
+              <caret line="131" column="27" selection-start-line="131" selection-start-column="27" selection-end-line="131" selection-end-column="27" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/majority_element.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="432">
+              <caret line="34" column="18" selection-start-line="34" selection-start-column="18" selection-end-line="34" selection-end-column="18" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/majority_element.php">
+        <entry file="file://$PROJECT_DIR$/move_zeros.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="432">
-              <caret line="34" column="18" lean-forward="true" selection-start-line="34" selection-start-column="18" selection-end-line="34" selection-end-column="18" />
+            <state relative-caret-position="1134">
+              <caret line="47" lean-forward="true" selection-start-line="47" selection-end-line="47" />
             </state>
           </provider>
         </entry>
@@ -56,6 +65,7 @@
         <option value="$PROJECT_DIR$/test.php" />
         <option value="$PROJECT_DIR$/majority_element.php" />
         <option value="$PROJECT_DIR$/merge_two_list.php" />
+        <option value="$PROJECT_DIR$/move_zeros.php" />
       </list>
     </option>
   </component>
@@ -74,6 +84,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -93,7 +104,6 @@
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -115,14 +125,14 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="PHP Script.majority_element.php">
-    <configuration name="brackets.php" type="PhpLocalRunConfigurationType" factoryName="PHP Console" temporary="true" path="$PROJECT_DIR$/brackets.php">
-      <method v="2" />
-    </configuration>
+  <component name="RunManager" selected="PHP Script.move_zeros.php">
     <configuration name="majority_element.php" type="PhpLocalRunConfigurationType" factoryName="PHP Console" temporary="true" path="$PROJECT_DIR$/majority_element.php">
       <method v="2" />
     </configuration>
     <configuration name="merge_two_list.php" type="PhpLocalRunConfigurationType" factoryName="PHP Console" temporary="true" path="$PROJECT_DIR$/merge_two_list.php">
+      <method v="2" />
+    </configuration>
+    <configuration name="move_zeros.php" type="PhpLocalRunConfigurationType" factoryName="PHP Console" temporary="true" path="$PROJECT_DIR$/move_zeros.php">
       <method v="2" />
     </configuration>
     <configuration name="test.php" type="PhpLocalRunConfigurationType" factoryName="PHP Console" temporary="true" path="$PROJECT_DIR$/test.php">
@@ -133,11 +143,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="PHP Script.move_zeros.php" />
         <item itemvalue="PHP Script.majority_element.php" />
         <item itemvalue="PHP Script.merge_two_list.php" />
         <item itemvalue="PHP Script.test.php" />
         <item itemvalue="PHP Script.ysfh.php" />
-        <item itemvalue="PHP Script.brackets.php" />
       </list>
     </recent_temporary>
   </component>
@@ -157,23 +167,24 @@
       <workItem from="1577437714956" duration="1511000" />
       <workItem from="1579430651223" duration="2576000" />
       <workItem from="1579574075950" duration="1483000" />
-      <workItem from="1579781278348" duration="3680000" />
+      <workItem from="1579781278348" duration="3711000" />
+      <workItem from="1579918406308" duration="1657000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="16901000" />
+    <option name="totallyTimeSpent" value="18589000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1721" height="935" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.2675887" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.2705953" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.7522465" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.4300385" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.3992298" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -248,15 +259,22 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/merge_two_list.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="972">
-          <caret line="131" column="27" lean-forward="true" selection-start-line="131" selection-start-column="27" selection-end-line="131" selection-end-column="27" />
+        <state relative-caret-position="3537">
+          <caret line="131" column="27" selection-start-line="131" selection-start-column="27" selection-end-line="131" selection-end-column="27" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/majority_element.php">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="432">
-          <caret line="34" column="18" lean-forward="true" selection-start-line="34" selection-start-column="18" selection-end-line="34" selection-end-column="18" />
+          <caret line="34" column="18" selection-start-line="34" selection-start-column="18" selection-end-line="34" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/move_zeros.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1134">
+          <caret line="47" lean-forward="true" selection-start-line="47" selection-end-line="47" />
         </state>
       </provider>
     </entry>
