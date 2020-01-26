@@ -48,3 +48,5 @@
 [合并有序链表-递归+迭代+转换数组+同时遍历](https://github.com/ktcl444/php/blob/master/algorithm/majority_element.php)
 
 [移动元素0-遍历(截断补充/移动补充/交换)](https://github.com/ktcl444/php/blob/master/algorithm/move_zeros.php)
+
+[二叉树转累加树-递归+地带)](https://github.com/ktcl444/php/blob/master/algorithm/convert_bst.php)
