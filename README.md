@@ -50,3 +50,6 @@
 [移动元素0-遍历(截断补充/移动补充/交换)](https://github.com/ktcl444/php/blob/master/algorithm/move_zeros.php)
 
 [二叉树转累加树-递归+地带)](https://github.com/ktcl444/php/blob/master/algorithm/convert_bst.php)
+
+[查找缺失的数字-遍历(array查找/hash查找)+原地修改(乘以-1))](https://github.com/ktcl444/php/blob/master/algorithm/find_disppeared_nums.php)
+
