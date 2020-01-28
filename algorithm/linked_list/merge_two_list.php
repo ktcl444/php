@@ -1,25 +1,13 @@
 <?php
 
-class ListNode
-{
-    public $val = 0;
-    public $next = null;
+namespace algorithm\linked_list;
+require_once 'base\LinkedListAlgorithmBase.php';
 
-    function __construct($val)
+class Solution extends \algorithm\linked_list\base\LinkedListAlgorithmBase
+{
+    function mergeTwoLists($l1, $l2)
     {
-        $this->val = $val;
-    }
-}
-
-
-/**
- * @param ListNode $l1
- * @param ListNode $l2
- * @return ListNode
- */
-function mergeTwoLists($l1, $l2)
-{
-    #region 同时遍历
+        #region 同时遍历
 //    $root = null;
 //    $list = null;
 //    while ($l1 != null || $l2 != null) {
@@ -51,9 +39,9 @@ function mergeTwoLists($l1, $l2)
 //    }
 //
 //    return $root;
-    #endregion
+        #endregion
 
-    #region 数组转换
+        #region 数组转换
 //    $list1 = [];
 //    $list2 = [];
 //    while ($l1 != null) {
@@ -82,9 +70,9 @@ function mergeTwoLists($l1, $l2)
 //    }
 //
 //    return $root;
-    #endregion
+        #endregion
 
-    #region 递归
+        #region 递归
 //    if (is_null($l1)) {
 //        return $l2;
 //    } else if (is_null($l2)) {
@@ -99,43 +87,34 @@ function mergeTwoLists($l1, $l2)
 //        return $l2;
 //    }
 
-    #endregion
+        #endregion
 
-    #region 迭代
-    $head = new ListNode(0);
-    $temp = $head;
+        #region 迭代
+        $head = new \algorithm\linked_list\base\ListNode(0);
+        $temp = $head;
 
-    while ($l1 != null && $l2 != null) {
-        if ($l1->val < $l2->val) {
-            $temp->next = $l1;
-            $l1 = $l1->next;
-        } else {
-            $temp->next = $l2;
-            $l2 = $l2->next;
+        while ($l1 != null && $l2 != null) {
+            if ($l1->val < $l2->val) {
+                $temp->next = $l1;
+                $l1 = $l1->next;
+            } else {
+                $temp->next = $l2;
+                $l2 = $l2->next;
+            }
+            $temp = $temp->next;
         }
-        $temp = $temp->next;
+
+        $temp->next = is_null($l1) ? $l2 : $l1;
+
+        return $head->next;
+        #endregion
+   }
+
+    function test()
+    {
+        $l1 = self::convertArrayToLinkedList([1,2,4]);
+        $l2 = self::convertArrayToLinkedList([1,3,4]);
+        print_r($this->mergeTwoLists($l1,$l2));
     }
-
-    $temp->next = is_null($l1)?$l2:$l1;
-
-    return $head->next;
-    #endregion
 }
-
-// 1-2-4 1-3-4
-$root1 = new ListNode(1);
-$node1_2 = new ListNode(2);
-$node1_2->next = new ListNode(4);
-$root1->next = $node1_2;
-
-$root2 = new ListNode(1);
-$node2_2 = new ListNode(3);
-$node2_2->next = new ListNode(4);
-$root2->next = $node2_2;
-
-print_r(mergeTwoLists($root1, $root2));
-
-$root1 = new ListNode(1);
-$root2 = null;
-
-print_r(mergeTwoLists($root1, $root2));
+(new Solution())->test();

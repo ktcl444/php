@@ -1,18 +1,7 @@
 <?php
- class ListNode {
-     public $val = 0;
-    public $next = null;
-     function __construct($val) { $this->val = $val; }
- }
-/**
- * Definition for a singly-linked list.
- * class ListNode {
- *     public $val = 0;
- *     public $next = null;
- *     function __construct($val) { $this->val = $val; }
- * }
- */
-class Solution {
+namespace algorithm\linked_list;
+require_once 'base\LinkedListAlgorithmBase.php';
+class Solution extends \algorithm\linked_list\base\LinkedListAlgorithmBase {
 
     /**
      * @param ListNode $l1

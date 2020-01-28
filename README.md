@@ -53,3 +53,5 @@
 
 [查找缺失的数字-遍历(array查找/hash查找)+原地修改(乘以-1))](https://github.com/ktcl444/php/blob/master/algorithm/find_disppeared_nums.php)
 
+[树路径总和-递归(保存路径节点/差等判断)+原地修改(乘以-1))](https://github.com/ktcl444/php/blob/master/algorithm/tree_path_sum.php)
+

@@ -1,22 +1,12 @@
 <?php
 
-class TreeNode
+namespace algorithm\tree;
+require_once 'base\TreeAlgorithmBase.php';
+
+class Solution extends \algorithm\tree\base\TreeAlgorithmBase
 {
-    public $val = null;
-    public $left = null;
-    public $right = null;
-
-    function __construct($value)
-    {
-        $this->val = $value;
-    }
-}
-
-class Solution
-{
-    private $sum = 0;
-
     #region 递归
+//    private $sum = 0;
 //    function convertBST($root)
 //    {
 //        if ($root != null) {
@@ -86,24 +76,14 @@ class Solution
 
     #endregion
 
+    function test()
+    {
+        $root = self::convertArrayToTree([5,2,13]);
+        print_r($this->convertBST($root));
+
+        $root = self::convertArrayToTree([2,0,3,-4,1]);
+        print_r($this->convertBST($root));
+    }
 }
 
-//[2,0,3,-4,1]
-$root = new TreeNode(5);
-$root->left = new TreeNode(2);
-$root->right = new TreeNode(13);
-
-print_r((new Solution())->convertBST($root));
-
-$root = new TreeNode(2);
-
-$left_node = new TreeNode(0);
-$left_node->left = new TreeNode(-4);
-$left_node->right = new TreeNode(1);
-
-$right_node = new TreeNode(3);
-
-$root->left = $left_node;
-$root->right = $right_node;
-
-print_r((new Solution())->convertBST($root));
+(new Solution())->test();
