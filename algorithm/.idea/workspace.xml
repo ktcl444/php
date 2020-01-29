@@ -2,33 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="4a9ab226-9f54-4013-9f57-6a9f777b9224" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/AlgorithmBase.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/base/AlgorithmBase.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/linked_list/base/LinkedListAlgorithmBase.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/linked_list/base/ListHelper.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/linked_list/base/ListNode.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tree/add_tree_iteration.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tree/add_tree_recursion.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tree/base/TreeAlgorithmBase.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tree/base/TreeHelper.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tree/base/TreeNode.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tree/flip_tree_iteration.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tree/flip_tree_recursion.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tree/flip_tree_recursion_tet.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tree/tree_path_sum.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/maxProfit.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/add_tree_iteration.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/add_tree_recursion.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/add_two_number_asc_recursion.php" beforeDir="false" afterPath="$PROJECT_DIR$/linked_list/add_two_number_asc_recursion.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/add_two_number_asc_stack.php" beforeDir="false" afterPath="$PROJECT_DIR$/linked_list/add_two_number_asc_stack.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/add_two_number_desc.php" beforeDir="false" afterPath="$PROJECT_DIR$/linked_list/add_two_number_desc.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/convert_bst.php" beforeDir="false" afterPath="$PROJECT_DIR$/tree/convert_bst.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/deep_tree_iteration.php" beforeDir="false" afterPath="$PROJECT_DIR$/tree/deep_tree_iteration.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/flip_tree_iteration.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/flip_tree_recursion.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/flip_tree_recursion_tet.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/merge_two_list.php" beforeDir="false" afterPath="$PROJECT_DIR$/linked_list/merge_two_list.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/reverse_list.php" beforeDir="false" afterPath="$PROJECT_DIR$/linked_list/reverse_list.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AlgorithmBase.php" beforeDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -38,29 +14,38 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/maxProfit.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="108">
+              <caret line="4" column="46" lean-forward="true" selection-start-line="4" selection-start-column="46" selection-end-line="4" selection-end-column="46" />
+            </state>
+          </provider>
+        </entry>
+      </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/tree/tree_path_sum.php">
+        <entry file="file://$PROJECT_DIR$/linked_list/merge_two_list.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-297">
-              <caret line="13" column="28" lean-forward="true" selection-start-line="13" selection-start-column="28" selection-end-line="13" selection-end-column="28" />
+            <state relative-caret-position="513">
+              <caret line="118" column="1" lean-forward="true" selection-start-line="118" selection-start-column="1" selection-end-line="118" selection-end-column="1" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/tree/base/TreeAlgorithmBase.php">
+        <entry file="file://$PROJECT_DIR$/base/AlgorithmBase.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="270">
-              <caret line="10" column="35" selection-start-line="10" selection-start-column="35" selection-end-line="10" selection-end-column="35" />
+            <state relative-caret-position="54">
+              <caret line="2" column="15" selection-start-line="2" selection-start-column="15" selection-end-line="2" selection-end-column="15" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/tree/base/TreeHelper.php">
+        <entry file="jar://$APPLICATION_HOME_DIR$/plugins/php/lib/php.jar!/stubs/standard/standard_8.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="567">
-              <caret line="80" column="47" lean-forward="true" selection-start-line="80" selection-start-column="47" selection-end-line="80" selection-end-column="47" />
+            <state relative-caret-position="552">
+              <caret line="1053" column="9" selection-start-line="1053" selection-start-column="9" selection-end-line="1053" selection-end-column="9" />
             </state>
           </provider>
         </entry>
@@ -139,6 +124,8 @@
         <option value="$PROJECT_DIR$/tree/convert_bst.php" />
         <option value="$PROJECT_DIR$/tree/base/TreeHelper.php" />
         <option value="$PROJECT_DIR$/tree/tree_path_sum.php" />
+        <option value="$PROJECT_DIR$/../../../dnmp/www/localhost/ws_test.php" />
+        <option value="$PROJECT_DIR$/maxProfit.php" />
       </list>
     </option>
   </component>
@@ -157,7 +144,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -173,23 +159,16 @@
             <path>
               <item name="algorithm" type="b2602c69:ProjectViewProjectNode" />
               <item name="algorithm" type="462c0819:PsiDirectoryNode" />
-              <item name="linked_list" type="462c0819:PsiDirectoryNode" />
-              <item name="base" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="algorithm" type="b2602c69:ProjectViewProjectNode" />
-              <item name="algorithm" type="462c0819:PsiDirectoryNode" />
               <item name="tree" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="algorithm" type="b2602c69:ProjectViewProjectNode" />
-              <item name="algorithm" type="462c0819:PsiDirectoryNode" />
-              <item name="tree" type="462c0819:PsiDirectoryNode" />
-              <item name="base" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="algorithm" type="b2602c69:ProjectViewProjectNode" />
               <item name="localhost" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="algorithm" type="b2602c69:ProjectViewProjectNode" />
+              <item name="localhost" type="462c0819:PsiDirectoryNode" />
+              <item name="Workerman" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="algorithm" type="b2602c69:ProjectViewProjectNode" />
@@ -199,6 +178,7 @@
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -232,17 +212,17 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="PHP Script.tree_path_sum.php">
+  <component name="RunManager" selected="PHP Script.merge_two_list.php">
     <configuration name="TreeHelper.php" type="PhpLocalRunConfigurationType" factoryName="PHP Console" temporary="true" path="$PROJECT_DIR$/tree/base/TreeHelper.php">
       <method v="2" />
     </configuration>
     <configuration name="convert_bst.php" type="PhpLocalRunConfigurationType" factoryName="PHP Console" temporary="true" path="$PROJECT_DIR$/tree/convert_bst.php">
       <method v="2" />
     </configuration>
-    <configuration name="deep_tree_iteration.php" type="PhpLocalRunConfigurationType" factoryName="PHP Console" temporary="true" path="$PROJECT_DIR$/tree/deep_tree_iteration.php">
+    <configuration name="maxProfit.php" type="PhpLocalRunConfigurationType" factoryName="PHP Console" temporary="true" path="$PROJECT_DIR$/maxProfit.php">
       <method v="2" />
     </configuration>
-    <configuration name="reverse_list.php" type="PhpLocalRunConfigurationType" factoryName="PHP Console" temporary="true" path="$PROJECT_DIR$/linked_list/reverse_list.php">
+    <configuration name="merge_two_list.php" type="PhpLocalRunConfigurationType" factoryName="PHP Console" temporary="true" path="$PROJECT_DIR$/linked_list/merge_two_list.php">
       <method v="2" />
     </configuration>
     <configuration name="tree_path_sum.php" type="PhpLocalRunConfigurationType" factoryName="PHP Console" temporary="true" path="$PROJECT_DIR$/tree/tree_path_sum.php">
@@ -250,11 +230,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="PHP Script.merge_two_list.php" />
+        <item itemvalue="PHP Script.maxProfit.php" />
         <item itemvalue="PHP Script.tree_path_sum.php" />
         <item itemvalue="PHP Script.TreeHelper.php" />
         <item itemvalue="PHP Script.convert_bst.php" />
-        <item itemvalue="PHP Script.deep_tree_iteration.php" />
-        <item itemvalue="PHP Script.reverse_list.php" />
       </list>
     </recent_temporary>
   </component>
@@ -278,18 +258,18 @@
       <workItem from="1579918406308" duration="1773000" />
       <workItem from="1580024141800" duration="7820000" />
       <workItem from="1580091940664" duration="2576000" />
-      <workItem from="1580176937111" duration="17184000" />
+      <workItem from="1580176937111" duration="17448000" />
+      <workItem from="1580262332307" duration="3981000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="46285000" />
+    <option name="totallyTimeSpent" value="50530000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1721" height="935" extended-state="6" />
-    <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.20865905" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.21106434" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -322,6 +302,17 @@
         <option value="1" />
       </list>
     </option>
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="php">
+          <url>file://$PROJECT_DIR$/maxProfit.php</url>
+          <line>31</line>
+          <option name="timeStamp" value="5" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/ysfh.php">
@@ -384,13 +375,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="jar://$APPLICATION_HOME_DIR$/plugins/php/lib/php.jar!/stubs/standard/standard_8.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="638">
-          <caret line="1039" column="9" selection-start-line="1039" selection-start-column="9" selection-end-line="1039" selection-end-column="9" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/single_number.php">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-756" />
@@ -407,13 +391,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="27">
           <caret line="1" column="30" selection-start-line="1" selection-start-column="30" selection-end-line="1" selection-end-column="30" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/base/AlgorithmBase.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="27">
-          <caret line="1" column="24" selection-start-line="1" selection-start-column="24" selection-end-line="1" selection-end-column="24" />
         </state>
       </provider>
     </entry>
@@ -487,13 +464,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/linked_list/merge_two_list.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="243">
-          <caret line="108" column="27" lean-forward="true" selection-start-line="108" selection-start-column="27" selection-end-line="108" selection-end-column="27" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/linked_list/reverse_list.php">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="364">
@@ -518,13 +488,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/tree/deep_tree_iteration.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="810">
-          <caret line="30" column="1" lean-forward="true" selection-start-line="30" selection-start-column="1" selection-end-line="30" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/tree/convert_bst.php">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="189">
@@ -532,10 +495,34 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/tree/tree_path_sum.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="351">
+          <caret line="46" column="17" selection-start-line="46" selection-start-column="17" selection-end-line="46" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/tree/base/TreeHelper.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="567">
+        <state relative-caret-position="2160">
           <caret line="80" column="47" lean-forward="true" selection-start-line="80" selection-start-column="47" selection-end-line="80" selection-end-column="47" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../../../dnmp/www/localhost/ws_test.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="54">
+          <caret line="2" column="39" selection-start-line="2" selection-start-column="39" selection-end-line="2" selection-end-column="39" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../../../dnmp/www/localhost/Workerman/Autoloader.php">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tree/deep_tree_iteration.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="81">
+          <caret line="3" column="23" lean-forward="true" selection-start-line="3" selection-start-column="23" selection-end-line="3" selection-end-column="23" />
         </state>
       </provider>
     </entry>
@@ -546,10 +533,31 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/tree/tree_path_sum.php">
+    <entry file="jar://$APPLICATION_HOME_DIR$/plugins/php/lib/php.jar!/stubs/standard/standard_8.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-297">
-          <caret line="13" column="28" lean-forward="true" selection-start-line="13" selection-start-column="28" selection-end-line="13" selection-end-column="28" />
+        <state relative-caret-position="552">
+          <caret line="1053" column="9" selection-start-line="1053" selection-start-column="9" selection-end-line="1053" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/base/AlgorithmBase.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="54">
+          <caret line="2" column="15" selection-start-line="2" selection-start-column="15" selection-end-line="2" selection-end-column="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/maxProfit.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="108">
+          <caret line="4" column="46" lean-forward="true" selection-start-line="4" selection-start-column="46" selection-end-line="4" selection-end-column="46" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/linked_list/merge_two_list.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="513">
+          <caret line="118" column="1" lean-forward="true" selection-start-line="118" selection-start-column="1" selection-end-line="118" selection-end-column="1" />
         </state>
       </provider>
     </entry>
