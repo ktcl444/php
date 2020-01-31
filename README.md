@@ -28,6 +28,8 @@
 
 [反转链表-迭代+递归](https://github.com/ktcl444/php/blob/master/algorithm/reverse_list.php)
 
+[相交链表-遍历(冒泡+hash)+双指针](https://github.com/ktcl444/php/blob/master/algorithm/get_intersection_node.php)
+
 ### 其他
 
 [成对括号](https://github.com/ktcl444/php/blob/master/algorithm/brackets.php)
