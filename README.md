@@ -2,33 +2,33 @@
 ## 算法
 ### 树
 
-[翻转树-递归](https://github.com/ktcl444/php/blob/master/algorithm/flip_tree_iteration.php)
+[翻转树-递归](https://github.com/ktcl444/php/blob/master/algorithm/tree/flip_tree_iteration.php)
 
-[翻转树-迭代](https://github.com/ktcl444/php/blob/master/algorithm/flip_tree_recursion.php)
+[翻转树-迭代](https://github.com/ktcl444/php/blob/master/algorithm/tree/flip_tree_recursion.php)
 
-[相加树-递归](https://github.com/ktcl444/php/blob/master/algorithm/add_tree_iteration.php)
+[相加树-递归](https://github.com/ktcl444/php/blob/master/algorithm/tree/add_tree_iteration.php)
 
-[相加树-迭代](https://github.com/ktcl444/php/blob/master/algorithm/add_tree_recursion.php)
+[相加树-迭代](https://github.com/ktcl444/php/blob/master/algorithm/tree/add_tree_recursion.php)
 
-[树深度-迭代](https://github.com/ktcl444/php/blob/master/algorithm/deep_tree_iteration.php)
+[树深度-迭代](https://github.com/ktcl444/php/blob/master/algorithm/tree/deep_tree_iteration.php)
 
-[二叉树转累加树-递归+地带)](https://github.com/ktcl444/php/blob/master/algorithm/convert_bst.php)
+[二叉树转累加树-递归+地带)](https://github.com/ktcl444/php/blob/master/tree/algorithm/convert_bst.php)
 
-[树路径总和-递归(保存路径节点/差等判断)+原地修改(乘以-1))](https://github.com/ktcl444/php/blob/master/algorithm/tree_path_sum.php)
+[树路径总和-递归(保存路径节点/差等判断)+原地修改(乘以-1))](https://github.com/ktcl444/php/blob/master/algorithm/tree/tree_path_sum.php)
 
 ### 链表
 
-[两数相加-逆序](https://github.com/ktcl444/php/blob/master/algorithm/add_two_number_desc.php)
+[两数相加-逆序](https://github.com/ktcl444/php/blob/master/algorithm/linked_list/add_two_number_desc.php)
 
-[两数相加-正序-递归](https://github.com/ktcl444/php/blob/master/algorithm/add_two_number_asc_recursion.php)
+[两数相加-正序-递归](https://github.com/ktcl444/php/blob/master/algorithm/linked_list/add_two_number_asc_recursion.php)
 
-[两数相加-正序-两个栈](https://github.com/ktcl444/php/blob/master/algorithm/add_two_number_asc_stack.php)
+[两数相加-正序-两个栈](https://github.com/ktcl444/php/blob/master/algorithm/linked_list/add_two_number_asc_stack.php)
 
-[合并有序链表-递归+迭代+转换数组+同时遍历](https://github.com/ktcl444/php/blob/master/algorithm/merge_two_list.php)
+[合并有序链表-递归+迭代+转换数组+同时遍历](https://github.com/ktcl444/php/blob/master/algorithm/linked_list/merge_two_list.php)
 
-[反转链表-迭代+递归](https://github.com/ktcl444/php/blob/master/algorithm/reverse_list.php)
+[反转链表-迭代+递归](https://github.com/ktcl444/php/blob/master/algorithm/linked_list/reverse_list.php)
 
-[相交链表-遍历(冒泡+hash)+双指针](https://github.com/ktcl444/php/blob/master/algorithm/get_intersection_node.php)
+[相交链表-遍历(冒泡+hash)+双指针](https://github.com/ktcl444/php/blob/master/algorithm/linked_list/get_intersection_node.php)
 
 ### 其他
 
@@ -63,4 +63,6 @@
 [查找缺失的数字-遍历(array查找/hash查找)+原地修改(乘以-1))](https://github.com/ktcl444/php/blob/master/algorithm/find_disppeared_nums.php)
 
 [买卖股票的最佳时机-冒泡+遍历(寻找波峰波谷))](https://github.com/ktcl444/php/blob/master/algorithm/maxProfit.php)
+
+[最小栈-辅助栈+辅助链表(bad)](https://github.com/ktcl444/php/blob/master/algorithm/min_stack.php)
 

@@ -2,10 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="4a9ab226-9f54-4013-9f57-6a9f777b9224" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/linked_list/test.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/min_stack.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/linked_list/add_two_number_asc_stack.php" beforeDir="false" afterPath="$PROJECT_DIR$/linked_list/add_two_number_asc_stack.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/linked_list/base/LinkedListAlgorithmBase.php" beforeDir="false" afterPath="$PROJECT_DIR$/linked_list/base/LinkedListAlgorithmBase.php" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -15,38 +13,20 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/linked_list/add_two_number_asc_stack.php">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-108">
-              <caret line="5" column="51" lean-forward="true" selection-start-line="5" selection-start-column="23" selection-end-line="5" selection-end-column="51" />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/linked_list/test.php">
+        <entry file="file://$PROJECT_DIR$/min_stack.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="324">
-              <caret line="48" selection-start-line="48" selection-end-line="54" selection-end-column="24" />
+            <state relative-caret-position="-999">
+              <caret line="59" column="16" selection-start-line="59" selection-start-column="16" selection-end-line="59" selection-end-column="16" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/linked_list/base/LinkedListAlgorithmBase.php">
+        <entry file="jar://$APPLICATION_HOME_DIR$/plugins/php/lib/php.jar!/stubs/standard/standard_8.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="540">
-              <caret line="23" column="18" selection-start-line="23" selection-start-column="18" selection-end-line="23" selection-end-column="18" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/linked_list/base/ListNode.php">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="162">
-              <caret line="6" column="11" selection-start-line="6" selection-start-column="11" selection-end-line="6" selection-end-column="11" />
+            <state relative-caret-position="395">
+              <caret line="1026" column="9" selection-start-line="1026" selection-start-column="9" selection-end-line="1026" selection-end-column="9" />
             </state>
           </provider>
         </entry>
@@ -54,17 +34,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/linked_list/add_two_number_desc.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="378">
-              <caret line="35" selection-start-line="35" selection-end-line="37" selection-end-column="47" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/linked_list/add_two_number_asc_recursion.php">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="81">
-              <caret line="3" column="6" selection-start-line="3" selection-start-column="6" selection-end-line="3" selection-end-column="6" />
+            <state relative-caret-position="243">
+              <caret line="18" column="66" selection-start-line="18" selection-start-column="30" selection-end-line="18" selection-end-column="66" />
             </state>
           </provider>
         </entry>
@@ -80,11 +51,13 @@
       <find>$inode</find>
       <find>TreeNode</find>
       <find>ListNode</find>
+      <find>.</find>
     </findStrings>
     <replaceStrings>
       <replace>&gt;</replace>
       <replace>&lt;</replace>
       <replace>\algorithm\linked_list\base\ListNode</replace>
+      <replace>-&gt;</replace>
     </replaceStrings>
     <dirStrings>
       <dir>D:\code\PHP\git\php\algorithm</dir>
@@ -96,7 +69,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/reward.php" />
         <option value="$PROJECT_DIR$/ysfh.php" />
         <option value="$PROJECT_DIR$/../../../dnmp/www/localhost/test.php" />
         <option value="$PROJECT_DIR$/test.php" />
@@ -147,6 +119,7 @@
         <option value="$PROJECT_DIR$/linked_list/add_two_number_asc_stack.php" />
         <option value="$PROJECT_DIR$/linked_list/base/LinkedListAlgorithmBase.php" />
         <option value="$PROJECT_DIR$/linked_list/test.php" />
+        <option value="$PROJECT_DIR$/min_stack.php" />
       </list>
     </option>
   </component>
@@ -165,7 +138,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -177,11 +149,6 @@
               <item name="algorithm" type="b2602c69:ProjectViewProjectNode" />
               <item name="algorithm" type="462c0819:PsiDirectoryNode" />
               <item name="linked_list" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="algorithm" type="b2602c69:ProjectViewProjectNode" />
-              <item name="algorithm" type="462c0819:PsiDirectoryNode" />
-              <item name="tree" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="algorithm" type="b2602c69:ProjectViewProjectNode" />
@@ -200,6 +167,7 @@
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -208,6 +176,7 @@
     <property name="last_opened_file_path" value="$PROJECT_DIR$/base" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="nodejs_package_manager_path" value="npm" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
@@ -233,7 +202,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="PHP Script.get_intersection_node.php">
+  <component name="RunManager" selected="PHP Script.min_stack.php">
     <configuration name="add_two_number_asc_stack.php" type="PhpLocalRunConfigurationType" factoryName="PHP Console" temporary="true" path="$PROJECT_DIR$/linked_list/add_two_number_asc_stack.php">
       <method v="2" />
     </configuration>
@@ -246,16 +215,16 @@
     <configuration name="merge_two_list.php" type="PhpLocalRunConfigurationType" factoryName="PHP Console" temporary="true" path="$PROJECT_DIR$/linked_list/merge_two_list.php">
       <method v="2" />
     </configuration>
-    <configuration name="tree_path_sum.php" type="PhpLocalRunConfigurationType" factoryName="PHP Console" temporary="true" path="$PROJECT_DIR$/tree/tree_path_sum.php">
+    <configuration name="min_stack.php" type="PhpLocalRunConfigurationType" factoryName="PHP Console" temporary="true" path="$PROJECT_DIR$/min_stack.php">
       <method v="2" />
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="PHP Script.min_stack.php" />
         <item itemvalue="PHP Script.get_intersection_node.php" />
         <item itemvalue="PHP Script.add_two_number_asc_stack.php" />
         <item itemvalue="PHP Script.merge_two_list.php" />
         <item itemvalue="PHP Script.maxProfit.php" />
-        <item itemvalue="PHP Script.tree_path_sum.php" />
       </list>
     </recent_temporary>
   </component>
@@ -281,18 +250,19 @@
       <workItem from="1580091940664" duration="2576000" />
       <workItem from="1580176937111" duration="17448000" />
       <workItem from="1580262332307" duration="4120000" />
-      <workItem from="1580461755932" duration="2854000" />
+      <workItem from="1580461755932" duration="3346000" />
+      <workItem from="1580524351577" duration="3312000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="53523000" />
+    <option name="totallyTimeSpent" value="57327000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1721" height="935" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.21346964" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.21587493" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -334,6 +304,11 @@
           <line>31</line>
           <option name="timeStamp" value="5" />
         </line-breakpoint>
+        <line-breakpoint enabled="true" type="php">
+          <url>file://$PROJECT_DIR$/min_stack.php</url>
+          <line>107</line>
+          <option name="timeStamp" value="8" />
+        </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
   </component>
@@ -374,13 +349,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="918">
           <caret line="34" column="18" selection-start-line="34" selection-start-column="18" selection-end-line="34" selection-end-column="18" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/move_zeros.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="486">
-          <caret line="18" selection-start-line="18" selection-end-line="18" selection-end-column="20" />
         </state>
       </provider>
     </entry>
@@ -522,13 +490,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="jar://$APPLICATION_HOME_DIR$/plugins/php/lib/php.jar!/stubs/standard/standard_8.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="28431">
-          <caret line="1053" column="9" selection-start-line="1053" selection-start-column="9" selection-end-line="1053" selection-end-column="9" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/linked_list/merge_two_list.php">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="514">
@@ -543,17 +504,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/linked_list/add_two_number_desc.php">
+    <entry file="file://$PROJECT_DIR$/linked_list/add_two_number_asc_stack.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="378">
-          <caret line="35" selection-start-line="35" selection-end-line="37" selection-end-column="47" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/linked_list/add_two_number_asc_recursion.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="81">
-          <caret line="3" column="6" selection-start-line="3" selection-start-column="6" selection-end-line="3" selection-end-column="6" />
+        <state relative-caret-position="135">
+          <caret line="5" column="51" selection-start-line="5" selection-start-column="23" selection-end-line="5" selection-end-column="51" />
         </state>
       </provider>
     </entry>
@@ -564,24 +518,52 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/linked_list/add_two_number_asc_stack.php">
+    <entry file="file://$PROJECT_DIR$/linked_list/get_intersection_node.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-108">
-          <caret line="5" column="51" lean-forward="true" selection-start-line="5" selection-start-column="23" selection-end-line="5" selection-end-column="51" />
+        <state relative-caret-position="109">
+          <caret line="58" column="28" selection-start-line="58" selection-start-column="28" selection-end-line="58" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/move_zeros.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="486">
+          <caret line="18" selection-start-line="18" selection-end-line="18" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/linked_list/add_two_number_asc_recursion.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="81">
+          <caret line="3" column="6" selection-start-line="3" selection-start-column="6" selection-end-line="3" selection-end-column="6" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/linked_list/base/LinkedListAlgorithmBase.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="540">
-          <caret line="23" column="18" selection-start-line="23" selection-start-column="18" selection-end-line="23" selection-end-column="18" />
+        <state relative-caret-position="197">
+          <caret line="8" selection-start-line="8" selection-end-line="8" selection-end-column="55" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/linked_list/test.php">
+    <entry file="file://$PROJECT_DIR$/linked_list/add_two_number_desc.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="324">
-          <caret line="48" selection-start-line="48" selection-end-line="54" selection-end-column="24" />
+        <state relative-caret-position="243">
+          <caret line="18" column="66" selection-start-line="18" selection-start-column="30" selection-end-line="18" selection-end-column="66" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$APPLICATION_HOME_DIR$/plugins/php/lib/php.jar!/stubs/standard/standard_8.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="395">
+          <caret line="1026" column="9" selection-start-line="1026" selection-start-column="9" selection-end-line="1026" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/min_stack.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-999">
+          <caret line="59" column="16" selection-start-line="59" selection-start-column="16" selection-end-line="59" selection-end-column="16" />
         </state>
       </provider>
     </entry>
