@@ -66,3 +66,5 @@
 
 [最小栈-辅助栈+辅助链表(bad)](https://github.com/ktcl444/php/blob/master/algorithm/min_stack.php)
 
+[最大子序和-贪心+动态规划(滑动窗口)+分治](https://github.com/ktcl444/php/blob/master/algorithm/max_sub_array.php)
+
