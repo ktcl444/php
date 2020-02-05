@@ -16,6 +16,8 @@
 
 [树路径总和-递归(保存路径节点/差等判断)+原地修改(乘以-1))](https://github.com/ktcl444/php/blob/master/algorithm/tree/tree_path_sum.php)
 
+[二叉树直径-迭代+深度遍历)](https://github.com/ktcl444/php/blob/master/tree/algorithm/diameter_of_binary_tree.php)
+
 ### 链表
 
 [两数相加-逆序](https://github.com/ktcl444/php/blob/master/algorithm/linked_list/add_two_number_desc.php)
