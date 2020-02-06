@@ -10,9 +10,9 @@ require_once __DIR__ . '\..\..\base\AlgorithmBase.php';
 
 abstract class LinkedListAlgorithmBase extends \algorithm\base\AlgorithmBase
 {
-    public static function convertArrayToLinkedList($array)
+    public static function convertArrayToLinkedList($array, $end_index = -1)
     {
-        return ListHelper::convertArrayToLinkedList($array);
+        return ListHelper::convertArrayToLinkedList($array, $end_index);
     }
 
     public static function connectTwoList(ListNode $a, ListNode $b)

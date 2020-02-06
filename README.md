@@ -32,6 +32,8 @@
 
 [相交链表-遍历(冒泡+hash)+双指针](https://github.com/ktcl444/php/blob/master/algorithm/linked_list/get_intersection_node.php)
 
+[环形链表-hash+双指针](https://github.com/ktcl444/php/blob/master/algorithm/linked_list/has_cycle.php)
+
 ### 其他
 
 [成对括号](https://github.com/ktcl444/php/blob/master/algorithm/brackets.php)
