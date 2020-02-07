@@ -74,3 +74,5 @@
 
 [爬楼梯-递归+动态规划](https://github.com/ktcl444/php/blob/master/algorithm/climb_stairs.php)
 
+[打家劫舍-动态规划](https://github.com/ktcl444/php/blob/master/algorithm/rob.php)
+
