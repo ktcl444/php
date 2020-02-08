@@ -1,28 +1,43 @@
 <?php
-const brackets = [']' => '[', ')' => '(', '}' => '{'];
-function check_brackets($str)
+require_once 'base\AlgorithmBase.php';
+
+class Solution extends \algorithm\base\AlgorithmBase
 {
-    $left_brackets = array_values(brackets);
-    $right_brackets = array_keys(brackets);
-    $str_len = strlen($str);
-    $temp = [];
-    $brackets = [];
-    $has_left_bracket = false;
-    for ($i = 0; $i < $str_len; $i++) {
-        $char = $str[$i];
-        if (in_array($char, $left_brackets)) {
-            array_push($temp, array($char, $i));
-            $has_left_bracket = true;
-        } else if (in_array($char, $right_brackets) && ($temp && brackets[$char] == end($temp)[0])) {
-            $brackets[] = array(end($temp)[1] . ' : ' . brackets[$char], "$i : " . $char);
-            array_pop($temp);
+    private $brackets = [']' => '[', ')' => '(', '}' => '{'];
+
+    public function isValid($str)
+    {
+        if (empty($str)) return true;
+        $str_len = strlen($str);
+        $temp = [];
+//        $brackets = [];
+        for ($i = 0; $i < $str_len; $i++) {
+            $char = $str[$i];
+
+            if (array_key_exists($char, $this->brackets)) {
+                $top_bracket = empty($temp) ? '' : array_pop($temp);
+                if ($this->brackets[$char] != $top_bracket) {
+                    return false;
+                }
+//                if ($temp && $this->brackets[$char] == end($temp)[0]) {
+//                    $brackets[] = array(end($temp)[1] . ' : ' . $this->brackets[$char], "$i : " . $char);
+//                    array_pop($temp);
+//                } else {
+//                    return false;
+//                }
+            } else {
+                array_push($temp, $char);
+//                array_push($temp, array($char, $i));
+            }
         }
+        return empty($temp);
     }
-    $result = empty($temp) && $has_left_bracket;
-    return $result;
+
+    function test()
+    {
+        echo ($this->isValid('()') ? 'yes' : 'no') . PHP_EOL;
+        echo ($this->isValid('([)') ? 'yes' : 'no') . PHP_EOL;
+    }
 }
 
-//$str = '[](({[]}))';
-$str = '[]';
-echo check_brackets($str) ? 'yes' : 'no';
-?>
+(new Solution())->test();
