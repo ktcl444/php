@@ -2,8 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="4a9ab226-9f54-4013-9f57-6a9f777b9224" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/linked_list/is_palindrome.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/brackets.php" beforeDir="false" afterPath="$PROJECT_DIR$/brackets.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/linked_list/reverse_list.php" beforeDir="false" afterPath="$PROJECT_DIR$/linked_list/reverse_list.php" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -16,76 +17,35 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/linked_list/has_cycle.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1053">
-              <caret line="39" selection-start-line="39" selection-end-line="39" />
+            <state relative-caret-position="81">
+              <caret line="3" selection-start-line="3" selection-end-line="8" selection-end-column="74" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/rob.php">
+        <entry file="file://$PROJECT_DIR$/linked_list/is_palindrome.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="324">
-              <caret line="17" selection-start-line="17" selection-end-line="17" />
+            <state relative-caret-position="1809">
+              <caret line="72" column="5" selection-start-line="72" selection-start-column="5" selection-end-line="72" selection-end-column="5" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/brackets.php">
+        <entry file="file://$PROJECT_DIR$/linked_list/reverse_list.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="378">
-              <caret line="32" column="28" lean-forward="true" selection-start-line="32" selection-start-column="28" selection-end-line="32" selection-end-column="28" />
+            <state relative-caret-position="297">
+              <caret line="76" column="26" selection-start-line="76" selection-start-column="26" selection-end-line="76" selection-end-column="26" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/tree/tree_path_sum.php">
+        <entry file="jar://$APPLICATION_HOME_DIR$/plugins/php/lib/php.jar!/stubs/standard/standard_8.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="135">
-              <caret line="5" column="6" selection-start-line="5" selection-start-column="6" selection-end-line="5" selection-end-column="6" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/climb_stairs.php">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="27">
-              <caret line="1" selection-start-line="1" selection-end-line="3" selection-end-column="52" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/single_number.php">
-          <provider selected="true" editor-type-id="text-editor" />
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/max_sub_array.php">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="27">
-              <caret line="1" selection-start-line="1" selection-end-line="3" selection-end-column="52" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/linked_list/base/LinkedListAlgorithmBase.php">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="378">
-              <caret line="14" column="44" selection-start-line="14" selection-start-column="44" selection-end-line="14" selection-end-column="44" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/linked_list/base/ListHelper.php">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="459">
-              <caret line="17" selection-start-line="17" selection-end-line="17" />
+            <state relative-caret-position="476">
+              <caret line="1039" column="9" selection-start-line="1039" selection-start-column="9" selection-end-line="1039" selection-end-column="9" />
             </state>
           </provider>
         </entry>
@@ -120,7 +80,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/tree_path_sum.php" />
         <option value="$PROJECT_DIR$/TreeNode.php" />
         <option value="$PROJECT_DIR$/AlgorithmBase.php" />
         <option value="$PROJECT_DIR$/add_tree_iteration.php" />
@@ -149,7 +108,6 @@
         <option value="$PROJECT_DIR$/linked_list/LinkedListAlgorithmBase.php" />
         <option value="$PROJECT_DIR$/linked_list/base/ListNode.php" />
         <option value="$PROJECT_DIR$/linked_list/add_two_number_asc_recursion.php" />
-        <option value="$PROJECT_DIR$/linked_list/reverse_list.php" />
         <option value="$PROJECT_DIR$/linked_list/add_two_number_desc.php" />
         <option value="$PROJECT_DIR$/linked_list/merge_two_list.php" />
         <option value="$PROJECT_DIR$/tree/deep_tree_iteration.php" />
@@ -171,6 +129,8 @@
         <option value="$PROJECT_DIR$/linked_list/has_cycle.php" />
         <option value="$PROJECT_DIR$/rob.php" />
         <option value="$PROJECT_DIR$/brackets.php" />
+        <option value="$PROJECT_DIR$/linked_list/is_palindrome.php" />
+        <option value="$PROJECT_DIR$/linked_list/reverse_list.php" />
       </list>
     </option>
   </component>
@@ -259,17 +219,17 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="PHP Script.brackets.php">
+  <component name="RunManager" selected="PHP Script.reverse_list.php">
     <configuration name="brackets.php" type="PhpLocalRunConfigurationType" factoryName="PHP Console" temporary="true" path="$PROJECT_DIR$/brackets.php">
       <method v="2" />
     </configuration>
-    <configuration name="climb_stairs.php" type="PhpLocalRunConfigurationType" factoryName="PHP Console" temporary="true" path="$PROJECT_DIR$/climb_stairs.php">
-      <method v="2" />
-    </configuration>
-    <configuration name="diameter_of_binary_tree.php" type="PhpLocalRunConfigurationType" factoryName="PHP Console" temporary="true" path="$PROJECT_DIR$/tree/diameter_of_binary_tree.php">
-      <method v="2" />
-    </configuration>
     <configuration name="has_cycle.php" type="PhpLocalRunConfigurationType" factoryName="PHP Console" temporary="true" path="$PROJECT_DIR$/linked_list/has_cycle.php">
+      <method v="2" />
+    </configuration>
+    <configuration name="is_palindrome.php" type="PhpLocalRunConfigurationType" factoryName="PHP Console" temporary="true" path="$PROJECT_DIR$/linked_list/is_palindrome.php">
+      <method v="2" />
+    </configuration>
+    <configuration name="reverse_list.php" type="PhpLocalRunConfigurationType" factoryName="PHP Console" temporary="true" path="$PROJECT_DIR$/linked_list/reverse_list.php">
       <method v="2" />
     </configuration>
     <configuration name="rob.php" type="PhpLocalRunConfigurationType" factoryName="PHP Console" temporary="true" path="$PROJECT_DIR$/rob.php">
@@ -277,11 +237,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="PHP Script.reverse_list.php" />
+        <item itemvalue="PHP Script.is_palindrome.php" />
         <item itemvalue="PHP Script.brackets.php" />
         <item itemvalue="PHP Script.rob.php" />
         <item itemvalue="PHP Script.has_cycle.php" />
-        <item itemvalue="PHP Script.diameter_of_binary_tree.php" />
-        <item itemvalue="PHP Script.climb_stairs.php" />
       </list>
     </recent_temporary>
   </component>
@@ -315,23 +275,24 @@
       <workItem from="1580873703959" duration="2667000" />
       <workItem from="1580955225795" duration="1976000" />
       <workItem from="1581042498109" duration="2282000" />
-      <workItem from="1581127280717" duration="1694000" />
+      <workItem from="1581127280717" duration="1760000" />
+      <workItem from="1581211854429" duration="2751000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="76495000" />
+    <option name="totallyTimeSpent" value="79312000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1721" height="935" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.23391461" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.23692122" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.32991013" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.32991013" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.32991013" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.3992298" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -456,13 +417,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/linked_list/reverse_list.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="364">
-          <caret line="71" column="19" lean-forward="true" selection-start-line="71" selection-start-column="19" selection-end-line="71" selection-end-column="19" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/array_filter_repeate.php">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
@@ -536,13 +490,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="676">
           <caret line="102" column="44" selection-start-line="102" selection-start-column="44" selection-end-line="102" selection-end-column="44" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$APPLICATION_HOME_DIR$/plugins/php/lib/php.jar!/stubs/standard/standard_8.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="27702">
-          <caret line="1026" column="9" selection-start-line="1026" selection-start-column="9" selection-end-line="1026" selection-end-column="9" />
         </state>
       </provider>
     </entry>
@@ -623,10 +570,24 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/linked_list/has_cycle.php">
+    <entry file="file://$PROJECT_DIR$/rob.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1053">
-          <caret line="39" selection-start-line="39" selection-end-line="39" />
+        <state relative-caret-position="459">
+          <caret line="17" selection-start-line="17" selection-end-line="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tree/tree_path_sum.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="5" column="6" selection-start-line="5" selection-start-column="6" selection-end-line="5" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/climb_stairs.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="27">
+          <caret line="1" selection-start-line="1" selection-end-line="3" selection-end-column="52" />
         </state>
       </provider>
     </entry>
@@ -654,31 +615,38 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/rob.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="324">
-          <caret line="17" selection-start-line="17" selection-end-line="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/tree/tree_path_sum.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="135">
-          <caret line="5" column="6" selection-start-line="5" selection-start-column="6" selection-end-line="5" selection-end-column="6" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/climb_stairs.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="27">
-          <caret line="1" selection-start-line="1" selection-end-line="3" selection-end-column="52" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/brackets.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="378">
-          <caret line="32" column="28" lean-forward="true" selection-start-line="32" selection-start-column="28" selection-end-line="32" selection-end-column="28" />
+        <state relative-caret-position="459">
+          <caret line="17" column="42" selection-start-line="17" selection-start-column="42" selection-end-line="17" selection-end-column="42" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/linked_list/has_cycle.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="81">
+          <caret line="3" selection-start-line="3" selection-end-line="8" selection-end-column="74" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$APPLICATION_HOME_DIR$/plugins/php/lib/php.jar!/stubs/standard/standard_8.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="476">
+          <caret line="1039" column="9" selection-start-line="1039" selection-start-column="9" selection-end-line="1039" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/linked_list/is_palindrome.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1809">
+          <caret line="72" column="5" selection-start-line="72" selection-start-column="5" selection-end-line="72" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/linked_list/reverse_list.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="297">
+          <caret line="76" column="26" selection-start-line="76" selection-start-column="26" selection-end-line="76" selection-end-column="26" />
         </state>
       </provider>
     </entry>

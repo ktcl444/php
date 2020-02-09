@@ -34,6 +34,8 @@
 
 [环形链表-hash+双指针](https://github.com/ktcl444/php/blob/master/algorithm/linked_list/has_cycle.php)
 
+[回文链表-数组遍历+反转](https://github.com/ktcl444/php/blob/master/algorithm/linked_list/is_palindrome.php)
+
 ### 其他
 
 [成对括号](https://github.com/ktcl444/php/blob/master/algorithm/brackets.php)
