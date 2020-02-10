@@ -78,3 +78,7 @@
 
 [打家劫舍-动态规划](https://github.com/ktcl444/php/blob/master/algorithm/rob.php)
 
+[最短无序连续子数组-双指针(交换/不交换)](https://github.com/ktcl444/php/blob/master/algorithm/find_unsorted_subarray.php)
+
+
+
