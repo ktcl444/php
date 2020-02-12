@@ -82,5 +82,7 @@
 
 [所有子集-递归+迭代](https://github.com/ktcl444/php/blob/master/algorithm/sub_set.php)
 
+[比特位计数-遍历+动态规划(最后设置位)](https://github.com/ktcl444/php/blob/master/algorithm/count_bits.php)
+
 
 

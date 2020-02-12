@@ -2,8 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="4a9ab226-9f54-4013-9f57-6a9f777b9224" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/sub_set.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/count_bits.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/single_number.php" beforeDir="false" afterPath="$PROJECT_DIR$/single_number.php" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -13,11 +14,38 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/sub_set.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="581">
-              <caret line="23" column="8" selection-start-line="23" selection-start-column="8" selection-end-line="23" selection-end-column="8" />
+            <state relative-caret-position="445">
+              <caret line="17" column="45" selection-start-line="17" selection-start-column="45" selection-end-line="17" selection-end-column="45" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/single_number.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1161">
+              <caret line="50" selection-start-line="50" selection-end-line="50" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/count_bits.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="540">
+              <caret line="20" column="18" lean-forward="true" selection-start-line="20" selection-start-column="18" selection-end-line="20" selection-end-column="18" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/rob.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state>
+              <caret selection-end-line="4" selection-end-column="52" />
             </state>
           </provider>
         </entry>
@@ -119,8 +147,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/add_tree_iteration.php" />
-        <option value="$PROJECT_DIR$/TreeAlgorithmBase.php" />
         <option value="$PROJECT_DIR$/add_tree_recursion.php" />
         <option value="$PROJECT_DIR$/TreeHelper.php" />
         <option value="$PROJECT_DIR$/flip_tree_recursion_tet.php" />
@@ -170,6 +196,8 @@
         <option value="$PROJECT_DIR$/linked_list/reverse_list.php" />
         <option value="$PROJECT_DIR$/find_unsorted_subarray.php" />
         <option value="$PROJECT_DIR$/sub_set.php" />
+        <option value="$PROJECT_DIR$/single_number.php" />
+        <option value="$PROJECT_DIR$/count_bits.php" />
       </list>
     </option>
   </component>
@@ -188,6 +216,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -222,7 +251,6 @@
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -258,17 +286,17 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="PHP Script.sub_set.php">
-    <configuration name="brackets.php" type="PhpLocalRunConfigurationType" factoryName="PHP Console" temporary="true" path="$PROJECT_DIR$/brackets.php">
+  <component name="RunManager" selected="PHP Script.count_bits.php">
+    <configuration name="count_bits.php" type="PhpLocalRunConfigurationType" factoryName="PHP Console" temporary="true" path="$PROJECT_DIR$/count_bits.php">
       <method v="2" />
     </configuration>
     <configuration name="find_unsorted_subarray.php" type="PhpLocalRunConfigurationType" factoryName="PHP Console" temporary="true" path="$PROJECT_DIR$/find_unsorted_subarray.php">
       <method v="2" />
     </configuration>
-    <configuration name="is_palindrome.php" type="PhpLocalRunConfigurationType" factoryName="PHP Console" temporary="true" path="$PROJECT_DIR$/linked_list/is_palindrome.php">
+    <configuration name="reverse_list.php" type="PhpLocalRunConfigurationType" factoryName="PHP Console" temporary="true" path="$PROJECT_DIR$/linked_list/reverse_list.php">
       <method v="2" />
     </configuration>
-    <configuration name="reverse_list.php" type="PhpLocalRunConfigurationType" factoryName="PHP Console" temporary="true" path="$PROJECT_DIR$/linked_list/reverse_list.php">
+    <configuration name="single_number.php" type="PhpLocalRunConfigurationType" factoryName="PHP Console" temporary="true" path="$PROJECT_DIR$/single_number.php">
       <method v="2" />
     </configuration>
     <configuration name="sub_set.php" type="PhpLocalRunConfigurationType" factoryName="PHP Console" temporary="true" path="$PROJECT_DIR$/sub_set.php">
@@ -276,11 +304,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="PHP Script.count_bits.php" />
+        <item itemvalue="PHP Script.single_number.php" />
         <item itemvalue="PHP Script.sub_set.php" />
         <item itemvalue="PHP Script.find_unsorted_subarray.php" />
         <item itemvalue="PHP Script.reverse_list.php" />
-        <item itemvalue="PHP Script.is_palindrome.php" />
-        <item itemvalue="PHP Script.brackets.php" />
       </list>
     </recent_temporary>
   </component>
@@ -317,18 +345,19 @@
       <workItem from="1581127280717" duration="1760000" />
       <workItem from="1581211854429" duration="2943000" />
       <workItem from="1581303834835" duration="6145000" />
-      <workItem from="1581388767935" duration="3669000" />
+      <workItem from="1581388767935" duration="4323000" />
+      <workItem from="1581474519142" duration="2940000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="89318000" />
+    <option name="totallyTimeSpent" value="92912000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1721" height="935" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.24293445" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.18340349" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -691,9 +720,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/single_number.php">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
     <entry file="file://$PROJECT_DIR$/max_sub_array.php">
       <provider selected="true" editor-type-id="text-editor">
         <state>
@@ -701,10 +727,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/rob.php">
+    <entry file="file://$PROJECT_DIR$/sub_set.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret selection-end-line="4" selection-end-column="52" />
+        <state relative-caret-position="445">
+          <caret line="17" column="45" selection-start-line="17" selection-start-column="45" selection-end-line="17" selection-end-column="45" />
         </state>
       </provider>
     </entry>
@@ -773,10 +799,24 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/sub_set.php">
+    <entry file="file://$PROJECT_DIR$/rob.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="581">
-          <caret line="23" column="8" selection-start-line="23" selection-start-column="8" selection-end-line="23" selection-end-column="8" />
+        <state>
+          <caret selection-end-line="4" selection-end-column="52" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/single_number.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1161">
+          <caret line="50" selection-start-line="50" selection-end-line="50" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/count_bits.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="540">
+          <caret line="20" column="18" lean-forward="true" selection-start-line="20" selection-start-column="18" selection-end-line="20" selection-end-column="18" />
         </state>
       </provider>
     </entry>
