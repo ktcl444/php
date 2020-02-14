@@ -2,8 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="4a9ab226-9f54-4013-9f57-6a9f777b9224" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/permute.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/generate_parenthesis.php" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -13,11 +12,38 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/permute.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="212">
-              <caret line="9" column="15" selection-start-line="9" selection-start-column="8" selection-end-line="9" selection-end-column="15" />
+            <state>
+              <caret selection-end-line="5" selection-end-column="1" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/generate_parenthesis.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="594">
+              <caret line="30" column="44" selection-start-line="30" selection-start-column="44" selection-end-line="30" selection-end-column="44" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="jar://$APPLICATION_HOME_DIR$/plugins/php/lib/php.jar!/stubs/standard/standard_1.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="656">
+              <caret line="591" column="9" selection-start-line="591" selection-start-column="9" selection-end-line="591" selection-end-column="9" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/brackets.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-81">
+              <caret line="3" column="6" selection-start-line="3" selection-start-column="6" selection-end-line="3" selection-end-column="6" />
             </state>
           </provider>
         </entry>
@@ -25,7 +51,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="jar://$APPLICATION_HOME_DIR$/plugins/php/lib/php.jar!/stubs/standard/standard_8.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="147">
+            <state relative-caret-position="6750">
               <caret line="1133" column="9" selection-start-line="1133" selection-start-column="9" selection-end-line="1133" selection-end-column="9" />
               <folding>
                 <element signature="e#8#1347#0#PHP" />
@@ -119,7 +145,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/TreeHelper.php" />
         <option value="$PROJECT_DIR$/flip_tree_recursion_tet.php" />
         <option value="$PROJECT_DIR$/flip_tree_iteration.php" />
         <option value="$PROJECT_DIR$/ListHelper.php" />
@@ -170,6 +195,7 @@
         <option value="$PROJECT_DIR$/single_number.php" />
         <option value="$PROJECT_DIR$/count_bits.php" />
         <option value="$PROJECT_DIR$/permute.php" />
+        <option value="$PROJECT_DIR$/generate_parenthesis.php" />
       </list>
     </option>
   </component>
@@ -188,6 +214,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -222,7 +249,6 @@
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -258,11 +284,11 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="PHP Script.permute.php">
+  <component name="RunManager" selected="PHP Script.generate_parenthesis.php">
     <configuration name="count_bits.php" type="PhpLocalRunConfigurationType" factoryName="PHP Console" temporary="true" path="$PROJECT_DIR$/count_bits.php">
       <method v="2" />
     </configuration>
-    <configuration name="find_unsorted_subarray.php" type="PhpLocalRunConfigurationType" factoryName="PHP Console" temporary="true" path="$PROJECT_DIR$/find_unsorted_subarray.php">
+    <configuration name="generate_parenthesis.php" type="PhpLocalRunConfigurationType" factoryName="PHP Console" temporary="true" path="$PROJECT_DIR$/generate_parenthesis.php">
       <method v="2" />
     </configuration>
     <configuration name="permute.php" type="PhpLocalRunConfigurationType" factoryName="PHP Console" temporary="true" path="$PROJECT_DIR$/permute.php">
@@ -276,11 +302,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="PHP Script.generate_parenthesis.php" />
         <item itemvalue="PHP Script.permute.php" />
         <item itemvalue="PHP Script.count_bits.php" />
         <item itemvalue="PHP Script.single_number.php" />
         <item itemvalue="PHP Script.sub_set.php" />
-        <item itemvalue="PHP Script.find_unsorted_subarray.php" />
       </list>
     </recent_temporary>
   </component>
@@ -320,22 +346,23 @@
       <workItem from="1581388767935" duration="4323000" />
       <workItem from="1581474519142" duration="3166000" />
       <workItem from="1581566230114" duration="1309000" />
+      <workItem from="1581645942320" duration="4348000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="94447000" />
+    <option name="totallyTimeSpent" value="98795000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1721" height="935" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.18580878" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.18821406" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.32991013" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.5686778" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.3889602" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.3992298" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -404,24 +431,8 @@
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
-    <watches-manager>
-      <configuration name="PhpLocalRunConfigurationType">
-        <watch expression="$i == $j ? $nums[$i] : $nums[$j]" />
-        <watch expression="self::$end_node" />
-        <watch expression="$nums" />
-        <watch expression="array_splice($sub_sets[$i], 0, 0, [$current])" />
-      </configuration>
-    </watches-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/ysfh.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="270">
-          <caret line="10" column="1" selection-start-line="10" selection-start-column="1" selection-end-line="10" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/test.php" />
     <entry file="file://$PROJECT_DIR$/../../../dnmp/www/localhost/index.php">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
@@ -663,13 +674,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/brackets.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="459">
-          <caret line="17" column="42" selection-start-line="17" selection-start-column="42" selection-end-line="17" selection-end-column="42" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/linked_list/has_cycle.php">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="81">
@@ -735,7 +739,7 @@
     </entry>
     <entry file="jar://$APPLICATION_HOME_DIR$/plugins/php/lib/php.jar!/stubs/standard/standard_8.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="147">
+        <state relative-caret-position="6750">
           <caret line="1133" column="9" selection-start-line="1133" selection-start-column="9" selection-end-line="1133" selection-end-column="9" />
           <folding>
             <element signature="e#8#1347#0#PHP" />
@@ -800,8 +804,29 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/permute.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="212">
-          <caret line="9" column="15" selection-start-line="9" selection-start-column="8" selection-end-line="9" selection-end-column="15" />
+        <state>
+          <caret selection-end-line="5" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/brackets.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-81">
+          <caret line="3" column="6" selection-start-line="3" selection-start-column="6" selection-end-line="3" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$APPLICATION_HOME_DIR$/plugins/php/lib/php.jar!/stubs/standard/standard_1.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="656">
+          <caret line="591" column="9" selection-start-line="591" selection-start-column="9" selection-end-line="591" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/generate_parenthesis.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="594">
+          <caret line="30" column="44" selection-start-line="30" selection-start-column="44" selection-end-line="30" selection-end-column="44" />
         </state>
       </provider>
     </entry>

@@ -40,6 +40,8 @@
 
 [成对括号](https://github.com/ktcl444/php/blob/master/algorithm/brackets.php)
 
+[括号生成-闭合包+回溯+递归(动态规划)](https://github.com/ktcl444/php/blob/master/algorithm/generate_parenthesis.php)
+
 [抽奖](https://github.com/ktcl444/php/blob/master/algorithm/reward.php)
 
 [约瑟夫环](https://github.com/ktcl444/php/blob/master/algorithm/ysfh.php)
@@ -85,3 +87,5 @@
 [比特位计数-遍历+动态规划(最后设置位)](https://github.com/ktcl444/php/blob/master/algorithm/count_bits.php)
 
 [全排列-递归](https://github.com/ktcl444/php/blob/master/algorithm/permute.php)
+
+
