@@ -18,6 +18,8 @@
 
 [二叉树直径-迭代+深度遍历)](https://github.com/ktcl444/php/blob/master/tree/algorithm/diameter_of_binary_tree.php)
 
+[二叉树中序遍历-递归+迭代+遍历(栈))](https://github.com/ktcl444/php/blob/master/tree/algorithm/inorder_traversal.php)
+
 ### 链表
 
 [两数相加-逆序](https://github.com/ktcl444/php/blob/master/algorithm/linked_list/add_two_number_desc.php)

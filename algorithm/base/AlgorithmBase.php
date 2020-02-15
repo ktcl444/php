@@ -1,4 +1,5 @@
 <?php
+
 namespace algorithm\base;
 abstract class AlgorithmBase
 {
