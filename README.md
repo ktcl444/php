@@ -90,4 +90,6 @@
 
 [全排列-递归](https://github.com/ktcl444/php/blob/master/algorithm/permute.php)
 
+[组合总和-递归+遍历](https://github.com/ktcl444/php/blob/master/algorithm/combination_sum.php)
+
 

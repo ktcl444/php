@@ -2,9 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="4a9ab226-9f54-4013-9f57-6a9f777b9224" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/tree/inorder_traversal.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/combination_sum.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/base/AlgorithmBase.php" beforeDir="false" afterPath="$PROJECT_DIR$/base/AlgorithmBase.php" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -15,37 +14,19 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/tree/inorder_traversal.php">
+        <entry file="file://$PROJECT_DIR$/combination_sum.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="266">
-              <caret line="78" column="22" lean-forward="true" selection-start-line="78" selection-start-column="22" selection-end-line="78" selection-end-column="22" />
+            <state relative-caret-position="432">
+              <caret line="19" column="29" lean-forward="true" selection-start-line="19" selection-start-column="29" selection-end-line="19" selection-end-column="29" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/tree/base/TreeAlgorithmBase.php">
+        <entry file="file://$PROJECT_DIR$/climb_stairs.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="162">
-              <caret line="6" column="63" lean-forward="true" selection-start-line="6" selection-start-column="63" selection-end-line="6" selection-end-column="63" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/base/AlgorithmBase.php">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="162">
-              <caret line="6" selection-start-line="6" selection-end-line="6" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/tree/base/TreeNode.php">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="81">
-              <caret line="3" column="6" selection-start-line="3" selection-start-column="6" selection-end-line="3" selection-end-column="6" />
+            <state>
+              <caret selection-end-line="3" selection-end-column="52" />
             </state>
           </provider>
         </entry>
@@ -53,8 +34,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="jar://$APPLICATION_HOME_DIR$/plugins/php/lib/php.jar!/stubs/standard/standard_8.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="103">
-              <caret line="1028" column="3" lean-forward="true" selection-start-line="1028" selection-start-column="3" selection-end-line="1028" selection-end-column="3" />
+            <state relative-caret-position="233">
+              <caret line="518" column="9" selection-start-line="518" selection-start-column="9" selection-end-line="518" selection-end-column="9" />
               <folding>
                 <element signature="e#8#1347#0#PHP" />
                 <element signature="e#1390#1572#0#PHP" />
@@ -84,7 +65,6 @@
                 <element signature="e#14097#14368#0#PHP" />
                 <element signature="e#14410#14816#0#PHP" />
                 <element signature="e#14872#15296#0#PHP" />
-                <element signature="e#15353#15820#0#PHP" />
                 <element signature="e#15875#16267#0#PHP" />
                 <element signature="e#16323#16835#0#PHP" />
                 <element signature="e#16886#17295#0#PHP" />
@@ -108,7 +88,6 @@
                 <element signature="e#29397#29762#0#PHP" />
                 <element signature="e#29814#30417#0#PHP" />
                 <element signature="e#30463#30988#0#PHP" />
-                <element signature="e#31069#31365#0#PHP" />
                 <element signature="e#31416#31733#0#PHP" />
                 <element signature="e#34116#35101#0#PHP" />
               </folding>
@@ -122,13 +101,14 @@
     <findStrings>
       <find>&amp;gt;</find>
       <find>&amp;lt;</find>
-      <find>$result</find>
       <find>*</find>
       <find>$inode</find>
       <find>TreeNode</find>
       <find>ListNode</find>
       <find>.</find>
       <find>brackets</find>
+      <find>$cur_array</find>
+      <find>$result</find>
     </findStrings>
     <replaceStrings>
       <replace>&gt;</replace>
@@ -146,7 +126,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/flip_tree_iteration.php" />
         <option value="$PROJECT_DIR$/ListHelper.php" />
         <option value="$PROJECT_DIR$/tree/TreeHelper.php" />
         <option value="$PROJECT_DIR$/tree/TreeNode.php" />
@@ -197,6 +176,7 @@
         <option value="$PROJECT_DIR$/generate_parenthesis.php" />
         <option value="$PROJECT_DIR$/base/AlgorithmBase.php" />
         <option value="$PROJECT_DIR$/tree/inorder_traversal.php" />
+        <option value="$PROJECT_DIR$/combination_sum.php" />
       </list>
     </option>
   </component>
@@ -215,6 +195,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -249,7 +230,6 @@
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -285,7 +265,10 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="PHP Script.inorder_traversal.php">
+  <component name="RunManager" selected="PHP Script.combination_sum.php">
+    <configuration name="combination_sum.php" type="PhpLocalRunConfigurationType" factoryName="PHP Console" temporary="true" path="$PROJECT_DIR$/combination_sum.php">
+      <method v="2" />
+    </configuration>
     <configuration name="count_bits.php" type="PhpLocalRunConfigurationType" factoryName="PHP Console" temporary="true" path="$PROJECT_DIR$/count_bits.php">
       <method v="2" />
     </configuration>
@@ -298,16 +281,13 @@
     <configuration name="permute.php" type="PhpLocalRunConfigurationType" factoryName="PHP Console" temporary="true" path="$PROJECT_DIR$/permute.php">
       <method v="2" />
     </configuration>
-    <configuration name="single_number.php" type="PhpLocalRunConfigurationType" factoryName="PHP Console" temporary="true" path="$PROJECT_DIR$/single_number.php">
-      <method v="2" />
-    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="PHP Script.combination_sum.php" />
         <item itemvalue="PHP Script.inorder_traversal.php" />
         <item itemvalue="PHP Script.generate_parenthesis.php" />
         <item itemvalue="PHP Script.permute.php" />
         <item itemvalue="PHP Script.count_bits.php" />
-        <item itemvalue="PHP Script.single_number.php" />
       </list>
     </recent_temporary>
   </component>
@@ -348,24 +328,24 @@
       <workItem from="1581474519142" duration="3166000" />
       <workItem from="1581566230114" duration="1309000" />
       <workItem from="1581645942320" duration="4466000" />
-      <workItem from="1581734999368" duration="5984000" />
+      <workItem from="1581734999368" duration="6159000" />
+      <workItem from="1581822009951" duration="4799000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="104897000" />
+    <option name="totallyTimeSpent" value="109871000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1721" height="935" extended-state="6" />
-    <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.19061936" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.19302465" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.32991013" />
       <window_info anchor="bottom" id="Run" order="2" weight="0.54043645" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.3992298" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.36842105" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
@@ -440,13 +420,6 @@
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/../../../dnmp/www/localhost/test.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="54">
-          <caret line="2" column="34" selection-start-line="2" selection-start-column="34" selection-end-line="2" selection-end-column="34" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$USER_HOME$/Desktop/redis高并发秒杀-candy/db.php">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="351">
@@ -584,13 +557,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="189">
           <caret line="7" selection-start-line="7" selection-end-line="7" selection-end-column="74" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/climb_stairs.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="27">
-          <caret line="1" selection-start-line="1" selection-end-line="3" selection-end-column="52" />
         </state>
       </provider>
     </entry>
@@ -748,6 +714,20 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/tree/base/TreeAlgorithmBase.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="162">
+          <caret line="6" column="63" selection-start-line="6" selection-start-column="63" selection-end-line="6" selection-end-column="63" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/base/AlgorithmBase.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="162">
+          <caret line="6" selection-start-line="6" selection-end-line="6" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/tree/base/TreeNode.php">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="81">
@@ -755,10 +735,24 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/tree/inorder_traversal.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="486">
+          <caret line="18" column="48" selection-start-line="18" selection-start-column="48" selection-end-line="18" selection-end-column="48" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/climb_stairs.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret selection-end-line="3" selection-end-column="52" />
+        </state>
+      </provider>
+    </entry>
     <entry file="jar://$APPLICATION_HOME_DIR$/plugins/php/lib/php.jar!/stubs/standard/standard_8.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="103">
-          <caret line="1028" column="3" lean-forward="true" selection-start-line="1028" selection-start-column="3" selection-end-line="1028" selection-end-column="3" />
+        <state relative-caret-position="233">
+          <caret line="518" column="9" selection-start-line="518" selection-start-column="9" selection-end-line="518" selection-end-column="9" />
           <folding>
             <element signature="e#8#1347#0#PHP" />
             <element signature="e#1390#1572#0#PHP" />
@@ -788,7 +782,6 @@
             <element signature="e#14097#14368#0#PHP" />
             <element signature="e#14410#14816#0#PHP" />
             <element signature="e#14872#15296#0#PHP" />
-            <element signature="e#15353#15820#0#PHP" />
             <element signature="e#15875#16267#0#PHP" />
             <element signature="e#16323#16835#0#PHP" />
             <element signature="e#16886#17295#0#PHP" />
@@ -812,31 +805,16 @@
             <element signature="e#29397#29762#0#PHP" />
             <element signature="e#29814#30417#0#PHP" />
             <element signature="e#30463#30988#0#PHP" />
-            <element signature="e#31069#31365#0#PHP" />
             <element signature="e#31416#31733#0#PHP" />
             <element signature="e#34116#35101#0#PHP" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/tree/base/TreeAlgorithmBase.php">
+    <entry file="file://$PROJECT_DIR$/combination_sum.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="162">
-          <caret line="6" column="63" lean-forward="true" selection-start-line="6" selection-start-column="63" selection-end-line="6" selection-end-column="63" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/base/AlgorithmBase.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="162">
-          <caret line="6" selection-start-line="6" selection-end-line="6" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/tree/inorder_traversal.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="266">
-          <caret line="78" column="22" lean-forward="true" selection-start-line="78" selection-start-column="22" selection-end-line="78" selection-end-column="22" />
+        <state relative-caret-position="432">
+          <caret line="19" column="29" lean-forward="true" selection-start-line="19" selection-start-column="29" selection-end-line="19" selection-end-column="29" />
         </state>
       </provider>
     </entry>
