@@ -20,6 +20,8 @@
 
 [二叉树中序遍历-递归+迭代+遍历(栈))](https://github.com/ktcl444/php/blob/master/tree/algorithm/inorder_traversal.php)
 
+[二叉树展开为链表形式-递归(后序遍历)+迭代(先序遍历))](https://github.com/ktcl444/php/blob/master/tree/algorithm/flatten.php)
+
 ### 链表
 
 [两数相加-逆序](https://github.com/ktcl444/php/blob/master/algorithm/linked_list/add_two_number_desc.php)
