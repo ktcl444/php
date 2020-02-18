@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="4a9ab226-9f54-4013-9f57-6a9f777b9224" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/tree/flatten.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/rotate.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -14,110 +14,33 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/tree/flatten.php">
+        <entry file="file://$PROJECT_DIR$/rotate.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-594">
-              <caret line="5" selection-start-line="5" selection-end-line="5" />
+            <state relative-caret-position="108">
+              <caret line="52" selection-start-line="52" selection-end-line="61" selection-end-column="9" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/tree/base/TreeAlgorithmBase.php">
+        <entry file="file://$PROJECT_DIR$/reward.php">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/move_zeros.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="270">
-              <caret line="10" column="38" selection-start-line="10" selection-start-column="38" selection-end-line="10" selection-end-column="38" />
+            <state relative-caret-position="486">
+              <caret line="18" selection-start-line="18" selection-end-line="18" selection-end-column="20" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/tree/base/TreeHelper.php">
+        <entry file="file://$PROJECT_DIR$/maxProfit.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="270">
-              <caret line="10" selection-start-line="10" selection-end-line="12" selection-end-column="44" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/linked_list/base/ListNode.php">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="81">
-              <caret line="3" column="6" selection-start-line="3" selection-start-column="6" selection-end-line="3" selection-end-column="6" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="jar://$APPLICATION_HOME_DIR$/plugins/php/lib/php.jar!/stubs/standard/standard_8.php">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="89">
-              <caret line="1039" column="9" selection-start-line="1039" selection-start-column="9" selection-end-line="1039" selection-end-column="9" />
-              <folding>
-                <element signature="e#8#1347#0#PHP" />
-                <element signature="e#1390#1572#0#PHP" />
-                <element signature="e#1598#2112#0#PHP" />
-                <element signature="e#2174#3265#0#PHP" />
-                <element signature="e#3342#3728#0#PHP" />
-                <element signature="e#3784#4039#0#PHP" />
-                <element signature="e#4084#4270#0#PHP" />
-                <element signature="e#4311#4514#0#PHP" />
-                <element signature="e#4541#4990#0#PHP" />
-                <element signature="e#5036#7676#0#PHP" />
-                <element signature="e#7760#7905#0#PHP" />
-                <element signature="e#7931#8077#0#PHP" />
-                <element signature="e#8103#8491#0#PHP" />
-                <element signature="e#8521#8910#0#PHP" />
-                <element signature="e#8940#9196#0#PHP" />
-                <element signature="e#9226#9532#0#PHP" />
-                <element signature="e#9562#9804#0#PHP" />
-                <element signature="e#9835#10102#0#PHP" />
-                <element signature="e#10132#11880#0#PHP" />
-                <element signature="e#11930#12195#0#PHP" />
-                <element signature="e#12228#12467#0#PHP" />
-                <element signature="e#12511#12880#0#PHP" />
-                <element signature="e#12914#13296#0#PHP" />
-                <element signature="e#13352#13752#0#PHP" />
-                <element signature="e#13809#14059#0#PHP" />
-                <element signature="e#14097#14368#0#PHP" />
-                <element signature="e#14410#14816#0#PHP" />
-                <element signature="e#14872#15296#0#PHP" />
-                <element signature="e#15875#16267#0#PHP" />
-                <element signature="e#16323#16835#0#PHP" />
-                <element signature="e#16886#17295#0#PHP" />
-                <element signature="e#17347#18015#0#PHP" />
-                <element signature="e#18067#18280#0#PHP" />
-                <element signature="e#18318#19424#0#PHP" />
-                <element signature="e#19494#20350#0#PHP" />
-                <element signature="e#20430#21801#0#PHP" />
-                <element signature="e#21850#22349#0#PHP" />
-                <element signature="e#22383#22720#0#PHP" />
-                <element signature="e#22755#23107#0#PHP" />
-                <element signature="e#23142#23444#0#PHP" />
-                <element signature="e#23480#23979#0#PHP" />
-                <element signature="e#24016#24499#0#PHP" />
-                <element signature="e#24532#24921#0#PHP" />
-                <element signature="e#24977#25412#0#PHP" />
-                <element signature="e#25468#26067#0#PHP" />
-                <element signature="e#26134#27032#0#PHP" />
-                <element signature="e#27102#28268#0#PHP" />
-                <element signature="e#28347#28894#0#PHP" />
-                <element signature="e#29397#29762#0#PHP" />
-                <element signature="e#29814#30417#0#PHP" />
-                <element signature="e#30463#30988#0#PHP" />
-                <element signature="e#31416#31733#0#PHP" />
-                <element signature="e#34116#35101#0#PHP" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/linked_list/base/ListHelper.php">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="54">
-              <caret line="5" column="6" selection-start-line="5" selection-start-column="6" selection-end-line="5" selection-end-column="6" />
+            <state>
+              <caret selection-end-line="4" selection-end-column="52" />
             </state>
           </provider>
         </entry>
@@ -153,7 +76,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/tree/TreeHelper.php" />
         <option value="$PROJECT_DIR$/tree/TreeNode.php" />
         <option value="$PROJECT_DIR$/list/ListHelper.php" />
         <option value="$PROJECT_DIR$/linked_list/ListNode.php" />
@@ -204,6 +126,7 @@
         <option value="$PROJECT_DIR$/tree/inorder_traversal.php" />
         <option value="$PROJECT_DIR$/combination_sum.php" />
         <option value="$PROJECT_DIR$/tree/flatten.php" />
+        <option value="$PROJECT_DIR$/rotate.php" />
       </list>
     </option>
   </component>
@@ -304,7 +227,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="PHP Script.flatten.php">
+  <component name="RunManager" selected="PHP Script.rotate.php">
     <configuration name="combination_sum.php" type="PhpLocalRunConfigurationType" factoryName="PHP Console" temporary="true" path="$PROJECT_DIR$/combination_sum.php">
       <method v="2" />
     </configuration>
@@ -317,16 +240,16 @@
     <configuration name="inorder_traversal.php" type="PhpLocalRunConfigurationType" factoryName="PHP Console" temporary="true" path="$PROJECT_DIR$/tree/inorder_traversal.php">
       <method v="2" />
     </configuration>
-    <configuration name="permute.php" type="PhpLocalRunConfigurationType" factoryName="PHP Console" temporary="true" path="$PROJECT_DIR$/permute.php">
+    <configuration name="rotate.php" type="PhpLocalRunConfigurationType" factoryName="PHP Console" temporary="true" path="$PROJECT_DIR$/rotate.php">
       <method v="2" />
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="PHP Script.rotate.php" />
         <item itemvalue="PHP Script.flatten.php" />
         <item itemvalue="PHP Script.combination_sum.php" />
         <item itemvalue="PHP Script.inorder_traversal.php" />
         <item itemvalue="PHP Script.generate_parenthesis.php" />
-        <item itemvalue="PHP Script.permute.php" />
       </list>
     </recent_temporary>
   </component>
@@ -369,24 +292,25 @@
       <workItem from="1581645942320" duration="4466000" />
       <workItem from="1581734999368" duration="6159000" />
       <workItem from="1581822009951" duration="4827000" />
-      <workItem from="1581909511394" duration="4863000" />
+      <workItem from="1581909511394" duration="4920000" />
+      <workItem from="1581991792013" duration="5012000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="114762000" />
+    <option name="totallyTimeSpent" value="119831000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1721" height="935" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.19542995" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.19783524" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.32991013" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.41206676" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.36842105" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.4801027" />
+      <window_info active="true" anchor="bottom" id="Debug" order="3" visible="true" weight="0.36842105" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
@@ -457,29 +381,21 @@
           <line>19</line>
           <option name="timeStamp" value="23" />
         </line-breakpoint>
+        <line-breakpoint enabled="true" type="php">
+          <url>file://$PROJECT_DIR$/rotate.php</url>
+          <line>12</line>
+          <option name="timeStamp" value="29" />
+        </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
     <watches-manager>
       <configuration name="PhpLocalRunConfigurationType">
         <watch expression="$root" />
+        <watch expression="$matrix[$n - 1 - $i][$n - $j - 1]" />
       </configuration>
     </watches-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/reward.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1566">
-          <caret line="58" column="1" selection-start-line="58" selection-start-column="1" selection-end-line="58" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$APPLICATION_HOME_DIR$/plugins/php/lib/php.jar!/stubs/standard/standard_9.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="6858">
-          <caret line="254" column="9" selection-start-line="254" selection-start-column="9" selection-end-line="254" selection-end-column="9" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/find_disppeared_nums.php">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="27">
@@ -501,13 +417,6 @@
     <entry file="file://$PROJECT_DIR$/../../../dnmp/www/localhost/Workerman/Autoloader.php">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/maxProfit.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="108">
-          <caret line="4" column="46" selection-start-line="4" selection-start-column="46" selection-end-line="4" selection-end-column="46" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/linked_list/merge_two_list.php">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="514">
@@ -519,13 +428,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="135">
           <caret line="5" column="51" selection-start-line="5" selection-start-column="23" selection-end-line="5" selection-end-column="51" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/move_zeros.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="486">
-          <caret line="18" selection-start-line="18" selection-end-line="18" selection-end-column="20" />
         </state>
       </provider>
     </entry>
@@ -767,10 +669,24 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/linked_list/base/ListHelper.php">
+    <entry file="file://$PROJECT_DIR$/tree/flatten.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="54">
-          <caret line="5" column="6" selection-start-line="5" selection-start-column="6" selection-end-line="5" selection-end-column="6" />
+        <state relative-caret-position="27">
+          <caret line="5" selection-start-line="5" selection-end-line="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tree/base/TreeAlgorithmBase.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="10" column="38" selection-start-line="10" selection-start-column="38" selection-end-line="10" selection-end-column="38" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tree/base/TreeHelper.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="10" selection-start-line="10" selection-end-line="12" selection-end-column="44" />
         </state>
       </provider>
     </entry>
@@ -783,7 +699,7 @@
     </entry>
     <entry file="jar://$APPLICATION_HOME_DIR$/plugins/php/lib/php.jar!/stubs/standard/standard_8.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="89">
+        <state relative-caret-position="6021">
           <caret line="1039" column="9" selection-start-line="1039" selection-start-column="9" selection-end-line="1039" selection-end-column="9" />
           <folding>
             <element signature="e#8#1347#0#PHP" />
@@ -843,24 +759,34 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/tree/base/TreeAlgorithmBase.php">
+    <entry file="file://$PROJECT_DIR$/linked_list/base/ListHelper.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="270">
-          <caret line="10" column="38" selection-start-line="10" selection-start-column="38" selection-end-line="10" selection-end-column="38" />
+        <state relative-caret-position="135">
+          <caret line="5" column="6" selection-start-line="5" selection-start-column="6" selection-end-line="5" selection-end-column="6" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/tree/base/TreeHelper.php">
+    <entry file="file://$PROJECT_DIR$/reward.php">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/move_zeros.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="270">
-          <caret line="10" selection-start-line="10" selection-end-line="12" selection-end-column="44" />
+        <state relative-caret-position="486">
+          <caret line="18" selection-start-line="18" selection-end-line="18" selection-end-column="20" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/tree/flatten.php">
+    <entry file="file://$PROJECT_DIR$/maxProfit.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-594">
-          <caret line="5" selection-start-line="5" selection-end-line="5" />
+        <state>
+          <caret selection-end-line="4" selection-end-column="52" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/rotate.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="108">
+          <caret line="52" selection-start-line="52" selection-end-line="61" selection-end-column="9" />
         </state>
       </provider>
     </entry>
