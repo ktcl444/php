@@ -95,3 +95,5 @@
 [组合总和-递归+遍历](https://github.com/ktcl444/php/blob/master/algorithm/combination_sum.php)
 
 [旋转图像-依次挪动+转置/翻转+转动小矩形](https://github.com/ktcl444/php/blob/master/algorithm/rotate.php)
+
+[除自身以外数组的乘积-左乘积X右乘积(一次遍历)](https://github.com/ktcl444/php/blob/master/algorithm/product_except_self.php)

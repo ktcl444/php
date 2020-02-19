@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="4a9ab226-9f54-4013-9f57-6a9f777b9224" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/rotate.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/productExceptSelf.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -13,11 +13,29 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/rotate.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="108">
-              <caret line="52" selection-start-line="52" selection-end-line="61" selection-end-column="9" />
+            <state>
+              <caret selection-end-line="4" selection-end-column="52" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/productExceptSelf.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="648">
+              <caret line="34" column="9" selection-start-line="34" selection-start-column="9" selection-end-line="34" selection-end-column="9" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/base/AlgorithmBase.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="81">
+              <caret line="3" column="15" selection-start-line="3" selection-start-column="15" selection-end-line="3" selection-end-column="15" />
             </state>
           </provider>
         </entry>
@@ -76,7 +94,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/tree/TreeNode.php" />
         <option value="$PROJECT_DIR$/list/ListHelper.php" />
         <option value="$PROJECT_DIR$/linked_list/ListNode.php" />
         <option value="$PROJECT_DIR$/linked_list/ListHelper.php" />
@@ -127,6 +144,7 @@
         <option value="$PROJECT_DIR$/combination_sum.php" />
         <option value="$PROJECT_DIR$/tree/flatten.php" />
         <option value="$PROJECT_DIR$/rotate.php" />
+        <option value="$PROJECT_DIR$/productExceptSelf.php" />
       </list>
     </option>
   </component>
@@ -145,6 +163,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -191,7 +210,6 @@
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -227,17 +245,17 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="PHP Script.rotate.php">
+  <component name="RunManager" selected="PHP Script.product_except_self.php">
     <configuration name="combination_sum.php" type="PhpLocalRunConfigurationType" factoryName="PHP Console" temporary="true" path="$PROJECT_DIR$/combination_sum.php">
       <method v="2" />
     </configuration>
     <configuration name="flatten.php" type="PhpLocalRunConfigurationType" factoryName="PHP Console" temporary="true" path="$PROJECT_DIR$/tree/flatten.php">
       <method v="2" />
     </configuration>
-    <configuration name="generate_parenthesis.php" type="PhpLocalRunConfigurationType" factoryName="PHP Console" temporary="true" path="$PROJECT_DIR$/generate_parenthesis.php">
+    <configuration name="inorder_traversal.php" type="PhpLocalRunConfigurationType" factoryName="PHP Console" temporary="true" path="$PROJECT_DIR$/tree/inorder_traversal.php">
       <method v="2" />
     </configuration>
-    <configuration name="inorder_traversal.php" type="PhpLocalRunConfigurationType" factoryName="PHP Console" temporary="true" path="$PROJECT_DIR$/tree/inorder_traversal.php">
+    <configuration name="product_except_self.php" type="PhpLocalRunConfigurationType" factoryName="PHP Console" temporary="true" path="$PROJECT_DIR$/product_except_self.php">
       <method v="2" />
     </configuration>
     <configuration name="rotate.php" type="PhpLocalRunConfigurationType" factoryName="PHP Console" temporary="true" path="$PROJECT_DIR$/rotate.php">
@@ -245,11 +263,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="PHP Script.product_except_self.php" />
         <item itemvalue="PHP Script.rotate.php" />
         <item itemvalue="PHP Script.flatten.php" />
         <item itemvalue="PHP Script.combination_sum.php" />
         <item itemvalue="PHP Script.inorder_traversal.php" />
-        <item itemvalue="PHP Script.generate_parenthesis.php" />
       </list>
     </recent_temporary>
   </component>
@@ -293,24 +311,25 @@
       <workItem from="1581734999368" duration="6159000" />
       <workItem from="1581822009951" duration="4827000" />
       <workItem from="1581909511394" duration="4920000" />
-      <workItem from="1581991792013" duration="5012000" />
+      <workItem from="1581991792013" duration="5277000" />
+      <workItem from="1582080379395" duration="3899000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="119831000" />
+    <option name="totallyTimeSpent" value="123995000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1721" height="935" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.19783524" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.20024052" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.32991013" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.4801027" />
-      <window_info active="true" anchor="bottom" id="Debug" order="3" visible="true" weight="0.36842105" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.3979461" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.36842105" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
@@ -386,23 +405,31 @@
           <line>12</line>
           <option name="timeStamp" value="29" />
         </line-breakpoint>
+        <line-breakpoint enabled="true" type="php">
+          <url>file://$PROJECT_DIR$/productExceptSelf.php</url>
+          <line>10</line>
+          <option name="timeStamp" value="32" />
+        </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
     <watches-manager>
       <configuration name="PhpLocalRunConfigurationType">
         <watch expression="$root" />
         <watch expression="$matrix[$n - 1 - $i][$n - $j - 1]" />
+        <watch expression="array_key_exists(2, $result)" language="PHP" />
       </configuration>
     </watches-manager>
   </component>
+  <component name="debuggerHistoryManager">
+    <expressions id="watch">
+      <expression>
+        <expression-string>array_key_exists(2, $result)</expression-string>
+        <language-id>PHP</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+    </expressions>
+  </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/find_disppeared_nums.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="27">
-          <caret line="43" column="31" selection-start-line="43" selection-start-column="31" selection-end-line="43" selection-end-column="31" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/AlgorithmBase.php" />
     <entry file="file://$PROJECT_DIR$/array_filter_repeate.php">
       <provider selected="true" editor-type-id="text-editor" />
@@ -599,13 +626,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/base/AlgorithmBase.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="162">
-          <caret line="6" selection-start-line="6" selection-end-line="6" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/tree/base/TreeNode.php">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="81">
@@ -785,8 +805,22 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/rotate.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="108">
-          <caret line="52" selection-start-line="52" selection-end-line="61" selection-end-column="9" />
+        <state>
+          <caret selection-end-line="4" selection-end-column="52" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/base/AlgorithmBase.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="81">
+          <caret line="3" column="15" selection-start-line="3" selection-start-column="15" selection-end-line="3" selection-end-column="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/productExceptSelf.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="648">
+          <caret line="34" column="9" selection-start-line="34" selection-start-column="9" selection-end-line="34" selection-end-column="9" />
         </state>
       </provider>
     </entry>
