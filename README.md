@@ -22,6 +22,8 @@
 
 [二叉树展开为链表形式-递归(后序遍历)+迭代(先序遍历))](https://github.com/ktcl444/php/blob/master/tree/algorithm/flatten.php)
 
+[不同的二叉树+动态规划(笛卡尔积)](https://github.com/ktcl444/php/blob/master/tree/algorithm/num_trees.php)
+
 ### 链表
 
 [两数相加-逆序](https://github.com/ktcl444/php/blob/master/algorithm/linked_list/add_two_number_desc.php)
