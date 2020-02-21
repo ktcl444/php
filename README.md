@@ -24,6 +24,8 @@
 
 [不同的二叉树+动态规划(笛卡尔积)](https://github.com/ktcl444/php/blob/master/tree/algorithm/num_trees.php)
 
+[实现前缀树+数组(asc码下标)](https://github.com/ktcl444/php/blob/master/tree/algorithm/trie.php)
+
 ### 链表
 
 [两数相加-逆序](https://github.com/ktcl444/php/blob/master/algorithm/linked_list/add_two_number_desc.php)
