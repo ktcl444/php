@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="4a9ab226-9f54-4013-9f57-6a9f777b9224" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/tree/trie.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/min_path_sum.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -13,11 +13,102 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/tree/trie.php">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="216">
-              <caret line="74" column="10" selection-start-line="74" selection-start-column="10" selection-end-line="74" selection-end-column="10" />
+              <caret line="62" column="29" selection-start-line="62" selection-start-column="29" selection-end-line="62" selection-end-column="29" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/min_path_sum.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="351">
+              <caret line="25" column="26" lean-forward="true" selection-start-line="25" selection-start-column="26" selection-end-line="25" selection-end-column="26" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="jar://$APPLICATION_HOME_DIR$/plugins/php/lib/php.jar!/stubs/standard/standard_9.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="494">
+              <caret line="795" column="9" selection-start-line="795" selection-start-column="9" selection-end-line="795" selection-end-column="9" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="jar://$APPLICATION_HOME_DIR$/plugins/php/lib/php.jar!/stubs/standard/standard_8.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="236">
+              <caret line="1012" column="9" selection-start-line="1012" selection-start-column="9" selection-end-line="1012" selection-end-column="9" />
+              <folding>
+                <element signature="e#8#1347#0#PHP" />
+                <element signature="e#1390#1572#0#PHP" />
+                <element signature="e#1598#2112#0#PHP" />
+                <element signature="e#2174#3265#0#PHP" />
+                <element signature="e#3342#3728#0#PHP" />
+                <element signature="e#3784#4039#0#PHP" />
+                <element signature="e#4084#4270#0#PHP" />
+                <element signature="e#4311#4514#0#PHP" />
+                <element signature="e#4541#4990#0#PHP" />
+                <element signature="e#5036#7676#0#PHP" />
+                <element signature="e#7760#7905#0#PHP" />
+                <element signature="e#7931#8077#0#PHP" />
+                <element signature="e#8103#8491#0#PHP" />
+                <element signature="e#8521#8910#0#PHP" />
+                <element signature="e#8940#9196#0#PHP" />
+                <element signature="e#9226#9532#0#PHP" />
+                <element signature="e#9562#9804#0#PHP" />
+                <element signature="e#9835#10102#0#PHP" />
+                <element signature="e#10132#11880#0#PHP" />
+                <element signature="e#11930#12195#0#PHP" />
+                <element signature="e#12228#12467#0#PHP" />
+                <element signature="e#12511#12880#0#PHP" />
+                <element signature="e#12914#13296#0#PHP" />
+                <element signature="e#13352#13752#0#PHP" />
+                <element signature="e#13809#14059#0#PHP" />
+                <element signature="e#14097#14368#0#PHP" />
+                <element signature="e#14410#14816#0#PHP" />
+                <element signature="e#14872#15296#0#PHP" />
+                <element signature="e#15875#16267#0#PHP" />
+                <element signature="e#16323#16835#0#PHP" />
+                <element signature="e#16886#17295#0#PHP" />
+                <element signature="e#17347#18015#0#PHP" />
+                <element signature="e#18067#18280#0#PHP" />
+                <element signature="e#18318#19424#0#PHP" />
+                <element signature="e#19494#20350#0#PHP" />
+                <element signature="e#20430#21801#0#PHP" />
+                <element signature="e#21850#22349#0#PHP" />
+                <element signature="e#22383#22720#0#PHP" />
+                <element signature="e#22755#23107#0#PHP" />
+                <element signature="e#23142#23444#0#PHP" />
+                <element signature="e#23480#23979#0#PHP" />
+                <element signature="e#24016#24499#0#PHP" />
+                <element signature="e#24532#24921#0#PHP" />
+                <element signature="e#24977#25412#0#PHP" />
+                <element signature="e#25468#26067#0#PHP" />
+                <element signature="e#26134#27032#0#PHP" />
+                <element signature="e#27102#28268#0#PHP" />
+                <element signature="e#28347#28894#0#PHP" />
+                <element signature="e#29397#29762#0#PHP" />
+                <element signature="e#29814#30417#0#PHP" />
+                <element signature="e#30463#30988#0#PHP" />
+                <element signature="e#31416#31733#0#PHP" />
+                <element signature="e#34116#35101#0#PHP" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/sub_set.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state>
+              <caret selection-end-line="4" selection-end-column="52" />
             </state>
           </provider>
         </entry>
@@ -54,7 +145,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/linked_list/ListHelper.php" />
         <option value="$PROJECT_DIR$/add_two_number_asc_recursion.php" />
         <option value="$PROJECT_DIR$/flip_tree_recursion.php" />
         <option value="$PROJECT_DIR$/tree/TreeAlgorithmBase.php" />
@@ -105,6 +195,7 @@
         <option value="$PROJECT_DIR$/tree/num_trees.php" />
         <option value="$PROJECT_DIR$/min_stack.php" />
         <option value="$PROJECT_DIR$/tree/trie.php" />
+        <option value="$PROJECT_DIR$/min_path_sum.php" />
       </list>
     </option>
   </component>
@@ -206,7 +297,10 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="PHP Script.trie.php">
+  <component name="RunManager" selected="PHP Script.min_path_sum.php">
+    <configuration name="min_path_sum.php" type="PhpLocalRunConfigurationType" factoryName="PHP Console" temporary="true" path="$PROJECT_DIR$/min_path_sum.php">
+      <method v="2" />
+    </configuration>
     <configuration name="min_stack.php" type="PhpLocalRunConfigurationType" factoryName="PHP Console" temporary="true" path="$PROJECT_DIR$/min_stack.php">
       <method v="2" />
     </configuration>
@@ -216,19 +310,16 @@
     <configuration name="product_except_self.php" type="PhpLocalRunConfigurationType" factoryName="PHP Console" temporary="true" path="$PROJECT_DIR$/product_except_self.php">
       <method v="2" />
     </configuration>
-    <configuration name="rotate.php" type="PhpLocalRunConfigurationType" factoryName="PHP Console" temporary="true" path="$PROJECT_DIR$/rotate.php">
-      <method v="2" />
-    </configuration>
     <configuration name="trie.php" type="PhpLocalRunConfigurationType" factoryName="PHP Console" temporary="true" path="$PROJECT_DIR$/tree/trie.php">
       <method v="2" />
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="PHP Script.min_path_sum.php" />
         <item itemvalue="PHP Script.trie.php" />
         <item itemvalue="PHP Script.min_stack.php" />
         <item itemvalue="PHP Script.num_trees.php" />
         <item itemvalue="PHP Script.product_except_self.php" />
-        <item itemvalue="PHP Script.rotate.php" />
       </list>
     </recent_temporary>
   </component>
@@ -275,24 +366,24 @@
       <workItem from="1581991792013" duration="5277000" />
       <workItem from="1582080379395" duration="4371000" />
       <workItem from="1582168753867" duration="2361000" />
-      <workItem from="1582252203577" duration="2670000" />
+      <workItem from="1582252203577" duration="2809000" />
+      <workItem from="1582338572591" duration="4890000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="129498000" />
+    <option name="totallyTimeSpent" value="134527000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1721" height="935" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.15273602" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.15453999" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
-      <window_info anchor="bottom" id="Messages" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.32991013" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.3979461" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.2991014" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.36842105" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -302,6 +393,7 @@
       <window_info anchor="bottom" id="Version Control" order="9" weight="0.32991013" />
       <window_info anchor="bottom" id="Terminal" order="10" weight="0.32991013" />
       <window_info anchor="bottom" id="Event Log" order="11" side_tool="true" />
+      <window_info anchor="bottom" id="Messages" order="12" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -389,6 +481,11 @@
           <line>181</line>
           <option name="timeStamp" value="36" />
         </line-breakpoint>
+        <line-breakpoint enabled="true" type="php">
+          <url>file://$PROJECT_DIR$/min_path_sum.php</url>
+          <line>47</line>
+          <option name="timeStamp" value="40" />
+        </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
     <watches-manager>
@@ -409,16 +506,6 @@
     </expressions>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/../../../dnmp/www/localhost/ws_test.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="54">
-          <caret line="2" column="39" selection-start-line="2" selection-start-column="39" selection-end-line="2" selection-end-column="39" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../../../dnmp/www/localhost/Workerman/Autoloader.php">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
     <entry file="file://$PROJECT_DIR$/linked_list/merge_two_list.php">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="514">
@@ -500,13 +587,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state>
           <caret selection-end-line="3" selection-end-column="52" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/sub_set.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="459">
-          <caret line="17" column="45" selection-start-line="17" selection-start-column="45" selection-end-line="17" selection-end-column="45" />
         </state>
       </provider>
     </entry>
@@ -664,68 +744,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="jar://$APPLICATION_HOME_DIR$/plugins/php/lib/php.jar!/stubs/standard/standard_8.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="6021">
-          <caret line="1039" column="9" selection-start-line="1039" selection-start-column="9" selection-end-line="1039" selection-end-column="9" />
-          <folding>
-            <element signature="e#8#1347#0#PHP" />
-            <element signature="e#1390#1572#0#PHP" />
-            <element signature="e#1598#2112#0#PHP" />
-            <element signature="e#2174#3265#0#PHP" />
-            <element signature="e#3342#3728#0#PHP" />
-            <element signature="e#3784#4039#0#PHP" />
-            <element signature="e#4084#4270#0#PHP" />
-            <element signature="e#4311#4514#0#PHP" />
-            <element signature="e#4541#4990#0#PHP" />
-            <element signature="e#5036#7676#0#PHP" />
-            <element signature="e#7760#7905#0#PHP" />
-            <element signature="e#7931#8077#0#PHP" />
-            <element signature="e#8103#8491#0#PHP" />
-            <element signature="e#8521#8910#0#PHP" />
-            <element signature="e#8940#9196#0#PHP" />
-            <element signature="e#9226#9532#0#PHP" />
-            <element signature="e#9562#9804#0#PHP" />
-            <element signature="e#9835#10102#0#PHP" />
-            <element signature="e#10132#11880#0#PHP" />
-            <element signature="e#11930#12195#0#PHP" />
-            <element signature="e#12228#12467#0#PHP" />
-            <element signature="e#12511#12880#0#PHP" />
-            <element signature="e#12914#13296#0#PHP" />
-            <element signature="e#13352#13752#0#PHP" />
-            <element signature="e#13809#14059#0#PHP" />
-            <element signature="e#14097#14368#0#PHP" />
-            <element signature="e#14410#14816#0#PHP" />
-            <element signature="e#14872#15296#0#PHP" />
-            <element signature="e#15875#16267#0#PHP" />
-            <element signature="e#16323#16835#0#PHP" />
-            <element signature="e#16886#17295#0#PHP" />
-            <element signature="e#17347#18015#0#PHP" />
-            <element signature="e#18067#18280#0#PHP" />
-            <element signature="e#18318#19424#0#PHP" />
-            <element signature="e#19494#20350#0#PHP" />
-            <element signature="e#20430#21801#0#PHP" />
-            <element signature="e#21850#22349#0#PHP" />
-            <element signature="e#22383#22720#0#PHP" />
-            <element signature="e#22755#23107#0#PHP" />
-            <element signature="e#23142#23444#0#PHP" />
-            <element signature="e#23480#23979#0#PHP" />
-            <element signature="e#24016#24499#0#PHP" />
-            <element signature="e#24532#24921#0#PHP" />
-            <element signature="e#24977#25412#0#PHP" />
-            <element signature="e#25468#26067#0#PHP" />
-            <element signature="e#26134#27032#0#PHP" />
-            <element signature="e#27102#28268#0#PHP" />
-            <element signature="e#28347#28894#0#PHP" />
-            <element signature="e#29397#29762#0#PHP" />
-            <element signature="e#29814#30417#0#PHP" />
-            <element signature="e#30463#30988#0#PHP" />
-            <element signature="e#31416#31733#0#PHP" />
-            <element signature="e#34116#35101#0#PHP" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/linked_list/base/ListHelper.php">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="135">
@@ -809,7 +827,90 @@
     <entry file="file://$PROJECT_DIR$/tree/trie.php">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="216">
-          <caret line="74" column="10" selection-start-line="74" selection-start-column="10" selection-end-line="74" selection-end-column="10" />
+          <caret line="62" column="29" selection-start-line="62" selection-start-column="29" selection-end-line="62" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sub_set.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret selection-end-line="4" selection-end-column="52" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$APPLICATION_HOME_DIR$/plugins/php/lib/php.jar!/stubs/standard/standard_8.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="236">
+          <caret line="1012" column="9" selection-start-line="1012" selection-start-column="9" selection-end-line="1012" selection-end-column="9" />
+          <folding>
+            <element signature="e#8#1347#0#PHP" />
+            <element signature="e#1390#1572#0#PHP" />
+            <element signature="e#1598#2112#0#PHP" />
+            <element signature="e#2174#3265#0#PHP" />
+            <element signature="e#3342#3728#0#PHP" />
+            <element signature="e#3784#4039#0#PHP" />
+            <element signature="e#4084#4270#0#PHP" />
+            <element signature="e#4311#4514#0#PHP" />
+            <element signature="e#4541#4990#0#PHP" />
+            <element signature="e#5036#7676#0#PHP" />
+            <element signature="e#7760#7905#0#PHP" />
+            <element signature="e#7931#8077#0#PHP" />
+            <element signature="e#8103#8491#0#PHP" />
+            <element signature="e#8521#8910#0#PHP" />
+            <element signature="e#8940#9196#0#PHP" />
+            <element signature="e#9226#9532#0#PHP" />
+            <element signature="e#9562#9804#0#PHP" />
+            <element signature="e#9835#10102#0#PHP" />
+            <element signature="e#10132#11880#0#PHP" />
+            <element signature="e#11930#12195#0#PHP" />
+            <element signature="e#12228#12467#0#PHP" />
+            <element signature="e#12511#12880#0#PHP" />
+            <element signature="e#12914#13296#0#PHP" />
+            <element signature="e#13352#13752#0#PHP" />
+            <element signature="e#13809#14059#0#PHP" />
+            <element signature="e#14097#14368#0#PHP" />
+            <element signature="e#14410#14816#0#PHP" />
+            <element signature="e#14872#15296#0#PHP" />
+            <element signature="e#15875#16267#0#PHP" />
+            <element signature="e#16323#16835#0#PHP" />
+            <element signature="e#16886#17295#0#PHP" />
+            <element signature="e#17347#18015#0#PHP" />
+            <element signature="e#18067#18280#0#PHP" />
+            <element signature="e#18318#19424#0#PHP" />
+            <element signature="e#19494#20350#0#PHP" />
+            <element signature="e#20430#21801#0#PHP" />
+            <element signature="e#21850#22349#0#PHP" />
+            <element signature="e#22383#22720#0#PHP" />
+            <element signature="e#22755#23107#0#PHP" />
+            <element signature="e#23142#23444#0#PHP" />
+            <element signature="e#23480#23979#0#PHP" />
+            <element signature="e#24016#24499#0#PHP" />
+            <element signature="e#24532#24921#0#PHP" />
+            <element signature="e#24977#25412#0#PHP" />
+            <element signature="e#25468#26067#0#PHP" />
+            <element signature="e#26134#27032#0#PHP" />
+            <element signature="e#27102#28268#0#PHP" />
+            <element signature="e#28347#28894#0#PHP" />
+            <element signature="e#29397#29762#0#PHP" />
+            <element signature="e#29814#30417#0#PHP" />
+            <element signature="e#30463#30988#0#PHP" />
+            <element signature="e#31416#31733#0#PHP" />
+            <element signature="e#34116#35101#0#PHP" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$APPLICATION_HOME_DIR$/plugins/php/lib/php.jar!/stubs/standard/standard_9.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="494">
+          <caret line="795" column="9" selection-start-line="795" selection-start-column="9" selection-end-line="795" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/min_path_sum.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="351">
+          <caret line="25" column="26" lean-forward="true" selection-start-line="25" selection-start-column="26" selection-end-line="25" selection-end-column="26" />
         </state>
       </provider>
     </entry>
