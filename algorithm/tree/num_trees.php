@@ -3,7 +3,6 @@
 namespace algorithm\tree;
 require_once 'base\TreeAlgorithmBase.php';
 
-use \algorithm\tree\base\TreeNode as TreeNode;
 
 class Solution extends \algorithm\tree\base\TreeAlgorithmBase
 {

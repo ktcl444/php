@@ -26,6 +26,8 @@
 
 [实现前缀树+数组(asc码下标)](https://github.com/ktcl444/php/blob/master/tree/algorithm/trie.php)
 
+[从前序与中序遍历序列构造二叉树+递归(深度遍历)](https://github.com/ktcl444/php/blob/master/tree/algorithm/build_tree.php)
+
 ### 链表
 
 [两数相加-逆序](https://github.com/ktcl444/php/blob/master/algorithm/linked_list/add_two_number_desc.php)
