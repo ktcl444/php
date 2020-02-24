@@ -46,6 +46,8 @@
 
 [回文链表-数组遍历+反转](https://github.com/ktcl444/php/blob/master/algorithm/linked_list/is_palindrome.php)
 
+[排序链表-归并排序(递归)](https://github.com/ktcl444/php/blob/master/algorithm/linked_list/sort_list.php)
+
 ### 其他
 
 [成对括号](https://github.com/ktcl444/php/blob/master/algorithm/brackets.php)
