@@ -107,3 +107,5 @@
 [除自身以外数组的乘积-左乘积X右乘积(一次遍历)](https://github.com/ktcl444/php/blob/master/algorithm/product_except_self.php)
 
 [最小路径和-动态规划(顺推+逆推)](https://github.com/ktcl444/php/blob/master/algorithm/min_path_sum.php)
+
+[寻找重复数-快慢指针](https://github.com/ktcl444/php/blob/master/algorithm/find_duplicate.php)
