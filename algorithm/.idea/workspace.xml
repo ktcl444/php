@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="4a9ab226-9f54-4013-9f57-6a9f777b9224" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/find_duplicate.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/reconstruct_queue.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -13,11 +13,20 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/find_duplicate.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="54">
-              <caret line="8" selection-start-line="8" selection-end-line="23" selection-end-column="21" />
+            <state>
+              <caret selection-end-line="4" selection-end-column="52" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/reconstruct_queue.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="216">
+              <caret line="8" selection-start-line="8" selection-end-line="15" selection-end-column="23" />
             </state>
           </provider>
         </entry>
@@ -54,7 +63,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/tree/base/TreeNode.php" />
         <option value="$PROJECT_DIR$/tree/flip_tree_recursion.php" />
         <option value="$PROJECT_DIR$/tree/flip_tree_iteration.php" />
         <option value="$PROJECT_DIR$/tree/flip_tree_recursion_tet.php" />
@@ -105,6 +113,7 @@
         <option value="$PROJECT_DIR$/tree/build_tree.php" />
         <option value="$PROJECT_DIR$/linked_list/sort_list.php" />
         <option value="$PROJECT_DIR$/find_duplicate.php" />
+        <option value="$PROJECT_DIR$/reconstruct_queue.php" />
       </list>
     </option>
   </component>
@@ -206,7 +215,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="PHP Script.find_duplicate.php">
+  <component name="RunManager" selected="PHP Script.reconstruct_queue.php">
     <configuration name="build_tree.php" type="PhpLocalRunConfigurationType" factoryName="PHP Console" temporary="true" path="$PROJECT_DIR$/tree/build_tree.php">
       <method v="2" />
     </configuration>
@@ -216,19 +225,19 @@
     <configuration name="min_path_sum.php" type="PhpLocalRunConfigurationType" factoryName="PHP Console" temporary="true" path="$PROJECT_DIR$/min_path_sum.php">
       <method v="2" />
     </configuration>
-    <configuration name="sort_list.php" type="PhpLocalRunConfigurationType" factoryName="PHP Console" temporary="true" path="$PROJECT_DIR$/linked_list/sort_list.php">
+    <configuration name="reconstruct_queue.php" type="PhpLocalRunConfigurationType" factoryName="PHP Console" temporary="true" path="$PROJECT_DIR$/reconstruct_queue.php">
       <method v="2" />
     </configuration>
-    <configuration name="trie.php" type="PhpLocalRunConfigurationType" factoryName="PHP Console" temporary="true" path="$PROJECT_DIR$/tree/trie.php">
+    <configuration name="sort_list.php" type="PhpLocalRunConfigurationType" factoryName="PHP Console" temporary="true" path="$PROJECT_DIR$/linked_list/sort_list.php">
       <method v="2" />
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="PHP Script.reconstruct_queue.php" />
         <item itemvalue="PHP Script.find_duplicate.php" />
         <item itemvalue="PHP Script.sort_list.php" />
         <item itemvalue="PHP Script.build_tree.php" />
         <item itemvalue="PHP Script.min_path_sum.php" />
-        <item itemvalue="PHP Script.trie.php" />
       </list>
     </recent_temporary>
   </component>
@@ -279,23 +288,24 @@
       <workItem from="1582338572591" duration="5274000" />
       <workItem from="1582421158036" duration="2740000" />
       <workItem from="1582508751706" duration="2127000" />
-      <workItem from="1582592585207" duration="1297000" />
+      <workItem from="1582592585207" duration="1386000" />
+      <workItem from="1582692862301" duration="916000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="141075000" />
+    <option name="totallyTimeSpent" value="142080000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1721" height="935" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.1599519" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.16175586" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.32991013" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.71758664" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.8331194" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.36842105" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -423,13 +433,6 @@
     </expressions>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/majority_element.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="918">
-          <caret line="34" column="18" selection-start-line="34" selection-start-column="18" selection-end-line="34" selection-end-column="18" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/linked_list/get_intersection_node.php">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="189">
@@ -826,8 +829,15 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/find_duplicate.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="54">
-          <caret line="8" selection-start-line="8" selection-end-line="23" selection-end-column="21" />
+        <state>
+          <caret selection-end-line="4" selection-end-column="52" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/reconstruct_queue.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="216">
+          <caret line="8" selection-start-line="8" selection-end-line="15" selection-end-column="23" />
         </state>
       </provider>
     </entry>
