@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="4a9ab226-9f54-4013-9f57-6a9f777b9224" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/reconstruct_queue.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/max_area.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -22,11 +22,20 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/reconstruct_queue.php">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="216">
-              <caret line="8" selection-start-line="8" selection-end-line="15" selection-end-column="23" />
+              <caret line="8" selection-start-line="8" selection-end-line="10" selection-end-column="11" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/max_area.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-135">
+              <caret line="13" column="11" lean-forward="true" selection-start-line="13" selection-start-column="11" selection-end-line="13" selection-end-column="11" />
             </state>
           </provider>
         </entry>
@@ -63,7 +72,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/tree/flip_tree_recursion.php" />
         <option value="$PROJECT_DIR$/tree/flip_tree_iteration.php" />
         <option value="$PROJECT_DIR$/tree/flip_tree_recursion_tet.php" />
         <option value="$PROJECT_DIR$/tree/add_tree_iteration.php" />
@@ -114,6 +122,7 @@
         <option value="$PROJECT_DIR$/linked_list/sort_list.php" />
         <option value="$PROJECT_DIR$/find_duplicate.php" />
         <option value="$PROJECT_DIR$/reconstruct_queue.php" />
+        <option value="$PROJECT_DIR$/max_area.php" />
       </list>
     </option>
   </component>
@@ -215,14 +224,14 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="PHP Script.reconstruct_queue.php">
+  <component name="RunManager" selected="PHP Script.max_area.php">
     <configuration name="build_tree.php" type="PhpLocalRunConfigurationType" factoryName="PHP Console" temporary="true" path="$PROJECT_DIR$/tree/build_tree.php">
       <method v="2" />
     </configuration>
     <configuration name="find_duplicate.php" type="PhpLocalRunConfigurationType" factoryName="PHP Console" temporary="true" path="$PROJECT_DIR$/find_duplicate.php">
       <method v="2" />
     </configuration>
-    <configuration name="min_path_sum.php" type="PhpLocalRunConfigurationType" factoryName="PHP Console" temporary="true" path="$PROJECT_DIR$/min_path_sum.php">
+    <configuration name="max_area.php" type="PhpLocalRunConfigurationType" factoryName="PHP Console" temporary="true" path="$PROJECT_DIR$/max_area.php">
       <method v="2" />
     </configuration>
     <configuration name="reconstruct_queue.php" type="PhpLocalRunConfigurationType" factoryName="PHP Console" temporary="true" path="$PROJECT_DIR$/reconstruct_queue.php">
@@ -233,11 +242,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="PHP Script.max_area.php" />
         <item itemvalue="PHP Script.reconstruct_queue.php" />
         <item itemvalue="PHP Script.find_duplicate.php" />
         <item itemvalue="PHP Script.sort_list.php" />
         <item itemvalue="PHP Script.build_tree.php" />
-        <item itemvalue="PHP Script.min_path_sum.php" />
       </list>
     </recent_temporary>
   </component>
@@ -289,23 +298,24 @@
       <workItem from="1582421158036" duration="2740000" />
       <workItem from="1582508751706" duration="2127000" />
       <workItem from="1582592585207" duration="1386000" />
-      <workItem from="1582692862301" duration="916000" />
+      <workItem from="1582692862301" duration="967000" />
+      <workItem from="1582765849007" duration="4124000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="142080000" />
+    <option name="totallyTimeSpent" value="146255000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1721" height="935" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.16175586" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.16355982" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.32991013" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.8331194" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.36200258" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.36842105" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -433,13 +443,6 @@
     </expressions>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/linked_list/get_intersection_node.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="189">
-          <caret line="7" selection-start-line="7" selection-end-line="7" selection-end-column="74" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/linked_list/has_cycle.php">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="81">
@@ -837,7 +840,14 @@
     <entry file="file://$PROJECT_DIR$/reconstruct_queue.php">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="216">
-          <caret line="8" selection-start-line="8" selection-end-line="15" selection-end-column="23" />
+          <caret line="8" selection-start-line="8" selection-end-line="10" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/max_area.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-135">
+          <caret line="13" column="11" lean-forward="true" selection-start-line="13" selection-start-column="11" selection-end-line="13" selection-end-column="11" />
         </state>
       </provider>
     </entry>
