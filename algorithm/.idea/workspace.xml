@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="4a9ab226-9f54-4013-9f57-6a9f777b9224" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/count_substring.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/top_k_frequent.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -16,17 +16,35 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/tree/level_order.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="298">
+            <state relative-caret-position="1026">
               <caret line="38" column="46" selection-start-line="38" selection-start-column="46" selection-end-line="38" selection-end-column="46" />
             </state>
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/count_substring.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="459">
-              <caret line="17" column="25" lean-forward="true" selection-start-line="17" selection-start-column="25" selection-end-line="17" selection-end-column="25" />
+            <state>
+              <caret selection-end-line="4" selection-end-column="52" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/top_k_frequent.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="231">
+              <caret line="15" column="37" lean-forward="true" selection-start-line="15" selection-start-column="37" selection-end-line="15" selection-end-column="37" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="jar://$APPLICATION_HOME_DIR$/plugins/php/lib/php.jar!/stubs/standard/standard_9.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="381">
+              <caret line="736" column="9" selection-start-line="736" selection-start-column="9" selection-end-line="736" selection-end-column="9" />
             </state>
           </provider>
         </entry>
@@ -34,7 +52,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="jar://$APPLICATION_HOME_DIR$/plugins/php/lib/php.jar!/stubs/standard/standard_1.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="656">
+            <state relative-caret-position="11232">
               <caret line="416" column="9" selection-start-line="416" selection-start-column="9" selection-end-line="416" selection-end-column="9" />
             </state>
           </provider>
@@ -70,8 +88,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="jar://$APPLICATION_HOME_DIR$/plugins/php/lib/php.jar!/stubs/standard/standard_8.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="6777">
-              <caret line="1053" column="9" selection-start-line="1053" selection-start-column="9" selection-end-line="1053" selection-end-column="9" />
+            <state relative-caret-position="463">
+              <caret line="1039" column="9" selection-start-line="1039" selection-start-column="9" selection-end-line="1039" selection-end-column="9" />
               <folding>
                 <element signature="e#8#1347#0#PHP" />
                 <element signature="e#1390#1572#0#PHP" />
@@ -163,7 +181,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/tree/add_tree_recursion.php" />
         <option value="$PROJECT_DIR$/tree/base/TreeAlgorithmBase.php" />
         <option value="$PROJECT_DIR$/linked_list/LinkedListAlgorithmBase.php" />
         <option value="$PROJECT_DIR$/linked_list/base/ListNode.php" />
@@ -214,6 +231,7 @@
         <option value="$PROJECT_DIR$/find_kth_largest.php" />
         <option value="$PROJECT_DIR$/tree/level_order.php" />
         <option value="$PROJECT_DIR$/count_substring.php" />
+        <option value="$PROJECT_DIR$/top_k_frequent.php" />
       </list>
     </option>
   </component>
@@ -315,7 +333,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="PHP Script.count_substring.php">
+  <component name="RunManager" selected="PHP Script.top_k_frequent.php">
     <configuration name="count_substring.php" type="PhpLocalRunConfigurationType" factoryName="PHP Console" temporary="true" path="$PROJECT_DIR$/count_substring.php">
       <method v="2" />
     </configuration>
@@ -325,8 +343,12 @@
     <configuration name="level_order.php" type="PhpLocalRunConfigurationType" factoryName="PHP Console" temporary="true" path="$PROJECT_DIR$/tree/level_order.php">
       <method v="2" />
     </configuration>
+    <configuration name="top_k_frequent.php" type="PhpLocalRunConfigurationType" factoryName="PHP Console" temporary="true" path="$PROJECT_DIR$/top_k_frequent.php">
+      <method v="2" />
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="PHP Script.top_k_frequent.php" />
         <item itemvalue="PHP Script.count_substring.php" />
         <item itemvalue="PHP Script.level_order.php" />
         <item itemvalue="PHP Script.find_kth_largest.php" />
@@ -385,18 +407,19 @@
       <workItem from="1582765849007" duration="4124000" />
       <workItem from="1582854102001" duration="2749000" />
       <workItem from="1582937203013" duration="1461000" />
-      <workItem from="1583024691334" duration="4033000" />
+      <workItem from="1583024691334" duration="4151000" />
+      <workItem from="1583110964226" duration="1062000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="154498000" />
+    <option name="totallyTimeSpent" value="155678000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1721" height="935" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.12567648" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.12687914" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -513,9 +536,8 @@
     </breakpoint-manager>
     <watches-manager>
       <configuration name="PhpLocalRunConfigurationType">
-        <watch expression="empty($pre)" />
-        <watch expression="is_array($array)" />
-        <watch expression="is_array($array) ? count($array) : $array" />
+        <watch expression="array_key_exists($num, $mapping) " />
+        <watch expression="$mapping[$num]" />
       </configuration>
     </watches-manager>
   </component>
@@ -529,13 +551,6 @@
     </expressions>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/rob.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret selection-end-line="4" selection-end-column="52" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/permute.php">
       <provider selected="true" editor-type-id="text-editor">
         <state>
@@ -700,13 +715,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="jar://$APPLICATION_HOME_DIR$/plugins/php/lib/php.jar!/stubs/standard/standard_9.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="21465">
-          <caret line="795" column="9" selection-start-line="795" selection-start-column="9" selection-end-line="795" selection-end-column="9" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/sub_set.php">
       <provider selected="true" editor-type-id="text-editor">
         <state>
@@ -835,8 +843,22 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/tree/level_order.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="298">
+        <state relative-caret-position="1026">
           <caret line="38" column="46" selection-start-line="38" selection-start-column="46" selection-end-line="38" selection-end-column="46" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$APPLICATION_HOME_DIR$/plugins/php/lib/php.jar!/stubs/standard/standard_1.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="11232">
+          <caret line="416" column="9" selection-start-line="416" selection-start-column="9" selection-end-line="416" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/count_bits.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret selection-end-line="4" selection-end-column="52" />
         </state>
       </provider>
     </entry>
@@ -854,10 +876,17 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/count_substring.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret selection-end-line="4" selection-end-column="52" />
+        </state>
+      </provider>
+    </entry>
     <entry file="jar://$APPLICATION_HOME_DIR$/plugins/php/lib/php.jar!/stubs/standard/standard_8.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="6777">
-          <caret line="1053" column="9" selection-start-line="1053" selection-start-column="9" selection-end-line="1053" selection-end-column="9" />
+        <state relative-caret-position="463">
+          <caret line="1039" column="9" selection-start-line="1039" selection-start-column="9" selection-end-line="1039" selection-end-column="9" />
           <folding>
             <element signature="e#8#1347#0#PHP" />
             <element signature="e#1390#1572#0#PHP" />
@@ -915,24 +944,17 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/count_bits.php">
+    <entry file="jar://$APPLICATION_HOME_DIR$/plugins/php/lib/php.jar!/stubs/standard/standard_9.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret selection-end-line="4" selection-end-column="52" />
+        <state relative-caret-position="381">
+          <caret line="736" column="9" selection-start-line="736" selection-start-column="9" selection-end-line="736" selection-end-column="9" />
         </state>
       </provider>
     </entry>
-    <entry file="jar://$APPLICATION_HOME_DIR$/plugins/php/lib/php.jar!/stubs/standard/standard_1.php">
+    <entry file="file://$PROJECT_DIR$/top_k_frequent.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="656">
-          <caret line="416" column="9" selection-start-line="416" selection-start-column="9" selection-end-line="416" selection-end-column="9" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/count_substring.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="459">
-          <caret line="17" column="25" lean-forward="true" selection-start-line="17" selection-start-column="25" selection-end-line="17" selection-end-column="25" />
+        <state relative-caret-position="231">
+          <caret line="15" column="37" lean-forward="true" selection-start-line="15" selection-start-column="37" selection-end-line="15" selection-end-column="37" />
         </state>
       </provider>
     </entry>
