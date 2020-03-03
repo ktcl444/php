@@ -28,6 +28,8 @@
 
 [从前序与中序遍历序列构造二叉树+递归(深度遍历)](https://github.com/ktcl444/php/blob/master/tree/algorithm/build_tree.php)
 
+[二叉树的最近公共祖先+父指针+递归+全路径](https://github.com/ktcl444/php/blob/master/tree/algorithm/lowest_common_ancestor.php)
+   
 ### 链表
 
 [两数相加-逆序](https://github.com/ktcl444/php/blob/master/algorithm/linked_list/add_two_number_desc.php)
