@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="4a9ab226-9f54-4013-9f57-6a9f777b9224" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/unique_paths.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/daily_temperatures.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -14,19 +14,10 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/unique_paths.php">
+        <entry file="file://$PROJECT_DIR$/daily_temperatures.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="204">
-              <caret line="23" selection-start-line="23" selection-end-line="23" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/top_k_frequent.php">
-          <provider selected="true" editor-type-id="text-editor">
-            <state>
-              <caret selection-end-line="4" selection-end-column="52" />
+            <state relative-caret-position="270">
+              <caret line="34" column="21" lean-forward="true" selection-start-line="34" selection-start-column="21" selection-end-line="34" selection-end-column="21" />
             </state>
           </provider>
         </entry>
@@ -66,7 +57,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/linked_list/base/ListNode.php" />
         <option value="$PROJECT_DIR$/linked_list/add_two_number_asc_recursion.php" />
         <option value="$PROJECT_DIR$/linked_list/add_two_number_desc.php" />
         <option value="$PROJECT_DIR$/linked_list/merge_two_list.php" />
@@ -117,6 +107,7 @@
         <option value="$PROJECT_DIR$/tree/inorder_traversal.php" />
         <option value="$PROJECT_DIR$/tree/lowest_common_ancestor.php" />
         <option value="$PROJECT_DIR$/unique_paths.php" />
+        <option value="$PROJECT_DIR$/daily_temperatures.php" />
       </list>
     </option>
   </component>
@@ -206,11 +197,11 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="PHP Script.unique_paths.php">
+  <component name="RunManager" selected="PHP Script.daily_temperatures.php">
     <configuration default="true" type="PhpLocalRunConfigurationType" factoryName="PHP Console" path="$PROJECT_DIR$/tree/lowest_common_ancestor.php">
       <method v="2" />
     </configuration>
-    <configuration name="count_substring.php" type="PhpLocalRunConfigurationType" factoryName="PHP Console" temporary="true" path="$PROJECT_DIR$/count_substring.php">
+    <configuration name="daily_temperatures.php" type="PhpLocalRunConfigurationType" factoryName="PHP Console" temporary="true" path="$PROJECT_DIR$/daily_temperatures.php">
       <method v="2" />
     </configuration>
     <configuration name="flatten.php" type="PhpLocalRunConfigurationType" factoryName="PHP Console" temporary="true" path="$PROJECT_DIR$/tree/flatten.php">
@@ -226,19 +217,19 @@
       <method v="2" />
     </configuration>
     <list>
-      <item itemvalue="PHP Script.count_substring.php" />
       <item itemvalue="PHP Script.lowest_common_ancestor.php" />
       <item itemvalue="PHP Script.top_k_frequent.php" />
       <item itemvalue="PHP Script.flatten.php" />
       <item itemvalue="PHP Script.unique_paths.php" />
+      <item itemvalue="PHP Script.daily_temperatures.php" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="PHP Script.daily_temperatures.php" />
         <item itemvalue="PHP Script.unique_paths.php" />
         <item itemvalue="PHP Script.lowest_common_ancestor.php" />
         <item itemvalue="PHP Script.flatten.php" />
         <item itemvalue="PHP Script.top_k_frequent.php" />
-        <item itemvalue="PHP Script.count_substring.php" />
       </list>
     </recent_temporary>
   </component>
@@ -297,12 +288,13 @@
       <workItem from="1583024691334" duration="4151000" />
       <workItem from="1583110964226" duration="1214000" />
       <workItem from="1583198229871" duration="4546000" />
-      <workItem from="1583285721645" duration="1338000" />
+      <workItem from="1583285721645" duration="1450000" />
+      <workItem from="1583371737091" duration="2445000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="161714000" />
+    <option name="totallyTimeSpent" value="164271000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -317,12 +309,12 @@
     <frame x="-7" y="-7" width="1721" height="935" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.19061936" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.19302465" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.32991013" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.36200258" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.36200258" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.3979461" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -450,6 +442,16 @@
           <line>37</line>
           <option name="timeStamp" value="50" />
         </line-breakpoint>
+        <line-breakpoint enabled="true" type="php">
+          <url>file://$PROJECT_DIR$/daily_temperatures.php</url>
+          <line>46</line>
+          <option name="timeStamp" value="51" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="php">
+          <url>file://$PROJECT_DIR$/daily_temperatures.php</url>
+          <line>13</line>
+          <option name="timeStamp" value="52" />
+        </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
   </component>
@@ -463,13 +465,6 @@
     </expressions>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/generate_parenthesis.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="27">
-          <caret line="31" column="23" lean-forward="true" selection-start-line="31" selection-start-column="23" selection-end-line="31" selection-end-column="23" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/tree/flip_tree_recursion_tet.php">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="135">
@@ -662,13 +657,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="jar://$APPLICATION_HOME_DIR$/plugins/php/lib/php.jar!/stubs/standard/standard_9.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="19872">
-          <caret line="736" column="9" selection-start-line="736" selection-start-column="9" selection-end-line="736" selection-end-column="9" />
-        </state>
-      </provider>
-    </entry>
     <entry file="jar://$APPLICATION_HOME_DIR$/plugins/php/lib/php.jar!/stubs/standard/standard_1.php">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="11232">
@@ -795,10 +783,31 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/top_k_frequent.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret selection-end-line="4" selection-end-column="52" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/unique_paths.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret selection-end-line="4" selection-end-column="52" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$APPLICATION_HOME_DIR$/plugins/php/lib/php.jar!/stubs/standard/standard_9.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="238">
+          <caret line="125" column="9" selection-start-line="125" selection-start-column="9" selection-end-line="125" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
     <entry file="jar://$APPLICATION_HOME_DIR$/plugins/php/lib/php.jar!/stubs/standard/standard_8.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="6777">
-          <caret line="1053" column="9" selection-start-line="1053" selection-start-column="9" selection-end-line="1053" selection-end-column="9" />
+        <state relative-caret-position="368">
+          <caret line="1014" column="3" lean-forward="true" selection-start-line="1014" selection-start-column="3" selection-end-line="1014" selection-end-column="3" />
           <folding>
             <element signature="e#8#1347#0#PHP" />
             <element signature="e#1390#1572#0#PHP" />
@@ -850,23 +859,15 @@
             <element signature="e#29397#29762#0#PHP" />
             <element signature="e#29814#30417#0#PHP" />
             <element signature="e#30463#30988#0#PHP" />
-            <element signature="e#31416#31733#0#PHP" />
             <element signature="e#34116#35101#0#PHP" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/top_k_frequent.php">
+    <entry file="file://$PROJECT_DIR$/daily_temperatures.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret selection-end-line="4" selection-end-column="52" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/unique_paths.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="204">
-          <caret line="23" selection-start-line="23" selection-end-line="23" />
+        <state relative-caret-position="270">
+          <caret line="34" column="21" lean-forward="true" selection-start-line="34" selection-start-column="21" selection-end-line="34" selection-end-column="21" />
         </state>
       </provider>
     </entry>
