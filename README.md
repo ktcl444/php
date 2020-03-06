@@ -29,6 +29,8 @@
 [从前序与中序遍历序列构造二叉树+递归(深度遍历)](https://github.com/ktcl444/php/blob/master/tree/algorithm/build_tree.php)
 
 [二叉树的最近公共祖先+父指针+递归+全路径](https://github.com/ktcl444/php/blob/master/tree/algorithm/lowest_common_ancestor.php)
+
+[打家劫舍+动态规划(偷,不偷2种状态)](https://github.com/ktcl444/php/blob/master/tree/algorithm/rob.php)
    
 ### 链表
 

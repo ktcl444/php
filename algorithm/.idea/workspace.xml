@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="4a9ab226-9f54-4013-9f57-6a9f777b9224" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/daily_temperatures.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tree/rob.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -13,11 +13,38 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/daily_temperatures.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="270">
-              <caret line="34" column="21" lean-forward="true" selection-start-line="34" selection-start-column="21" selection-end-line="34" selection-end-column="21" />
+            <state relative-caret-position="594">
+              <caret line="34" column="21" selection-start-line="34" selection-start-column="21" selection-end-line="34" selection-end-column="21" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/rob.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="108">
+              <caret line="4" column="6" selection-start-line="4" selection-start-column="6" selection-end-line="4" selection-end-column="6" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/tree/rob.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="69">
+              <caret line="11" column="40" selection-start-line="11" selection-start-column="40" selection-end-line="11" selection-end-column="40" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/tree/num_trees.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state>
+              <caret selection-end-line="6" selection-end-column="61" />
             </state>
           </provider>
         </entry>
@@ -57,7 +84,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/linked_list/add_two_number_asc_recursion.php" />
         <option value="$PROJECT_DIR$/linked_list/add_two_number_desc.php" />
         <option value="$PROJECT_DIR$/linked_list/merge_two_list.php" />
         <option value="$PROJECT_DIR$/tree/deep_tree_iteration.php" />
@@ -108,6 +134,7 @@
         <option value="$PROJECT_DIR$/tree/lowest_common_ancestor.php" />
         <option value="$PROJECT_DIR$/unique_paths.php" />
         <option value="$PROJECT_DIR$/daily_temperatures.php" />
+        <option value="$PROJECT_DIR$/tree/rob.php" />
       </list>
     </option>
   </component>
@@ -197,7 +224,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="PHP Script.daily_temperatures.php">
+  <component name="RunManager" selected="PHP Script.rob.php">
     <configuration default="true" type="PhpLocalRunConfigurationType" factoryName="PHP Console" path="$PROJECT_DIR$/tree/lowest_common_ancestor.php">
       <method v="2" />
     </configuration>
@@ -210,7 +237,7 @@
     <configuration name="lowest_common_ancestor.php" type="PhpLocalRunConfigurationType" factoryName="PHP Console" temporary="true" path="$PROJECT_DIR$/tree/lowest_common_ancestor.php">
       <method v="2" />
     </configuration>
-    <configuration name="top_k_frequent.php" type="PhpLocalRunConfigurationType" factoryName="PHP Console" temporary="true" path="$PROJECT_DIR$/top_k_frequent.php">
+    <configuration name="rob.php" type="PhpLocalRunConfigurationType" factoryName="PHP Console" temporary="true" path="$PROJECT_DIR$/tree/rob.php">
       <method v="2" />
     </configuration>
     <configuration name="unique_paths.php" type="PhpLocalRunConfigurationType" factoryName="PHP Console" temporary="true" path="$PROJECT_DIR$/unique_paths.php">
@@ -218,18 +245,18 @@
     </configuration>
     <list>
       <item itemvalue="PHP Script.lowest_common_ancestor.php" />
-      <item itemvalue="PHP Script.top_k_frequent.php" />
       <item itemvalue="PHP Script.flatten.php" />
       <item itemvalue="PHP Script.unique_paths.php" />
       <item itemvalue="PHP Script.daily_temperatures.php" />
+      <item itemvalue="PHP Script.rob.php" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="PHP Script.rob.php" />
         <item itemvalue="PHP Script.daily_temperatures.php" />
         <item itemvalue="PHP Script.unique_paths.php" />
         <item itemvalue="PHP Script.lowest_common_ancestor.php" />
         <item itemvalue="PHP Script.flatten.php" />
-        <item itemvalue="PHP Script.top_k_frequent.php" />
       </list>
     </recent_temporary>
   </component>
@@ -289,12 +316,14 @@
       <workItem from="1583110964226" duration="1214000" />
       <workItem from="1583198229871" duration="4546000" />
       <workItem from="1583285721645" duration="1450000" />
-      <workItem from="1583371737091" duration="2445000" />
+      <workItem from="1583371737091" duration="2515000" />
+      <workItem from="1583379729569" duration="118000" />
+      <workItem from="1583456638134" duration="1664000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="164271000" />
+    <option name="totallyTimeSpent" value="166123000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -309,12 +338,12 @@
     <frame x="-7" y="-7" width="1721" height="935" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.19302465" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.19783524" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.32991013" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.36200258" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.36200258" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.3979461" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -465,20 +494,6 @@
     </expressions>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/tree/flip_tree_recursion_tet.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="135">
-          <caret line="5" column="6" selection-start-line="5" selection-start-column="6" selection-end-line="5" selection-end-column="6" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/tree/flip_tree_recursion.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="108">
-          <caret line="4" column="6" selection-start-line="4" selection-start-column="6" selection-end-line="4" selection-end-column="6" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/tree/flip_tree_iteration.php">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="135">
@@ -685,13 +700,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/tree/num_trees.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="162">
-          <caret line="6" column="6" selection-start-line="6" selection-start-column="6" selection-end-line="6" selection-end-column="6" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/tree/tree_is_symmetric.php">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="135">
@@ -866,8 +874,29 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/daily_temperatures.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="270">
-          <caret line="34" column="21" lean-forward="true" selection-start-line="34" selection-start-column="21" selection-end-line="34" selection-end-column="21" />
+        <state relative-caret-position="594">
+          <caret line="34" column="21" selection-start-line="34" selection-start-column="21" selection-end-line="34" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/rob.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="108">
+          <caret line="4" column="6" selection-start-line="4" selection-start-column="6" selection-end-line="4" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tree/num_trees.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret selection-end-line="6" selection-end-column="61" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tree/rob.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="69">
+          <caret line="11" column="40" selection-start-line="11" selection-start-column="40" selection-end-line="11" selection-end-column="40" />
         </state>
       </provider>
     </entry>
