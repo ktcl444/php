@@ -129,3 +129,5 @@
 [每日温度-暂存(数组+栈)](https://github.com/ktcl444/php/blob/master/algorithm/daily_temperatures.php)
 
 [颜色分类-三指针交换](https://github.com/ktcl444/php/blob/master/algorithm/sort_colors.php)
+
+[完全平方数-动态规划](https://github.com/ktcl444/php/blob/master/algorithm/num_squares.php)
