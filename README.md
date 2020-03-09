@@ -52,6 +52,10 @@
 
 [排序链表-归并排序(递归)](https://github.com/ktcl444/php/blob/master/algorithm/linked_list/sort_list.php)
 
+### 图
+
+[完全平方数-动态规划](https://github.com/ktcl444/php/blob/master/algorithm/graph/calc_equation.php)
+
 ### 其他
 
 [成对括号](https://github.com/ktcl444/php/blob/master/algorithm/brackets.php)
