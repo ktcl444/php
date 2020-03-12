@@ -56,6 +56,8 @@
 
 [完全平方数-动态规划](https://github.com/ktcl444/php/blob/master/algorithm/graph/calc_equation.php)
 
+[课程表-入度表+DFS](https://github.com/ktcl444/php/blob/master/algorithm/graph/can_finish.php)
+
 ### 其他
 
 [成对括号](https://github.com/ktcl444/php/blob/master/algorithm/brackets.php)

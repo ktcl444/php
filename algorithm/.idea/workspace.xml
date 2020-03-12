@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="4a9ab226-9f54-4013-9f57-6a9f777b9224" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/max_profit.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/graph/can_finish.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -13,11 +13,91 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/max_profit.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="351">
+            <state relative-caret-position="487">
               <caret line="31" selection-start-line="31" selection-end-line="31" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/graph/can_finish.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-1323">
+              <caret line="20" column="9" lean-forward="true" selection-start-line="20" selection-start-column="9" selection-end-line="20" selection-end-column="9" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="jar://$APPLICATION_HOME_DIR$/plugins/php/lib/php.jar!/stubs/standard/standard_8.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="557">
+              <caret line="1039" column="9" selection-start-line="1039" selection-start-column="9" selection-end-line="1039" selection-end-column="9" />
+              <folding>
+                <element signature="e#8#1347#0#PHP" />
+                <element signature="e#1390#1572#0#PHP" />
+                <element signature="e#1598#2112#0#PHP" />
+                <element signature="e#2174#3265#0#PHP" />
+                <element signature="e#3342#3728#0#PHP" />
+                <element signature="e#3784#4039#0#PHP" />
+                <element signature="e#4084#4270#0#PHP" />
+                <element signature="e#4311#4514#0#PHP" />
+                <element signature="e#4541#4990#0#PHP" />
+                <element signature="e#5036#7676#0#PHP" />
+                <element signature="e#7760#7905#0#PHP" />
+                <element signature="e#7931#8077#0#PHP" />
+                <element signature="e#8103#8491#0#PHP" />
+                <element signature="e#8521#8910#0#PHP" />
+                <element signature="e#8940#9196#0#PHP" />
+                <element signature="e#9226#9532#0#PHP" />
+                <element signature="e#9562#9804#0#PHP" />
+                <element signature="e#9835#10102#0#PHP" />
+                <element signature="e#10132#11880#0#PHP" />
+                <element signature="e#11930#12195#0#PHP" />
+                <element signature="e#12228#12467#0#PHP" />
+                <element signature="e#12511#12880#0#PHP" />
+                <element signature="e#13352#13752#0#PHP" />
+                <element signature="e#13809#14059#0#PHP" />
+                <element signature="e#14097#14368#0#PHP" />
+                <element signature="e#14410#14816#0#PHP" />
+                <element signature="e#14872#15296#0#PHP" />
+                <element signature="e#15875#16267#0#PHP" />
+                <element signature="e#16323#16835#0#PHP" />
+                <element signature="e#16886#17295#0#PHP" />
+                <element signature="e#17347#18015#0#PHP" />
+                <element signature="e#18067#18280#0#PHP" />
+                <element signature="e#18318#19424#0#PHP" />
+                <element signature="e#19494#20350#0#PHP" />
+                <element signature="e#20430#21801#0#PHP" />
+                <element signature="e#21850#22349#0#PHP" />
+                <element signature="e#22383#22720#0#PHP" />
+                <element signature="e#22755#23107#0#PHP" />
+                <element signature="e#23142#23444#0#PHP" />
+                <element signature="e#23480#23979#0#PHP" />
+                <element signature="e#24016#24499#0#PHP" />
+                <element signature="e#24532#24921#0#PHP" />
+                <element signature="e#24977#25412#0#PHP" />
+                <element signature="e#25468#26067#0#PHP" />
+                <element signature="e#26134#27032#0#PHP" />
+                <element signature="e#27102#28268#0#PHP" />
+                <element signature="e#28347#28894#0#PHP" />
+                <element signature="e#29397#29762#0#PHP" />
+                <element signature="e#29814#30417#0#PHP" />
+                <element signature="e#30463#30988#0#PHP" />
+                <element signature="e#34116#35101#0#PHP" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/graph/calc_equation.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state>
+              <caret selection-end-line="4" selection-end-column="52" />
             </state>
           </provider>
         </entry>
@@ -64,7 +144,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/../../../dnmp/www/localhost/ws_test.php" />
         <option value="$PROJECT_DIR$/maxProfit.php" />
         <option value="$PROJECT_DIR$/linked_list/add_two_number_asc_stack.php" />
         <option value="$PROJECT_DIR$/linked_list/test.php" />
@@ -115,6 +194,7 @@
         <option value="$PROJECT_DIR$/graph/calc_equation.php" />
         <option value="$PROJECT_DIR$/letter_combinations.php" />
         <option value="$PROJECT_DIR$/max_profit.php" />
+        <option value="$PROJECT_DIR$/graph/can_finish.php" />
       </list>
     </option>
   </component>
@@ -215,11 +295,14 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="PHP Script.max_profit.php">
+  <component name="RunManager" selected="PHP Script.can_finish.php">
     <configuration default="true" type="PhpLocalRunConfigurationType" factoryName="PHP Console" path="$PROJECT_DIR$/tree/lowest_common_ancestor.php">
       <method v="2" />
     </configuration>
     <configuration name="calc_equation.php" type="PhpLocalRunConfigurationType" factoryName="PHP Console" temporary="true" path="$PROJECT_DIR$/graph/calc_equation.php">
+      <method v="2" />
+    </configuration>
+    <configuration name="can_finish.php" type="PhpLocalRunConfigurationType" factoryName="PHP Console" temporary="true" path="$PROJECT_DIR$/graph/can_finish.php">
       <method v="2" />
     </configuration>
     <configuration name="letter_combinations.php" type="PhpLocalRunConfigurationType" factoryName="PHP Console" temporary="true" path="$PROJECT_DIR$/letter_combinations.php">
@@ -231,23 +314,20 @@
     <configuration name="num_squares.php" type="PhpLocalRunConfigurationType" factoryName="PHP Console" temporary="true" path="$PROJECT_DIR$/num_squares.php">
       <method v="2" />
     </configuration>
-    <configuration name="sort_colors.php" type="PhpLocalRunConfigurationType" factoryName="PHP Console" temporary="true" path="$PROJECT_DIR$/sort_colors.php">
-      <method v="2" />
-    </configuration>
     <list>
-      <item itemvalue="PHP Script.sort_colors.php" />
       <item itemvalue="PHP Script.num_squares.php" />
       <item itemvalue="PHP Script.calc_equation.php" />
       <item itemvalue="PHP Script.letter_combinations.php" />
       <item itemvalue="PHP Script.max_profit.php" />
+      <item itemvalue="PHP Script.can_finish.php" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="PHP Script.can_finish.php" />
         <item itemvalue="PHP Script.max_profit.php" />
         <item itemvalue="PHP Script.letter_combinations.php" />
         <item itemvalue="PHP Script.calc_equation.php" />
         <item itemvalue="PHP Script.num_squares.php" />
-        <item itemvalue="PHP Script.sort_colors.php" />
       </list>
     </recent_temporary>
   </component>
@@ -314,12 +394,13 @@
       <workItem from="1583634395700" duration="1109000" />
       <workItem from="1583719953272" duration="7641000" />
       <workItem from="1583799618324" duration="1817000" />
-      <workItem from="1583894212666" duration="5506000" />
+      <workItem from="1583894212666" duration="5579000" />
+      <workItem from="1583975705464" duration="2182000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="185521000" />
+    <option name="totallyTimeSpent" value="187776000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -334,13 +415,13 @@
     <frame x="-7" y="-7" width="1721" height="935" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.24233313" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.24533975" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.32991013" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.23620026" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.3979461" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.23620026" />
+      <window_info active="true" anchor="bottom" id="Debug" order="3" visible="true" weight="0.3979461" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" weight="0.32991013" />
@@ -505,13 +586,6 @@
     </expressions>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/linked_list/merge_two_list.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="135">
-          <caret line="5" column="6" selection-start-line="5" selection-start-column="6" selection-end-line="5" selection-end-column="6" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/linked_list/is_palindrome.php">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="135">
@@ -805,13 +879,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/graph/calc_equation.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="27">
-          <caret line="4" column="52" selection-start-line="4" selection-start-column="52" selection-end-line="4" selection-end-column="52" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/letter_combinations.php">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="676">
@@ -836,10 +903,24 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/max_profit.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="487">
+          <caret line="31" selection-start-line="31" selection-end-line="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/graph/calc_equation.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret selection-end-line="4" selection-end-column="52" />
+        </state>
+      </provider>
+    </entry>
     <entry file="jar://$APPLICATION_HOME_DIR$/plugins/php/lib/php.jar!/stubs/standard/standard_8.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="390">
-          <caret line="1026" column="9" selection-start-line="1026" selection-start-column="9" selection-end-line="1026" selection-end-column="9" />
+        <state relative-caret-position="557">
+          <caret line="1039" column="9" selection-start-line="1039" selection-start-column="9" selection-end-line="1039" selection-end-column="9" />
           <folding>
             <element signature="e#8#1347#0#PHP" />
             <element signature="e#1390#1572#0#PHP" />
@@ -896,10 +977,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/max_profit.php">
+    <entry file="file://$PROJECT_DIR$/graph/can_finish.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="351">
-          <caret line="31" selection-start-line="31" selection-end-line="31" />
+        <state relative-caret-position="-1323">
+          <caret line="20" column="9" lean-forward="true" selection-start-line="20" selection-start-column="9" selection-end-line="20" selection-end-column="9" />
         </state>
       </provider>
     </entry>
