@@ -27,7 +27,6 @@ class LRUCache
     public function __construct($capacity)
     {
         $this->cap = $capacity;
-        $this->len = 0;
 
         $this->head = new Node(-1, -1);
         $this->tail = new Node(-1, -1);
@@ -123,12 +122,12 @@ echo $cache->get(3).PHP_EOL;
 echo $cache->get(4).PHP_EOL;   */
 $cache->put(2,1);
 $cache->put(1,1);
-print_r($cache->head);
+//print_r($cache->head);
 $cache->put(2,3);
-//echo $cache->get(2).PHP_EOL;
-print_r($cache->head);
+echo $cache->get(2).PHP_EOL;
+//print_r($cache->head);
 $cache->put(4,1);
-print_r($cache->head);
-//echo $cache->get(1).PHP_EOL;
-//echo $cache->get(2).PHP_EOL;
+//print_r($cache->head);
+echo $cache->get(1).PHP_EOL;
+echo $cache->get(2).PHP_EOL;
 
