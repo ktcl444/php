@@ -17,16 +17,13 @@ class Solution extends \algorithm\base\AlgorithmBase
 		$target = $sum / 2;
 		$dp = array_fill(0,$target+1,false);
 		$dp[0] = true;
-/* 		if($nums[0] <= $target)
-		{
-			$dp[$nums[0]] = true;
-		} */
+
 		foreach($nums as $num){
 			for($j=$target;$num<=$j ;$j--){
-				//if($dp[$target])
-				//{
-				//	return true;
-				//}
+				//1、不选择 nums[i]，如果在 [0, i - 1] 这个子区间内已经有一部分元素，使得它们的和为 j ，那么 dp[i][j] = true；
+				//2、选择 nums[i]，如果在 [0, i - 1] 这个子区间内就得找到一部分元素，使得它们的和为 j - nums[i]。
+				//dp[i][j] = dp[i - 1][j] or dp[i - 1][j - nums[i]]
+				//滚动数组
 				$dp[$j] = $dp[$j] || $dp[$j - $num];
 			}
 		}
