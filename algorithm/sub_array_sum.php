@@ -26,7 +26,6 @@ class Solution extends \algorithm\base\AlgorithmBase
 				$pre_count = 0;
 			}
 			$sum_mapping[$sum] = $pre_count +1;
-			print_r($sum_mapping);
 		}
 		
 		return $result;
