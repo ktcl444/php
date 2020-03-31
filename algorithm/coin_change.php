@@ -43,7 +43,6 @@ class Solution extends \algorithm\base\AlgorithmBase
 					}
 				}
 			}
-			print_r($dp);
 			
 			return $dp[$amount] == PHP_INT_MAX ? -1 : $dp[$amount];
 			
