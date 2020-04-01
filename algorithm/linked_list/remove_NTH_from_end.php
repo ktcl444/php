@@ -6,6 +6,7 @@ require_once 'base\LinkedListAlgorithmBase.php';
 
 use \algorithm\linked_list\base\ListNode as ListNode;
 
+//删除链表的倒数第n个节点
 class Solution extends \algorithm\linked_list\base\LinkedListAlgorithmBase
 {
 	#region 双指针
