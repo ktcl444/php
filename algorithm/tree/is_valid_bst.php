@@ -3,7 +3,7 @@
 namespace algorithm\tree;
 require_once 'base\TreeAlgorithmBase.php';
 
-//验证二叉搜索树-迭代
+//验证二叉搜索树-中序+迭代+递归+动态规划(记录每个节点的上下限)
 class Solution extends \algorithm\tree\base\TreeAlgorithmBase
 {
 	#region 中序遍历(每一个元素都要应该比上一个大)
