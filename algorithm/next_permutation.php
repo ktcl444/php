@@ -3,6 +3,9 @@
 require_once 'base\AlgorithmBase.php';
 
 //[字典序下一个排列-降序变升序]
+//1,从右边开始 找到第一个nums[i] < nums[i+1]的索引i(找不到说明数组是最大降序)
+//2,从右边开始 找到第一个大于nums[i]的索引j 交换 i,j
+//3,从i+1开始 排序字符串
 class Solution extends \algorithm\base\AlgorithmBase
 {
     function nextPermutation(&$nums) {
