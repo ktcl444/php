@@ -33,6 +33,7 @@ class Solution extends \algorithm\base\AlgorithmBase
 		$cache[$left][$right] = $coins;
 		return $coins;
 	}
+	
 	//动态规划（自底向上）
 	function maxCoins($nums)
 	{
