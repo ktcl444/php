@@ -2,6 +2,7 @@
 
 require_once 'base\AlgorithmBase.php';
 
+//删除无效的括号-bfs
 class Solution extends \algorithm\base\AlgorithmBase
 {
 	

@@ -219,3 +219,7 @@
 
 [最大矩形-动态规划]
 (https://github.com/ktcl444/php/blob/master/algorithm/maximal_rectangle.php)
+
+[柱状图中的最大矩形-堆栈+暴力]
+(https://github.com/ktcl444/php/blob/master/algorithm/largest_rectangle_area.php)
+
