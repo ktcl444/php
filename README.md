@@ -31,6 +31,11 @@
 [二叉树的最近公共祖先+父指针+递归+全路径](https://github.com/ktcl444/php/blob/master/tree/algorithm/lowest_common_ancestor.php)
 
 [打家劫舍+动态规划(偷,不偷2种状态)](https://github.com/ktcl444/php/blob/master/tree/algorithm/rob.php)
+
+[验证二叉搜索树-中序+迭代+递归+动态规划(记录每个节点的上下限)](https://github.com/ktcl444/php/blob/master/tree/algorithm/is_valid_bst.php)
+
+[二叉树的序列化反序列化-DFS](https://github.com/ktcl444/php/blob/master/tree/algorithm/serialize.php)
+
    
 ### 链表
 
@@ -52,11 +57,17 @@
 
 [排序链表-归并排序(递归)](https://github.com/ktcl444/php/blob/master/algorithm/linked_list/sort_list.php)
 
+[删除链表的倒数第n个节点-双指针+堆栈暂存每一个节点前后节点](https://github.com/ktcl444/php/blob/master/algorithm/linked_list/remove_NTH_from_end.php)
+
+[合并多个有序链表-分治(两两合并) + 暴力(合并排序)](https://github.com/ktcl444/php/blob/master/algorithm/linked_list/merge_k_lists.php)
+
 ### 图
 
 [完全平方数-动态规划](https://github.com/ktcl444/php/blob/master/algorithm/graph/calc_equation.php)
 
 [课程表-入度表+DFS](https://github.com/ktcl444/php/blob/master/algorithm/graph/can_finish.php)
+
+[搜索单词-DFS+回溯](https://github.com/ktcl444/php/blob/master/algorithm/graph/exist.php)
 
 ### 其他
 
@@ -130,6 +141,8 @@
 
 [回文子串-中间向两边延伸](https://github.com/ktcl444/php/blob/master/algorithm/count_substring.php)
 
+[最长回文子串-中间向两边延伸](https://github.com/ktcl444/php/blob/master/algorithm/longest_palindrome.php)
+
 [前K个高频元素-字典](https://github.com/ktcl444/php/blob/master/algorithm/top_k_frequent.php)
 
 [不同路径-动态规划](https://github.com/ktcl444/php/blob/master/algorithm/unique_paths.php)
@@ -141,3 +154,68 @@
 [完全平方数-动态规划](https://github.com/ktcl444/php/blob/master/algorithm/num_squares.php)
 
 [电话号码的字母组合-递归](https://github.com/ktcl444/php/blob/master/algorithm/letter_combinations.php)
+
+[任务调度器-排序+优先队列+桶](https://github.com/ktcl444/php/blob/master/algorithm/least_interval.php)
+
+[岛屿数量-深度优先+广度优先](https://github.com/ktcl444/php/blob/master/algorithm/num_island.php)
+
+[LRU缓存机制-栈](https://github.com/ktcl444/php/blob/master/algorithm/lru_cache.php)
+
+[LRU缓存机制-链表](https://github.com/ktcl444/php/blob/master/algorithm/lru_cache_node.php)
+
+[分割等和子集-动态规划(0,1背包)](https://github.com/ktcl444/php/blob/master/algorithm/can_partition.php)
+
+[和为k的子数组-hashmap](https://github.com/ktcl444/php/blob/master/algorithm/sub_array_sum.php)
+
+[单词拆分-递归+动态规划+宽度优先搜索](https://github.com/ktcl444/php/blob/master/algorithm/word_break.php)
+
+[最长上升子序列-动态规划+贪心二分](https://github.com/ktcl444/php/blob/master/algorithm/length_of_lis.php)
+
+[找到字符串中所有字母异位词-滑动窗口](https://github.com/ktcl444/php/blob/master/algorithm/find_anagrams.php)
+
+[目标和-动态规划+递归+遍历](https://github.com/ktcl444/php/blob/master/algorithm/get_target_sum_ways.php)
+
+[合并区间-最小值最大值映射+排序](https://github.com/ktcl444/php/blob/master/algorithm/merge.php)
+
+[搜索二维矩阵-左下角入口+dfs](https://github.com/ktcl444/php/blob/master/algorithm/search_matrix.php)
+
+[最大正方形-暴力破解+动态规划](https://github.com/ktcl444/php/blob/master/algorithm/maximal_square.php)
+
+[在排序数组中查找元素的第一个和最后一个位置
+-二分](https://github.com/ktcl444/php/blob/master/algorithm/search_range.php)
+
+[零钱兑换-动态规划]
+(https://github.com/ktcl444/php/blob/master/algorithm/coin_change.php)
+
+[跳跃游戏-贪心+动态规划+递归]
+(https://github.com/ktcl444/php/blob/master/algorithm/coin_change.php)
+
+[乘积最大子数组-动态规划]
+(https://github.com/ktcl444/php/blob/master/algorithm/max_product.php)
+
+[搜索旋转排序数组-二分]
+(https://github.com/ktcl444/php/blob/master/algorithm/search_rotate.php)
+
+[字典序下一个排列-降序变升序]
+(https://github.com/ktcl444/php/blob/master/algorithm/next_permutation.php)
+
+[三数之和-双指针排序+暴力]
+(https://github.com/ktcl444/php/blob/master/algorithm/three_num.php)
+
+[戳气球-动态规划分治(自底向上 自上向下)]
+(https://github.com/ktcl444/php/blob/master/algorithm/max_coins.php)
+
+[接雨水-水能达到的最高位置，等于两边最大高度的较小值减去当前高度的值(暴力+堆栈)]
+(https://github.com/ktcl444/php/blob/master/algorithm/trap.php)
+
+[最长连续序列-哈希表]
+(https://github.com/ktcl444/php/blob/master/algorithm/longest_consecutive.php)
+
+[滑动窗口最大值-堆栈(存储最大值索引)+动态规划(左右数组)]
+(https://github.com/ktcl444/php/blob/master/algorithm/max_sliding_window.php)
+
+[删除无效的括号-BFS]
+(https://github.com/ktcl444/php/blob/master/algorithm/remove_invalid_parentheses.php)
+
+[最大矩形-动态规划]
+(https://github.com/ktcl444/php/blob/master/algorithm/maximal_rectangle.php)
