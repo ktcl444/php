@@ -36,6 +36,7 @@
 
 [二叉树的序列化反序列化-DFS](https://github.com/ktcl444/php/blob/master/tree/algorithm/serialize.php)
 
+[二叉树的最大路径和-递归](https://github.com/ktcl444/php/blob/master/tree/algorithm/max_path_sum.php)
    
 ### 链表
 
