@@ -226,3 +226,6 @@
 
 [编辑距离-状态规划(自顶向下+自底向上)]
 (https://github.com/ktcl444/php/blob/master/algorithm/largest_rectangle_area.php)
+
+[最小覆盖子串-滑动窗口]
+(https://github.com/ktcl444/php/blob/master/algorithm/min_window.php)
