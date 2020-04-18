@@ -232,3 +232,6 @@
 
 [最长有效括号-左右遍历+栈+占位]
 (https://github.com/ktcl444/php/blob/master/algorithm/longest_valid_parentheses.php)
+
+[正则表达式-动态规划(上下+下上)+回溯]
+(https://github.com/ktcl444/php/blob/master/algorithm/is_match.php)
