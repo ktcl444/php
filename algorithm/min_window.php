@@ -2,7 +2,7 @@
 
 require_once 'base\AlgorithmBase.php';
 
-//最小覆盖子串
+//最小覆盖子串-滑动窗口
 class Solution extends \algorithm\base\AlgorithmBase
 {
     function minWindow($s, $t) {

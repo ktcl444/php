@@ -229,3 +229,6 @@
 
 [最小覆盖子串-滑动窗口]
 (https://github.com/ktcl444/php/blob/master/algorithm/min_window.php)
+
+[最长有效括号-左右遍历+栈+占位]
+(https://github.com/ktcl444/php/blob/master/algorithm/longest_valid_parentheses.php)
