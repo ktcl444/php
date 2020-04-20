@@ -80,6 +80,18 @@ class Solution extends \algorithm\base\AlgorithmBase
 		}
 	}
 	#endregion
+    function isMatch2($s, $p) {
+		if(empty($p)) return empty($s);
+		$first_match = !empty($s) && ($s[0] == $p[0] || $p[0] == '.');
+		
+		if(strlen($p) >= 2 && $p[1] == '*'){
+			return $this->isMatch($s,substr($p,2)) || ($first_match && $this->isMatch(substr($s,1),$p));
+		}else{
+			return $first_match && $this->isMatch(substr($s,1),substr($p,1));
+		}
+    }
+	#endregion
+	
 	function test(){
 		echo $this->isMatch('aa','a').PHP_EOL;
 		$this->init();
@@ -91,7 +103,6 @@ class Solution extends \algorithm\base\AlgorithmBase
 		$this->init();
 		echo $this->isMatch('mississippi','mis*is*p*.').PHP_EOL;
 	}
-	#endregion
 }
 
 (new Solution())->test();
