@@ -38,7 +38,6 @@ class Solution extends \algorithm\base\AlgorithmBase
 		for($i = 0;$i < $length;$i++){
 			$word = $strs[$i];
 			$word_array = $this->wordToCount($word);
-			echo 'w:'.$word.' n:'.$word_array.PHP_EOL;
 			if(!array_key_exists($word_array,$result)){
 				$result[$word_array] = [];
 			}

@@ -4,7 +4,7 @@ namespace algorithm\tree;
 require_once 'base\TreeAlgorithmBase.php';
 
 use \algorithm\tree\base\TreeNode as TreeNode;
-//有序数组转换为高度平衡二叉树
+//有序数组转换为高度平衡二叉树-递归
 class Solution extends \algorithm\tree\base\TreeAlgorithmBase
 {
 	function sortedArrayToBST($nums) {
@@ -18,9 +18,6 @@ class Solution extends \algorithm\tree\base\TreeAlgorithmBase
 		$center = $length/2 ;
 		$left = array_slice($nums,0,$center);
 		$right = array_slice($nums,$center + 1);
-		
-		print_r($left);
-		print_r($right);
 		
 		$root = new TreeNode($nums[$center]);
 		

@@ -98,6 +98,8 @@
 
 [汉明距离-按位异或](https://github.com/ktcl444/php/blob/master/algorithm/hmjl.php)
 
+[汉明重量-本体与本体-1](https://github.com/ktcl444/php/blob/master/algorithm/hanming_weight.php)
+
 [只出现一次的数字-数组+hash+数学+异或](https://github.com/ktcl444/php/blob/master/algorithm/single_number.php)
 
 [众数-hash+排序+投票](https://github.com/ktcl444/php/blob/master/algorithm/majority_element.php)
@@ -240,3 +242,6 @@
 
 [字母异位词分组-排序树组分类+计数分类]
 (https://github.com/ktcl444/php/blob/master/algorithm/group_anagrams.php)
+
+[杨辉三角-动态规划]
+(https://github.com/ktcl444/php/blob/master/algorithm/generate.php)

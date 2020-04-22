@@ -117,9 +117,6 @@ class Solution extends \algorithm\base\AlgorithmBase
 	function test(){
 		print_r( $this->findAnagrams('ababa','ab'));
 	}
-	
-	
-
 }
 
 (new Solution())->test();
