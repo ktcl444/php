@@ -261,3 +261,9 @@
 
 [反转二进制位-逐位颠倒]
 (https://github.com/ktcl444/php/blob/master/algorithm/reverse_bits.php)
+
+[缺失数字-求和公式]
+(https://github.com/ktcl444/php/blob/master/algorithm/missing_number.php)
+
+[外观数列]
+(https://github.com/ktcl444/php/blob/master/algorithm/count_and_say.php)
