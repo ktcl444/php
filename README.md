@@ -258,3 +258,6 @@
 
 [快乐数-快慢指针+字典循环]
 (https://github.com/ktcl444/php/blob/master/algorithm/is_happy.php)
+
+[反转二进制位-逐位颠倒]
+(https://github.com/ktcl444/php/blob/master/algorithm/reverse_bits.php)
