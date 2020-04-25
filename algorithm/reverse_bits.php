@@ -2,7 +2,7 @@
 
 require_once 'base\AlgorithmBase.php';
 
-//反转二进制位
+//反转二进制位-逐位颠倒
 class Solution extends \algorithm\base\AlgorithmBase
 {
 	function reverseBits($n){

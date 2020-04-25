@@ -270,3 +270,6 @@
 
 [两整数之和-按位与或]
 (https://github.com/ktcl444/php/blob/master/algorithm/get_sum.php)
+
+[存在重复元素-排序+哈希表]
+(https://github.com/ktcl444/php/blob/master/algorithm/contains_duplicate.php)
