@@ -266,4 +266,7 @@
 (https://github.com/ktcl444/php/blob/master/algorithm/missing_number.php)
 
 [外观数列]
-(https://github.com/ktcl444/php/blob/master/algorithm/count_and_say.php)
+(https://github.com/ktcl444/php/blob/master/algorithm/count_and_say.php
+
+[两整数之和-按位与或]
+(https://github.com/ktcl444/php/blob/master/algorithm/get_sum.php)
