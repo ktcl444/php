@@ -273,3 +273,9 @@
 
 [存在重复元素-排序+哈希表]
 (https://github.com/ktcl444/php/blob/master/algorithm/contains_duplicate.php)
+
+[删除排序数组中的重复项-双指针]
+(https://github.com/ktcl444/php/blob/master/algorithm/remove_duplicates.php)
+
+[两个数组的交集-排序+字典]
+(https://github.com/ktcl444/php/blob/master/algorithm/remove_duplicates.php)
