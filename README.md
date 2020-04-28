@@ -279,3 +279,6 @@
 
 [两个数组的交集-排序+字典]
 (https://github.com/ktcl444/php/blob/master/algorithm/remove_duplicates.php)
+
+[合并2个有序数组-双指针(从后往前+从前往后)+合并排序]
+(https://github.com/ktcl444/php/blob/master/algorithm/merge_two_list.php)
