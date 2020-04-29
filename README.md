@@ -282,3 +282,9 @@
 
 [合并2个有序数组-双指针(从后往前+从前往后)+合并排序]
 (https://github.com/ktcl444/php/blob/master/algorithm/merge_two_list.php)
+
+[3的幂-对数+循环]
+(https://github.com/ktcl444/php/blob/master/algorithm/is_power_of_three.php)
+
+[字符串中的第一个不重复的字符-字典]
+(https://github.com/ktcl444/php/blob/master/algorithm/first_uniq_char.php)
