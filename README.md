@@ -288,3 +288,6 @@
 
 [字符串中的第一个不重复的字符-字典]
 (https://github.com/ktcl444/php/blob/master/algorithm/first_uniq_char.php)
+
+[加一-从后往前]
+(https://github.com/ktcl444/php/blob/master/algorithm/plus_one.php)
