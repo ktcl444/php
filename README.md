@@ -297,3 +297,10 @@
 
 [旋转数组-环形+反转+延长]
 (https://github.com/ktcl444/php/blob/master/algorithm/rotate_array.php)
+
+[阶乘后的零-统计5出现的次数]
+(https://github.com/ktcl444/php/blob/master/algorithm/trailing_zeroes.php)
+
+[实现strstr-双指针]
+(https://github.com/ktcl444/php/blob/master/algorithm/str_str.php)
+
