@@ -2,7 +2,7 @@
 
 require_once 'base\AlgorithmBase.php';
 
-//字符串中的第一个不重复的字符
+//字符串中的第一个不重复的字符-字典
 class Solution extends \algorithm\base\AlgorithmBase
 {
 	function firstUniqChar($s) {

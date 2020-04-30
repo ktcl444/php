@@ -2,7 +2,7 @@
 
 require_once 'base\AlgorithmBase.php';
 
-//两个数组的交集-字典+排序
+//合并2个有序数组-双指针(从后往前+从前往后)+合并排序
 class Solution extends \algorithm\base\AlgorithmBase
 {
 	#region 合并排序
