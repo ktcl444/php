@@ -306,3 +306,6 @@
 
 [x的平方根-递归位操作]
 (https://github.com/ktcl444/php/blob/master/algorithm/str_str.php)
+
+[最长公共前缀-水平扫描]
+(https://github.com/ktcl444/php/blob/master/algorithm/longest_common_prefix.php)
