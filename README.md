@@ -304,3 +304,5 @@
 [实现strstr-双指针]
 (https://github.com/ktcl444/php/blob/master/algorithm/str_str.php)
 
+[x的平方根-递归位操作]
+(https://github.com/ktcl444/php/blob/master/algorithm/str_str.php)
