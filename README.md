@@ -309,3 +309,9 @@
 
 [最长公共前缀-水平扫描]
 (https://github.com/ktcl444/php/blob/master/algorithm/longest_common_prefix.php)
+
+[整数反转-弹出推入数字]
+(https://github.com/ktcl444/php/blob/master/algorithm/revese_int.php)
+
+[计算质数-排除法]
+(https://github.com/ktcl444/php/blob/master/algorithm/count_primes.php)

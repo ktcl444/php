@@ -8,7 +8,7 @@ class Solution extends \algorithm\base\AlgorithmBase
     function trailingZeroes($n) {
 		$count = 0;
 		while($n > 0){
-			$n /= $n ;
+			$n /= 5 ;
 			$count += $n;
 		}
 		
