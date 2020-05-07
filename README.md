@@ -38,7 +38,9 @@
 
 [二叉树的最大路径和-递归](https://github.com/ktcl444/php/blob/master/tree/algorithm/max_path_sum.php)
 
-[有组转换为高度平衡二叉树-递归](https://github.com/ktcl444/php/blob/master/tree/algorithm/sorted_array_to_BST.php)
+[有组转换为高度平衡二叉树-递归](https://github.com/ktcl444/php/blob/master/tree/algorithm/sorted_array_to_BST.php
+
+[二叉搜索树中第k小的元素-迭代+递归](https://github.com/ktcl444/php/blob/master/tree/algorithm/kth_smallest.php)
    
 ### 链表
 
@@ -315,3 +317,6 @@
 
 [计算质数-排除法]
 (https://github.com/ktcl444/php/blob/master/algorithm/count_primes.php)
+
+[生命游戏-额外状态机]
+(https://github.com/ktcl444/php/blob/master/algorithm/game_of_life.php)
