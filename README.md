@@ -320,3 +320,6 @@
 
 [生命游戏-额外状态机]
 (https://github.com/ktcl444/php/blob/master/algorithm/game_of_life.php)
+
+[分割回文串-回溯]
+(https://github.com/ktcl444/php/blob/master/algorithm/partition.php)
