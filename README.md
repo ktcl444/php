@@ -66,6 +66,8 @@
 
 [合并多个有序链表-分治(两两合并) + 暴力(合并排序)](https://github.com/ktcl444/php/blob/master/algorithm/linked_list/merge_k_lists.php)
 
+[奇偶链表-合并奇偶链表](https://github.com/ktcl444/php/blob/master/algorithm/linked_list/odd_even_list.php)
+
 ### 图
 
 [完全平方数-动态规划](https://github.com/ktcl444/php/blob/master/algorithm/graph/calc_equation.php)
