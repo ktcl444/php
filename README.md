@@ -325,3 +325,6 @@
 
 [分割回文串-回溯]
 (https://github.com/ktcl444/php/blob/master/algorithm/partition.php)
+
+[有效的数独-一次迭代]
+(https://github.com/ktcl444/php/blob/master/algorithm/is_valid_sudoku.php)
