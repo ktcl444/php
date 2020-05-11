@@ -328,3 +328,6 @@
 
 [有效的数独-一次迭代]
 (https://github.com/ktcl444/php/blob/master/algorithm/is_valid_sudoku.php)
+
+[有序矩阵中第K小的元素-二分]
+(https://github.com/ktcl444/php/blob/master/algorithm/kth_smallest.php)
