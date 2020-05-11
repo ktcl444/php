@@ -41,6 +41,8 @@
 [有组转换为高度平衡二叉树-递归](https://github.com/ktcl444/php/blob/master/tree/algorithm/sorted_array_to_BST.php
 
 [二叉搜索树中第k小的元素-迭代+递归](https://github.com/ktcl444/php/blob/master/tree/algorithm/kth_smallest.php)
+
+[完美二叉树:填充每个节点的下一个右侧节点指针-两种next+BFS](https://github.com/ktcl444/php/blob/master/tree/algorithm/connect_right.php)
    
 ### 链表
 
