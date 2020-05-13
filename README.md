@@ -43,6 +43,8 @@
 [二叉搜索树中第k小的元素-迭代+递归](https://github.com/ktcl444/php/blob/master/tree/algorithm/kth_smallest.php)
 
 [完美二叉树:填充每个节点的下一个右侧节点指针-两种next+BFS](https://github.com/ktcl444/php/blob/master/tree/algorithm/connect_right.php)
+
+[二叉树的锯齿遍历-DFS+BFS](https://github.com/ktcl444/php/blob/master/tree/algorithm/zigzag_level_order.php)
    
 ### 链表
 
@@ -336,3 +338,6 @@
 
 [矩阵置零-原地修改]
 (https://github.com/ktcl444/php/blob/master/algorithm/set_zeroes.php)
+
+[四数相加-两两hash]
+(https://github.com/ktcl444/php/blob/master/algorithm/four_sum_count.php)
