@@ -341,3 +341,6 @@
 
 [四数相加-两两hash]
 (https://github.com/ktcl444/php/blob/master/algorithm/four_sum_count.php)
+
+[加油站-一次遍历+暴力]
+(https://github.com/ktcl444/php/blob/master/algorithm/can_complete_circuit.php.php)
