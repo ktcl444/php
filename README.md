@@ -343,4 +343,7 @@
 (https://github.com/ktcl444/php/blob/master/algorithm/four_sum_count.php)
 
 [加油站-一次遍历+暴力]
-(https://github.com/ktcl444/php/blob/master/algorithm/can_complete_circuit.php.php)
+(https://github.com/ktcl444/php/blob/master/algorithm/can_complete_circuit.php)
+
+[打乱数组-洗牌+暴力]
+(https://github.com/ktcl444/php/blob/master/algorithm/random_array.php)
