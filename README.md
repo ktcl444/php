@@ -72,6 +72,8 @@
 
 [奇偶链表-合并奇偶链表](https://github.com/ktcl444/php/blob/master/algorithm/linked_list/odd_even_list.php)
 
+[复制带随机指针的链表-新旧交错](https://github.com/ktcl444/php/blob/master/algorithm/linked_list/copy_random_list.php)
+
 ### 图
 
 [完全平方数-动态规划](https://github.com/ktcl444/php/blob/master/algorithm/graph/calc_equation.php)
@@ -347,3 +349,6 @@
 
 [打乱数组-洗牌+暴力]
 (https://github.com/ktcl444/php/blob/master/algorithm/random_array.php)
+
+[逆波兰表达式-堆栈]
+(https://github.com/ktcl444/php/blob/master/algorithm/eval_RPN.php)

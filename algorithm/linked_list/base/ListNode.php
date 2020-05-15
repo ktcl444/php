@@ -3,7 +3,12 @@
 namespace algorithm\linked_list\base;
 class ListNode
 {
-    public $val = 0;
+    public $val = null;
     public $next = null;
-    function __construct($val) { $this->val = $val; }
+	 public $random = null;
+    function __construct($val = 0) { 
+		$this->val = $val; 
+		$this->next = null;
+		$this->random = null;
+	}
 }

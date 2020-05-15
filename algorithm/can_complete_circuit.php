@@ -16,7 +16,7 @@ class Solution extends \algorithm\base\AlgorithmBase
 			$cur_gas += ($gas[$i] - $cost[$i]);
 			if($cur_gas < 0){
 				$cur_gas = 0;
-				$station_start = $i;
+				$station_start = $i + 1;
 			}
 		}
 		
