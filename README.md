@@ -354,3 +354,6 @@
 
 [逆波兰表达式-堆栈]
 (https://github.com/ktcl444/php/blob/master/algorithm/eval_RPN.php)
+
+[常数时间插入、删除和获取随机元素-哈希表+动态列表]
+(https://github.com/ktcl444/php/blob/master/algorithm/randomized_set.php)

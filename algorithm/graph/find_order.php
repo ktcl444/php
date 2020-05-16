@@ -15,8 +15,8 @@ class Solution extends \algorithm\base\AlgorithmBase
     #region 入度表
     function findOrder($numCourses, $prerequisites)
     {
-        $indegrees = array_fill(0, $numCourses, 0);
-		$arrive_list = array_fill(0,$numCourses,[]);
+        $indegrees = array_fill(0, $numCourses, 0);  //入度表
+		$arrive_list = array_fill(0,$numCourses,[]); //到达表
         foreach ($prerequisites as $cp) {
             $indegrees[$cp[0]]++;
 			$arrive_list[$cp[1]][] = $cp[0];
