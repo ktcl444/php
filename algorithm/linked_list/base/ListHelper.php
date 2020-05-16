@@ -15,16 +15,13 @@ class ListHelper
 
     private static function getListNode($array, $length, $index, $end_index)
     {
-        if ($index == $length - 1) {
-            $node = new ListNode($array[$index]);
-            !is_null(self::$end_node) && $node->next = self::$end_node;
-            return $node;
-        }
-
-        $node = new ListNode($array[$index]);
-        $end_index > -1 && self::$end_node = $node;
-        $node->next = self::getListNode($array, $length, $index + 1, $end_index);
-        return $node;
+		if($index == $length){
+			return $this->end_node;
+		}
+		$node = new ListNode($array[$index]);
+		$index == $end_index && $this->end_node = $node;
+		$node->next = self::getListNode($array,$length,$index+1,$end_index);
+		return $node;
     }
 
     private static function init()

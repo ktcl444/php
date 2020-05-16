@@ -82,6 +82,8 @@
 
 [搜索单词-DFS+回溯](https://github.com/ktcl444/php/blob/master/algorithm/graph/exist.php)
 
+[课程表2-入度表+DFS](https://github.com/ktcl444/php/blob/master/algorithm/graph/find_order.php)
+
 ### 其他
 
 [成对括号](https://github.com/ktcl444/php/blob/master/algorithm/brackets.php)
