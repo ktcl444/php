@@ -360,3 +360,6 @@
 
 [寻找波峰-二分]
 (https://github.com/ktcl444/php/blob/master/algorithm/find_peak_element.php)
+
+[至少有K个重复字符的最长子串-分割递归]
+(https://github.com/ktcl444/php/blob/master/algorithm/longest_substring.php)
