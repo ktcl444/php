@@ -357,3 +357,6 @@
 
 [常数时间插入、删除和获取随机元素-哈希表+动态列表]
 (https://github.com/ktcl444/php/blob/master/algorithm/randomized_set.php)
+
+[寻找波峰-二分]
+(https://github.com/ktcl444/php/blob/master/algorithm/find_peak_element.php)
