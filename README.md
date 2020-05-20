@@ -84,6 +84,10 @@
 
 [课程表2-入度表+DFS](https://github.com/ktcl444/php/blob/master/algorithm/graph/find_order.php)
 
+[被环绕的区域-DFS](https://github.com/ktcl444/php/blob/master/algorithm/graph/solve.php)
+
+[螺旋矩阵-模拟顺时针+按层模拟](https://github.com/ktcl444/php/blob/master/algorithm/graph/spiral_order.php)
+
 ### 其他
 
 [成对括号](https://github.com/ktcl444/php/blob/master/algorithm/brackets.php)
