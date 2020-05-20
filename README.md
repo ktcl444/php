@@ -370,3 +370,6 @@
 
 [单词接龙-BFS(双向+单向)]
 (https://github.com/ktcl444/php/blob/master/algorithm/ladder_length.php)
+
+[递增的三元子数列-维护第一小第二小]
+(https://github.com/ktcl444/php/blob/master/algorithm/increasing_triplet.php)
