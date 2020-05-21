@@ -373,3 +373,6 @@
 
 [递增的三元子数列-维护第一小第二小]
 (https://github.com/ktcl444/php/blob/master/algorithm/increasing_triplet.php)
+
+[最大数-字符串排序]
+(https://github.com/ktcl444/php/blob/master/algorithm/largest_number.php)
