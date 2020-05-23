@@ -379,3 +379,9 @@
 
 [基本计算器2-堆栈]
 (https://github.com/ktcl444/php/blob/master/algorithm/calculate.php)
+
+[POW(x,n)-迭代+递归]
+(https://github.com/ktcl444/php/blob/master/algorithm/my_pow.php)
+
+[摆动排序-快速选择(两数组依次插入)]
+(https://github.com/ktcl444/php/blob/master/algorithm/wiggle_sort.php)

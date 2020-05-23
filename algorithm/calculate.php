@@ -13,7 +13,7 @@ class Solution extends \algorithm\base\AlgorithmBase
 		$length = strlen($s);
 		for($i = 0;$i < $length ;$i++){
 			$c = $s[$i];
-			echo $c . PHP_EOL;
+			//echo $c . PHP_EOL;
 			if(is_numeric($c)){
 				$num = $num * 10 + intval($c);
 			}
@@ -37,7 +37,7 @@ class Solution extends \algorithm\base\AlgorithmBase
 				$num = 0;
 			}
 			
-			print_r($stack);
+			//print_r($stack);
 		}
 		return array_sum($stack);
 	}
