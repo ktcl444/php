@@ -8,7 +8,7 @@ class Solution extends \algorithm\base\AlgorithmBase
     {
         $mapping = [];
         foreach ($nums as $num) {
-            $mapping[$num] = array_key_exists($num, $mapping) ? ++$mapping[$num] : 1;
+            $mapping[$num]++;
         }
         asort($mapping);
         $result = [];

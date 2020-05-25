@@ -385,3 +385,6 @@
 
 [摆动排序-快速选择(两数组依次插入)]
 (https://github.com/ktcl444/php/blob/master/algorithm/wiggle_sort.php)
+
+[分数到小数-堆栈)]
+(https://github.com/ktcl444/php/blob/master/algorithm/fraction_to_decimal.php)
