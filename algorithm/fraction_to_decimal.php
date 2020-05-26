@@ -5,7 +5,36 @@ require_once 'base\AlgorithmBase.php';
 //分数到小数-堆栈
 class Solution extends \algorithm\base\AlgorithmBase
 {
-    function fractionToDecimal($numerator, $denominator) {
+	function fractionToDecimal($numerator, $denominator) {
+		$stack = [];
+		if(($numerator<0 && $denominator > 0)||($numerator > 0 && $denominator < 0)){
+			$stack[] = '-';
+			$numerator = -$numerator;
+		}else{
+			$stack[] = '';
+		}
+		$mod = $numerator % $denominator;
+		$stack[] = intval($numerator / $denominator);
+		$mod != 0 && $stack[] = '.';
+		$mod_list = [];
+		while($mod !=0){
+			if(array_key_exists($mod,$mod_list)){
+				$index = $mod_list[$mod];
+				array_splice($stack,$index,0,'(');
+				$stack[] = ')';
+				break;
+			}
+			
+			$mod_list[$mod] = count($stack);
+			$mod *= 10;
+			$stack[] = intval($mod / $denominator);
+			$mod %= $denominator;
+		}
+		
+		return implode('',$stack);
+    }
+	
+    function fractionToDecimal1($numerator, $denominator) {
 		if(($numerator<0 && $denominator > 0)||($numerator > 0 && $denominator < 0)){
 			$pre = '-';
 			$numerator = -$numerator;
