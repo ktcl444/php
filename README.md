@@ -391,3 +391,6 @@
 
 [解码方法-动态规划]
 (https://github.com/ktcl444/php/blob/master/algorithm/num_decodings.php)
+
+[字符串转换为整数-整数]
+(https://github.com/ktcl444/php/blob/master/algorithm/my_atoi.php)
