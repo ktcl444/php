@@ -90,6 +90,8 @@
 
 [矩阵中的最长递增路径-DFS](https://github.com/ktcl444/php/blob/master/algorithm/graph/longest_increasing_path.php)
 
+[单词搜索2-DFS(前缀树)](https://github.com/ktcl444/php/blob/master/algorithm/graph/find_words.php)
+
 ### 其他
 
 [成对括号](https://github.com/ktcl444/php/blob/master/algorithm/brackets.php)

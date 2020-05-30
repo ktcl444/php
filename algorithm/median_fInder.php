@@ -1,5 +1,5 @@
 <?php
-//数据流的 中位数-最大堆和最小堆
+//数据流的中位数-最大堆和最小堆
 class MedianFinder {
 	private $min;
 	private $max;
