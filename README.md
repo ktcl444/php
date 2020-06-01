@@ -407,3 +407,6 @@
 
 [天际线-线段树]
 (https://github.com/ktcl444/php/blob/master/algorithm/get_skyline.php)
+
+[缺失的第一个正数-数组转hash表]
+(https://github.com/ktcl444/php/blob/master/algorithm/first_missing_positive.php)

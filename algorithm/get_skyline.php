@@ -77,7 +77,7 @@ class Solution extends \algorithm\base\AlgorithmBase
 	#endregion
 
 	
-	#regio$n 堆
+	#regio$n 堆(扫描线)
 	function getSkyline2($buildings) {
 		if(empty($buildings))return [];
 		$pairs = [];
@@ -98,8 +98,7 @@ class Solution extends \algorithm\base\AlgorithmBase
 			if($pair[1] < 0)
 				$queue->insert(-$pair[1]);
 			else
-				$queue->remove();
-				$queue->extract();
+				$queue->remove($pair[1]);//SqlMaxHeap没有根据值删除的方法
 			//pri$nt_r($queue);
 			$cur = $queue->isEmpty()  ? 0 : $queue->top();
 			//echo $cur.PHP_EOL;
