@@ -45,6 +45,8 @@
 [完美二叉树:填充每个节点的下一个右侧节点指针-两种next+BFS](https://github.com/ktcl444/php/blob/master/tree/algorithm/connect_right.php)
 
 [二叉树的锯齿遍历-DFS+BFS](https://github.com/ktcl444/php/blob/master/tree/algorithm/zigzag_level_order.php)
+
+[计算右侧小于当前元素的个数-二叉搜索树](https://github.com/ktcl444/php/blob/master/tree/algorithm/count_smaller.php)
    
 ### 链表
 

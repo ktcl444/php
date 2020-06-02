@@ -3,7 +3,6 @@ require 'base\AlgorithmBase.php';
 
 class Solution extends \algorithm\base\AlgorithmBase
 {
-	
 	#region		线段树
    	function getSkyline($buildings) {
       $length = count($buildings);
@@ -75,9 +74,8 @@ class Solution extends \algorithm\base\AlgorithmBase
         return $res;
     }
 	#endregion
-
 	
-	#regio$n 堆(扫描线)
+	#region 堆(扫描线)
 	function getSkyline2($buildings) {
 		if(empty($buildings))return [];
 		$pairs = [];
@@ -109,7 +107,7 @@ class Solution extends \algorithm\base\AlgorithmBase
 		}
 		return $result;
     }
-	#e$ndregio$n
+	#endregion
 	
 	function test(){
 	/* 		print_r($this->getSkyline([
