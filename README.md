@@ -415,3 +415,6 @@
 
 [单词拆分2-DFS(回溯)]
 (https://github.com/ktcl444/php/blob/master/algorithm/word_break_blank.php)
+
+[通配符匹配-回溯+递归]
+(https://github.com/ktcl444/php/blob/master/algorithm/is_match_2.php)
