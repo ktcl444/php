@@ -421,3 +421,6 @@
 
 [直线上最多的点-枚举]
 (https://github.com/ktcl444/php/blob/master/algorithm/nax_point.php)
+
+[反转字符串中的单词-双指针]
+(https://github.com/ktcl444/php/blob/master/algorithm/reverse_words.php)
