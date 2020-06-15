@@ -4,7 +4,7 @@ namespace algorithm\tree;
 require_once 'base\TreeAlgorithmBase.php';
 
 use \algorithm\tree\base\TreeNode as TreeNode;
-
+//二叉树的最近公共祖先
 class Solution extends \algorithm\tree\base\TreeAlgorithmBase
 {
     #region 父指针
