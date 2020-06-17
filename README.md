@@ -426,3 +426,9 @@
 
 [反转字符串中的单词-双指针]
 (https://github.com/ktcl444/php/blob/master/algorithm/reverse_words.php)
+
+[回文数+数值比较/字符串比较]
+(https://github.com/ktcl444/php/blob/master/algorithm/is_palindrome_int.php)
+
+[2的幂-除法/位运算]
+(https://github.com/ktcl444/php/blob/master/algorithm/is_power_of_two.php)
