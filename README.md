@@ -432,3 +432,6 @@
 
 [2的幂-除法/位运算]
 (https://github.com/ktcl444/php/blob/master/algorithm/is_power_of_two.php)
+
+[螺旋矩阵2-上下左右四指针]
+(https://github.com/ktcl444/php/blob/master/algorithm/generate_matrix.php)
