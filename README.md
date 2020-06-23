@@ -441,3 +441,6 @@
 
 [格雷码-镜像反射]
 (https://github.com/ktcl444/php/blob/master/algorithm/gray_code.php)
+
+[字符串相乘-模拟竖式]
+(https://github.com/ktcl444/php/blob/master/algorithm/multiply.php)
