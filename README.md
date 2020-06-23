@@ -446,3 +446,6 @@
 
 [字符串相乘-模拟竖式]
 (https://github.com/ktcl444/php/blob/master/algorithm/multiply.php)
+
+[可以被一步捕获的棋子数-字符串查找]
+(https://github.com/ktcl444/php/blob/master/algorithm/num_rook_captures.php)
