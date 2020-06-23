@@ -78,6 +78,8 @@
 
 [复制带随机指针的链表-新旧交错](https://github.com/ktcl444/php/blob/master/algorithm/linked_list/copy_random_list.php)
 
+[旋转链表-断开新联](https://github.com/ktcl444/php/blob/master/algorithm/linked_list/rotate_right.php)
+
 ### 图
 
 [完全平方数-动态规划](https://github.com/ktcl444/php/blob/master/algorithm/graph/calc_equation.php)
