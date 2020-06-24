@@ -100,6 +100,8 @@
 
 [单词搜索2-DFS(前缀树)](https://github.com/ktcl444/php/blob/master/algorithm/graph/find_words.php)
 
+[三维形体的表面积-减去重叠](https://github.com/ktcl444/php/blob/master/algorithm/graph/surface_area.php)
+
 ### 其他
 
 [成对括号](https://github.com/ktcl444/php/blob/master/algorithm/brackets.php)
