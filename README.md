@@ -459,3 +459,6 @@
 
 [和为s的连续正数序列-等差数列/滑动窗口]
 (https://github.com/ktcl444/php/blob/master/algorithm/find_continuous_sequence.php)
+
+[分糖果-等差数列]
+(https://github.com/ktcl444/php/blob/master/algorithm/distribute_candies.php)
