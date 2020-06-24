@@ -80,6 +80,8 @@
 
 [旋转链表-断开新联](https://github.com/ktcl444/php/blob/master/algorithm/linked_list/rotate_right.php)
 
+[链表的中间节点-双指针](https://github.com/ktcl444/php/blob/master/algorithm/linked_list/middle_node.php)
+
 ### 图
 
 [完全平方数-动态规划](https://github.com/ktcl444/php/blob/master/algorithm/graph/calc_equation.php)
@@ -449,3 +451,9 @@
 
 [可以被一步捕获的棋子数-字符串查找]
 (https://github.com/ktcl444/php/blob/master/algorithm/num_rook_captures.php)
+
+[拼写单词-字典比较]
+(https://github.com/ktcl444/php/blob/master/algorithm/count_characters.php)
+
+[和为s的连续正数序列-等差数列/滑动窗口]
+(https://github.com/ktcl444/php/blob/master/algorithm/find_continuous_sequence.php)
