@@ -30,6 +30,7 @@ class Solution extends \algorithm\base\AlgorithmBase
 			$heap->insert($v);
 		}
 		$res = [];
+
 		while($k > 0){
 			array_push($res,$heap->current());
 			$heap->next();

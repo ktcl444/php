@@ -468,3 +468,6 @@
 
 [最小的k个数-计数排序+最小堆]
 (https://github.com/ktcl444/php/blob/master/algorithm/get_leaest_numbers.php)
+
+[最长回文串-贪心+位运算]
+(https://github.com/ktcl444/php/blob/master/algorithm/longest_palindrome_redim.php)
