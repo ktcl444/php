@@ -2,12 +2,24 @@
 
 
 /***
- * @param $sum int 总人数
- * @param $value int 报数
- * @param $n int 轮次
+ * @param $n int 总人数
+ * @param $m int 报数
  * @return int
  */
-function test($sum, $value, $n)
+ //有 f(n, m) = (m % n + x) % n = (m + x) % n
+/*  f(n,m)={ 	0 					n=1	
+			[f(n−1,m)+m]%n		n>1 */
+function test($n, $m)
+{
+    $res = 0;
+	for($i = 2;$i <= $n;$i++){
+		$res = ($res + $m)% $i;
+	}
+	
+	return $res;
+}
+​	
+function test1($sum, $value, $n)
 {
     if ($n == 1) {
         return ($sum + $value - 1) % $sum;

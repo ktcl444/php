@@ -462,3 +462,9 @@
 
 [分糖果-等差数列]
 (https://github.com/ktcl444/php/blob/master/algorithm/distribute_candies.php)
+
+[字符串的最大公因子-最大公约数]
+(https://github.com/ktcl444/php/blob/master/algorithm/god_of_string.php)
+
+[最小的k个数-计数排序+最小堆]
+(https://github.com/ktcl444/php/blob/master/algorithm/get_leaest_numbers.php)
