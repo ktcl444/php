@@ -475,3 +475,12 @@
 
 [矩形重叠-检查相对位置/投影]
 (https://github.com/ktcl444/php/blob/master/algorithm/is_rectangle_overlap.php)
+
+[字符串压缩-模拟]
+(https://github.com/ktcl444/php/blob/master/algorithm/compress_string.php)
+
+[将数组分成和相等的三个部分-算二部分即]
+(https://github.com/ktcl444/php/blob/master/algorithm/can_three_parts_equal_sum.php)
+
+[卡牌分组-暴力+最大公约数]
+(https://github.com/ktcl444/php/blob/master/algorithm/has_group_size_x.php)
