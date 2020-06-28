@@ -142,8 +142,6 @@
 
 [买卖股票的最佳时机冷冻期-状态机](https://github.com/ktcl444/php/blob/master/algorithm/max_profit.php)
 
-[买卖股票的最佳时机-冒泡+遍历(寻找波峰波谷))](https://github.com/ktcl444/php/blob/master/algorithm/maxProfit.php)
-
 [买卖股票-波峰波谷+连续计算](https://github.com/ktcl444/php/blob/master/algorithm/max_profit_normal.php)
 
 [最小栈-辅助栈+辅助链表(bad)](https://github.com/ktcl444/php/blob/master/algorithm/min_stack.php)
@@ -471,3 +469,9 @@
 
 [最长回文串-贪心+位运算]
 (https://github.com/ktcl444/php/blob/master/algorithm/longest_palindrome_redim.php)
+
+[按摩师-动态规划]
+(https://github.com/ktcl444/php/blob/master/algorithm/massage.php)
+
+[矩形重叠-检查相对位置/投影]
+(https://github.com/ktcl444/php/blob/master/algorithm/is_rectangle_overlap.php)
