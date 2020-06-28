@@ -56,8 +56,6 @@ class Solution extends \algorithm\base\AlgorithmBase
 					$neighbour = [];
 					array_push($neighbour,[$x,$y]);
 					
-					//print_r($grid);
-					//print_r($neighbour);
 					while(!empty($neighbour))
 					{
 						$cur = array_pop($neighbour);

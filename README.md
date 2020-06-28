@@ -102,6 +102,10 @@
 
 [三维形体的表面积-减去重叠](https://github.com/ktcl444/php/blob/master/algorithm/graph/surface_area.php)
 
+[岛屿数量-深度优先+广度优先](https://github.com/ktcl444/php/blob/master/algorithm/num_island.php)
+
+[岛屿的最大面积-DFS+BFS](https://github.com/ktcl444/php/blob/master/algorithm/graph/max_area_of_island.php)
+
 ### 其他
 
 [成对括号](https://github.com/ktcl444/php/blob/master/algorithm/brackets.php)
@@ -193,8 +197,6 @@
 [电话号码的字母组合-递归](https://github.com/ktcl444/php/blob/master/algorithm/letter_combinations.php)
 
 [任务调度器-排序+优先队列+桶](https://github.com/ktcl444/php/blob/master/algorithm/least_interval.php)
-
-[岛屿数量-深度优先+广度优先](https://github.com/ktcl444/php/blob/master/algorithm/num_island.php)
 
 [LRU缓存机制-栈](https://github.com/ktcl444/php/blob/master/algorithm/lru_cache.php)
 
