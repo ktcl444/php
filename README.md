@@ -106,6 +106,8 @@
 
 [岛屿的最大面积-DFS+BFS](https://github.com/ktcl444/php/blob/master/algorithm/graph/max_area_of_island.php)
 
+[腐烂的橘子-BFS](https://github.com/ktcl444/php/blob/master/algorithm/graph/oranges_rotting.php)
+
 ### 其他
 
 [成对括号](https://github.com/ktcl444/php/blob/master/algorithm/brackets.php)
@@ -489,3 +491,6 @@
 
 [数组排序-归并+快排]
 (https://github.com/ktcl444/php/blob/master/algorithm/sort_array.php)
+
+[单词的压缩编码-反转排序]
+(https://github.com/ktcl444/php/blob/master/algorithm/minimum_length_encoding.php)
