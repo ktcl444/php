@@ -494,3 +494,6 @@
 
 [单词的压缩编码-反转排序]
 (https://github.com/ktcl444/php/blob/master/algorithm/minimum_length_encoding.php)
+
+[队列的最大值-队列&最大值数组]
+(https://github.com/ktcl444/php/blob/master/algorithm/max_queue.php)
