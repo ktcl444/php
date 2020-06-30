@@ -108,6 +108,8 @@
 
 [腐烂的橘子-BFS](https://github.com/ktcl444/php/blob/master/algorithm/graph/oranges_rotting.php)
 
+[地图分析-动态规划](https://github.com/ktcl444/php/blob/master/algorithm/graph/max_distance.php)
+
 ### 其他
 
 [成对括号](https://github.com/ktcl444/php/blob/master/algorithm/brackets.php)
@@ -497,3 +499,6 @@
 
 [队列的最大值-队列&最大值数组]
 (https://github.com/ktcl444/php/blob/master/algorithm/max_queue.php)
+
+[使数组唯一的最小增量-排序+计数]
+(https://github.com/ktcl444/php/blob/master/algorithm/minIncrement_for_unique.php)
