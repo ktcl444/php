@@ -502,3 +502,12 @@
 
 [使数组唯一的最小增量-排序+计数]
 (https://github.com/ktcl444/php/blob/master/algorithm/minIncrement_for_unique.php)
+
+[水壶问题-数学(ax+by=z z为x,y最大公约数的整数倍)]
+(https://github.com/ktcl444/php/blob/master/algorithm/can_measure_water.php)
+
+[有效括号的嵌套深度-升降维度+维度奇偶分配)]
+(https://github.com/ktcl444/php/blob/master/algorithm/max_depth_after_split.php)
+
+[数组中数字出现的次数-分组异或+计数数组)]
+(https://github.com/ktcl444/php/blob/master/algorithm/single_numbers.php)
