@@ -513,3 +513,6 @@
 
 [数组中数字出现的次数-分组异或+计数数组)]
 (https://github.com/ktcl444/php/blob/master/algorithm/single_numbers.php)
+
+[统计「优美子数组」-数学+前缀和/差分)]
+(https://github.com/ktcl444/php/blob/master/algorithm/number_of_sub_arrays.php)
