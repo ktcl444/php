@@ -516,3 +516,6 @@
 
 [统计「优美子数组」-数学+前缀和/差分)]
 (https://github.com/ktcl444/php/blob/master/algorithm/number_of_sub_arrays.php)
+
+[硬币-动态规划+数学]
+(https://github.com/ktcl444/php/blob/master/algorithm/ways_to_change.php)
