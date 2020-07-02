@@ -112,6 +112,8 @@
 
 [地图分析-动态规划](https://github.com/ktcl444/php/blob/master/algorithm/graph/max_distance.php)
 
+[机器人的运动范围-BFS](https://github.com/ktcl444/php/blob/master/algorithm/graph/moving_count.php)
+
 ### 其他
 
 [成对括号](https://github.com/ktcl444/php/blob/master/algorithm/brackets.php)

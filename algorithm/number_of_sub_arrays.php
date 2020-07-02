@@ -2,7 +2,7 @@
 
 require_once 'base\AlgorithmBase.php';
 
-//统计「优美子数组」
+//统计「优美子数组」-数学+前缀和/差分
 class Solution extends \algorithm\base\AlgorithmBase
 {
 	//数学(odd[i]−odd[i−1])∗(odd[i+k]−odd[i+k−1])

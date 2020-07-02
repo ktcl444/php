@@ -4,7 +4,7 @@ namespace algorithm\tree;
 require_once 'base\TreeAlgorithmBase.php';
 
 use \algorithm\tree\base\TreeNode as TreeNode;
-
+//二叉树的右视图-BFS+DFS
 class Solution extends \algorithm\tree\base\TreeAlgorithmBase
 {
 	//dfs(递归)
@@ -24,6 +24,7 @@ class Solution extends \algorithm\tree\base\TreeAlgorithmBase
         $this->helper($node->left, $res, $level + 1);
         $this->helper($node->right, $res, $level + 1);
     }
+	
 	//bfs 
 	function rightSideView1($root){
 		$temp = [[$root,1]];
