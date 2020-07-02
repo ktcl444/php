@@ -114,6 +114,8 @@
 
 [机器人的运动范围-BFS](https://github.com/ktcl444/php/blob/master/algorithm/graph/moving_count.php)
 
+[矩阵-动态规划+BFS](https://github.com/ktcl444/php/blob/master/algorithm/graph/update_matrix.php)
+
 ### 其他
 
 [成对括号](https://github.com/ktcl444/php/blob/master/algorithm/brackets.php)
