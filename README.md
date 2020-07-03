@@ -529,3 +529,6 @@
 
 [交点-数学]
 (https://github.com/ktcl444/php/blob/master/algorithm/intersection.php)
+
+[数组中的逆序对-归并排序]
+(https://github.com/ktcl444/php/blob/master/algorithm/reverse_pairs.php)
