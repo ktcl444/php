@@ -523,3 +523,6 @@
 
 [硬币-动态规划+数学]
 (https://github.com/ktcl444/php/blob/master/algorithm/ways_to_change.php)
+
+[设计推特-哈希表]
+(https://github.com/ktcl444/php/blob/master/algorithm/twitter.php)
