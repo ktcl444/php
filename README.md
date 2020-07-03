@@ -526,3 +526,6 @@
 
 [设计推特-哈希表]
 (https://github.com/ktcl444/php/blob/master/algorithm/twitter.php)
+
+[交点-数学]
+(https://github.com/ktcl444/php/blob/master/algorithm/intersection.php)
