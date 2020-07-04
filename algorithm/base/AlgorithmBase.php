@@ -14,4 +14,9 @@ abstract class AlgorithmBase
 
         return $m;
     }
+	
+	protected function gbd($m,$n){
+		$gcd = $this->gcd($m,$n);
+		return $m * $n / $gcd;
+	}
 }

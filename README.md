@@ -535,3 +535,6 @@
 
 [LFU缓存-链表hash+链表]
 (https://github.com/ktcl444/php/blob/master/algorithm/LFU_cache.php)
+
+[统计重复个数-循环节]
+(https://github.com/ktcl444/php/blob/master/algorithm/get_max_repetitions.php)
