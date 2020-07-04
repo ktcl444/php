@@ -532,3 +532,6 @@
 
 [数组中的逆序对-归并排序]
 (https://github.com/ktcl444/php/blob/master/algorithm/reverse_pairs.php)
+
+[LFU缓存-链表hash+链表]
+(https://github.com/ktcl444/php/blob/master/algorithm/LFU_cache.php)
