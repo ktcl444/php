@@ -22,24 +22,18 @@ class Solution extends \algorithm\base\AlgorithmBase
             if (($y2 - $y1) * ($x3 - $x1) == ($y3 - $y1) * ($x2 - $x1)) {
                 // 判断 (x3, y3) 是否在「线段」(x1, y1)~(x2, y2) 上
                 if ($this->inside($x1, $y1, $x2, $y2, $x3, $y3)) {
-					echo '1'.PHP_EOL;
                     $this->update($ans, floatval($x3), floatval($y3));
                 }
                 // 判断 (x4, y4) 是否在「线段」(x1, y1)~(x2, y2) 上
                 if ($this->inside($x1, $y1, $x2, $y2, $x4, $y4)) {
-					echo '2'.PHP_EOL;
                     $this->update($ans, floatval($x4), floatval($y4));
-					print_r($ans);
                 }
                 // 判断 (x1, y1) 是否在「线段」(x3, y3)~(x4, y4) 上
                 if ($this->inside($x3, $y3, $x4, $y4, $x1, $y1)) {
-					echo '3'.PHP_EOL;
                     $this->update($ans, floatval($x1), floatval($y1));
-					print_r($ans);
                 }
                 // 判断 (x2, y2) 是否在「线段」(x3, y3)~(x4, y4) 上
                 if ($this->inside($x3, $y3, $x4, $y4, $x2, $y2)) {
-					echo '4'.PHP_EOL;
                     $this->update($ans,floatval($x2), floatval($y2));
                 }
             }

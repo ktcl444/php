@@ -538,3 +538,9 @@
 
 [统计重复个数-循环节]
 (https://github.com/ktcl444/php/blob/master/algorithm/get_max_repetitions.php)
+
+[山脉数组中查找目标值-二分找山顶]
+(https://github.com/ktcl444/php/blob/master/algorithm/find_in_mountain_array.php)
+
+[鸡蛋掉落-数学方法]
+(https://github.com/ktcl444/php/blob/master/algorithm/super_egg_drop.php)
