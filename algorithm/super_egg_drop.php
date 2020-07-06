@@ -32,7 +32,8 @@ class Solution extends \algorithm\base\AlgorithmBase
 	
 	
 	function test(){
-
+		echo ($this->superEggDrop(1,2)).PHP_EOL;
+		echo ($this->superEggDrop(2,6)).PHP_EOL;
 	}
 }
 
