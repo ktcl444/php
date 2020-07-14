@@ -232,314 +232,210 @@
 
 [在排序数组中查找元素的第一个和最后一个位置-二分](https://github.com/ktcl444/php/blob/master/algorithm/search_range.php)
 
-[零钱兑换-动态规划]
-(https://github.com/ktcl444/php/blob/master/algorithm/coin_change.php)
+[零钱兑换-动态规划](https://github.com/ktcl444/php/blob/master/algorithm/coin_change.php)
 
-[乘积最大子数组-动态规划]
-(https://github.com/ktcl444/php/blob/master/algorithm/max_product.php)
+[乘积最大子数组-动态规划](https://github.com/ktcl444/php/blob/master/algorithm/max_product.php)
 
-[搜索旋转排序数组-二分]
-(https://github.com/ktcl444/php/blob/master/algorithm/search_rotate.php)
+[搜索旋转排序数组-二分](https://github.com/ktcl444/php/blob/master/algorithm/search_rotate.php)
 
-[字典序下一个排列-降序变升序]
-(https://github.com/ktcl444/php/blob/master/algorithm/next_permutation.php)
+[字典序下一个排列-降序变升序](https://github.com/ktcl444/php/blob/master/algorithm/next_permutation.php)
 
-[三数之和-双指针排序+暴力]
-(https://github.com/ktcl444/php/blob/master/algorithm/three_num.php)
+[三数之和-双指针排序+暴力](https://github.com/ktcl444/php/blob/master/algorithm/three_num.php)
 
-[戳气球-动态规划分治(自底向上 自上向下)]
-(https://github.com/ktcl444/php/blob/master/algorithm/max_coins.php)
+[戳气球-动态规划分治(自底向上 自上向下)](https://github.com/ktcl444/php/blob/master/algorithm/max_coins.php)
 
-[接雨水-水能达到的最高位置，等于两边最大高度的较小值减去当前高度的值(暴力+堆栈)]
-(https://github.com/ktcl444/php/blob/master/algorithm/trap.php)
+[接雨水-水能达到的最高位置，等于两边最大高度的较小值减去当前高度的值(暴力+堆栈)](https://github.com/ktcl444/php/blob/master/algorithm/trap.php)
 
-[最长连续序列-哈希表]
-(https://github.com/ktcl444/php/blob/master/algorithm/longest_consecutive.php)
+[最长连续序列-哈希表](https://github.com/ktcl444/php/blob/master/algorithm/longest_consecutive.php)
 
-[滑动窗口最大值-堆栈(存储最大值索引)+动态规划(左右数组)]
-(https://github.com/ktcl444/php/blob/master/algorithm/max_sliding_window.php)
+[滑动窗口最大值-堆栈(存储最大值索引)+动态规划(左右数组)](https://github.com/ktcl444/php/blob/master/algorithm/max_sliding_window.php)
 
-[删除无效的括号-BFS]
-(https://github.com/ktcl444/php/blob/master/algorithm/remove_invalid_parentheses.php)
+[删除无效的括号-BFS](https://github.com/ktcl444/php/blob/master/algorithm/remove_invalid_parentheses.php)
 
-[最大矩形-动态规划]
-(https://github.com/ktcl444/php/blob/master/algorithm/maximal_rectangle.php)
+[最大矩形-动态规划](https://github.com/ktcl444/php/blob/master/algorithm/maximal_rectangle.php)
 
-[柱状图中的最大矩形-堆栈+暴力]
-(https://github.com/ktcl444/php/blob/master/algorithm/largest_rectangle_area.php)
+[柱状图中的最大矩形-堆栈+暴力](https://github.com/ktcl444/php/blob/master/algorithm/largest_rectangle_area.php)
 
-[编辑距离-状态规划(自顶向下+自底向上)]
-(https://github.com/ktcl444/php/blob/master/algorithm/largest_rectangle_area.php)
+[编辑距离-状态规划(自顶向下+自底向上)](https://github.com/ktcl444/php/blob/master/algorithm/largest_rectangle_area.php)
 
-[最小覆盖子串-滑动窗口]
-(https://github.com/ktcl444/php/blob/master/algorithm/min_window.php)
+[最小覆盖子串-滑动窗口](https://github.com/ktcl444/php/blob/master/algorithm/min_window.php)
 
-[最长有效括号-左右遍历+栈+占位]
-(https://github.com/ktcl444/php/blob/master/algorithm/longest_valid_parentheses.php)
+[最长有效括号-左右遍历+栈+占位](https://github.com/ktcl444/php/blob/master/algorithm/longest_valid_parentheses.php)
 
-[正则表达式-动态规划(上下+下上)+回溯]
-(https://github.com/ktcl444/php/blob/master/algorithm/is_match.php)
+[正则表达式-动态规划(上下+下上)+回溯](https://github.com/ktcl444/php/blob/master/algorithm/is_match.php)
 
-[字母异位词分组-排序树组分类+计数分类]
-(https://github.com/ktcl444/php/blob/master/algorithm/group_anagrams.php)
+[字母异位词分组-排序树组分类+计数分类](https://github.com/ktcl444/php/blob/master/algorithm/group_anagrams.php)
 
-[杨辉三角-动态规划]
-(https://github.com/ktcl444/php/blob/master/algorithm/generate.php)
+[杨辉三角-动态规划](https://github.com/ktcl444/php/blob/master/algorithm/generate.php)
 
-[FizzBuzz-映射]
-(https://github.com/ktcl444/php/blob/master/algorithm/fizz_buzz.php)
+[FizzBuzz-映射](https://github.com/ktcl444/php/blob/master/algorithm/fizz_buzz.php)
 
-[罗马数字转整形-加减+映射]
-(https://github.com/ktcl444/php/blob/master/algorithm/roman_to_int.php)
+[罗马数字转整形-加减+映射](https://github.com/ktcl444/php/blob/master/algorithm/roman_to_int.php)
 
-[快乐数-快慢指针+字典循环]
-(https://github.com/ktcl444/php/blob/master/algorithm/is_happy.php)
+[快乐数-快慢指针+字典循环](https://github.com/ktcl444/php/blob/master/algorithm/is_happy.php)
 
-[反转二进制位-逐位颠倒]
-(https://github.com/ktcl444/php/blob/master/algorithm/reverse_bits.php)
+[反转二进制位-逐位颠倒](https://github.com/ktcl444/php/blob/master/algorithm/reverse_bits.php)
 
-[缺失数字-求和公式]
-(https://github.com/ktcl444/php/blob/master/algorithm/missing_number.php)
+[缺失数字-求和公式](https://github.com/ktcl444/php/blob/master/algorithm/missing_number.php)
 
-[外观数列]
-(https://github.com/ktcl444/php/blob/master/algorithm/count_and_say.php
+[外观数列](https://github.com/ktcl444/php/blob/master/algorithm/count_and_say.php)
 
-[两整数之和-按位与或]
-(https://github.com/ktcl444/php/blob/master/algorithm/get_sum.php)
+[两整数之和-按位与或](https://github.com/ktcl444/php/blob/master/algorithm/get_sum.php)
 
-[存在重复元素-排序+哈希表]
-(https://github.com/ktcl444/php/blob/master/algorithm/contains_duplicate.php)
+[存在重复元素-排序+哈希表](https://github.com/ktcl444/php/blob/master/algorithm/contains_duplicate.php)
 
-[删除排序数组中的重复项-双指针]
-(https://github.com/ktcl444/php/blob/master/algorithm/remove_duplicates.php)
+[删除排序数组中的重复项-双指针](https://github.com/ktcl444/php/blob/master/algorithm/remove_duplicates.php)
 
-[两个数组的交集-排序+字典]
-(https://github.com/ktcl444/php/blob/master/algorithm/remove_duplicates.php)
+[两个数组的交集-排序+字典](https://github.com/ktcl444/php/blob/master/algorithm/remove_duplicates.php)
 
-[合并2个有序数组-双指针(从后往前+从前往后)+合并排序]
-(https://github.com/ktcl444/php/blob/master/algorithm/merge_two_list.php)
+[合并2个有序数组-双指针(从后往前+从前往后)+合并排序](https://github.com/ktcl444/php/blob/master/algorithm/merge_two_list.php)
 
-[3的幂-对数+循环]
-(https://github.com/ktcl444/php/blob/master/algorithm/is_power_of_three.php)
+[3的幂-对数+循环](https://github.com/ktcl444/php/blob/master/algorithm/is_power_of_three.php)
 
-[字符串中的第一个不重复的字符-字典]
-(https://github.com/ktcl444/php/blob/master/algorithm/first_uniq_char.php)
+[字符串中的第一个不重复的字符-字典](https://github.com/ktcl444/php/blob/master/algorithm/first_uniq_char.php)
 
-[加一-从后往前]
-(https://github.com/ktcl444/php/blob/master/algorithm/plus_one.php)
+[加一-从后往前](https://github.com/ktcl444/php/blob/master/algorithm/plus_one.php)
 
-[验证回文字符串-正则双指针]
-(https://github.com/ktcl444/php/blob/master/algorithm/is_palindrome.php
+[验证回文字符串-正则双指针](https://github.com/ktcl444/php/blob/master/algorithm/is_palindrome.php
 
-[旋转数组-环形+反转+延长]
-(https://github.com/ktcl444/php/blob/master/algorithm/rotate_array.php)
+[旋转数组-环形+反转+延长](https://github.com/ktcl444/php/blob/master/algorithm/rotate_array.php)
 
-[阶乘后的零-统计5出现的次数]
-(https://github.com/ktcl444/php/blob/master/algorithm/trailing_zeroes.php)
+[阶乘后的零-统计5出现的次数](https://github.com/ktcl444/php/blob/master/algorithm/trailing_zeroes.php)
 
-[实现strstr-双指针]
-(https://github.com/ktcl444/php/blob/master/algorithm/str_str.php)
+[实现strstr-双指针](https://github.com/ktcl444/php/blob/master/algorithm/str_str.php)
 
-[x的平方根-递归位操作]
-(https://github.com/ktcl444/php/blob/master/algorithm/str_str.php)
+[x的平方根-递归位操作](https://github.com/ktcl444/php/blob/master/algorithm/str_str.php)
 
-[最长公共前缀-水平扫描]
-(https://github.com/ktcl444/php/blob/master/algorithm/longest_common_prefix.php)
+[最长公共前缀-水平扫描](https://github.com/ktcl444/php/blob/master/algorithm/longest_common_prefix.php)
 
-[整数反转-弹出推入数字]
-(https://github.com/ktcl444/php/blob/master/algorithm/revese_int.php)
+[整数反转-弹出推入数字](https://github.com/ktcl444/php/blob/master/algorithm/revese_int.php)
 
-[计算质数-排除法]
-(https://github.com/ktcl444/php/blob/master/algorithm/count_primes.php)
+[计算质数-排除法](https://github.com/ktcl444/php/blob/master/algorithm/count_primes.php)
 
-[生命游戏-额外状态机]
-(https://github.com/ktcl444/php/blob/master/algorithm/game_of_life.php)
+[生命游戏-额外状态机](https://github.com/ktcl444/php/blob/master/algorithm/game_of_life.php)
 
-[分割回文串-回溯]
-(https://github.com/ktcl444/php/blob/master/algorithm/partition.php)
+[分割回文串-回溯](https://github.com/ktcl444/php/blob/master/algorithm/partition.php)
 
-[有效的数独-一次迭代]
-(https://github.com/ktcl444/php/blob/master/algorithm/is_valid_sudoku.php)
+[有效的数独-一次迭代](https://github.com/ktcl444/php/blob/master/algorithm/is_valid_sudoku.php)
 
-[有序矩阵中第K小的元素-二分]
-(https://github.com/ktcl444/php/blob/master/algorithm/kth_smallest.php)
+[有序矩阵中第K小的元素-二分](https://github.com/ktcl444/php/blob/master/algorithm/kth_smallest.php)
 
-[矩阵置零-原地修改]
-(https://github.com/ktcl444/php/blob/master/algorithm/set_zeroes.php)
+[矩阵置零-原地修改](https://github.com/ktcl444/php/blob/master/algorithm/set_zeroes.php)
 
-[四数相加-两两hash]
-(https://github.com/ktcl444/php/blob/master/algorithm/four_sum_count.php)
+[四数相加-两两hash](https://github.com/ktcl444/php/blob/master/algorithm/four_sum_count.php)
 
-[加油站-一次遍历+暴力]
-(https://github.com/ktcl444/php/blob/master/algorithm/can_complete_circuit.php)
+[加油站-一次遍历+暴力](https://github.com/ktcl444/php/blob/master/algorithm/can_complete_circuit.php)
 
-[打乱数组-洗牌+暴力]
-(https://github.com/ktcl444/php/blob/master/algorithm/random_array.php)
+[打乱数组-洗牌+暴力](https://github.com/ktcl444/php/blob/master/algorithm/random_array.php)
 
-[逆波兰表达式-堆栈]
-(https://github.com/ktcl444/php/blob/master/algorithm/eval_RPN.php)
+[逆波兰表达式-堆栈](https://github.com/ktcl444/php/blob/master/algorithm/eval_RPN.php)
 
-[常数时间插入、删除和获取随机元素-哈希表+动态列表]
-(https://github.com/ktcl444/php/blob/master/algorithm/randomized_set.php)
+[常数时间插入、删除和获取随机元素-哈希表+动态列表](https://github.com/ktcl444/php/blob/master/algorithm/randomized_set.php)
 
-[寻找波峰-二分]
-(https://github.com/ktcl444/php/blob/master/algorithm/find_peak_element.php)
+[寻找波峰-二分](https://github.com/ktcl444/php/blob/master/algorithm/find_peak_element.php)
 
-[至少有K个重复字符的最长子串-分割递归]
-(https://github.com/ktcl444/php/blob/master/algorithm/longest_substring.php)
+[至少有K个重复字符的最长子串-分割递归](https://github.com/ktcl444/php/blob/master/algorithm/longest_substring.php)
 
-[单词接龙-BFS(双向+单向)]
-(https://github.com/ktcl444/php/blob/master/algorithm/ladder_length.php)
+[单词接龙-BFS(双向+单向)](https://github.com/ktcl444/php/blob/master/algorithm/ladder_length.php)
 
-[递增的三元子数列-维护第一小第二小]
-(https://github.com/ktcl444/php/blob/master/algorithm/increasing_triplet.php)
+[递增的三元子数列-维护第一小第二小](https://github.com/ktcl444/php/blob/master/algorithm/increasing_triplet.php)
 
-[最大数-字符串排序]
-(https://github.com/ktcl444/php/blob/master/algorithm/largest_number.php)
+[最大数-字符串排序](https://github.com/ktcl444/php/blob/master/algorithm/largest_number.php)
 
-[基本计算器2-堆栈]
-(https://github.com/ktcl444/php/blob/master/algorithm/calculate.php)
+[基本计算器2-堆栈](https://github.com/ktcl444/php/blob/master/algorithm/calculate.php)
 
-[POW(x,n)-迭代+递归]
-(https://github.com/ktcl444/php/blob/master/algorithm/my_pow.php)
+[POW(x,n)-迭代+递归](https://github.com/ktcl444/php/blob/master/algorithm/my_pow.php)
 
-[摆动排序-快速选择(两数组依次插入)]
-(https://github.com/ktcl444/php/blob/master/algorithm/wiggle_sort.php)
+[摆动排序-快速选择(两数组依次插入)](https://github.com/ktcl444/php/blob/master/algorithm/wiggle_sort.php)
 
-[分数到小数-堆栈]
-(https://github.com/ktcl444/php/blob/master/algorithm/fraction_to_decimal.php)
+[分数到小数-堆栈](https://github.com/ktcl444/php/blob/master/algorithm/fraction_to_decimal.php)
 
-[解码方法-动态规划]
-(https://github.com/ktcl444/php/blob/master/algorithm/num_decodings.php)
+[解码方法-动态规划](https://github.com/ktcl444/php/blob/master/algorithm/num_decodings.php)
 
-[字符串转换为整数-整数]
-(https://github.com/ktcl444/php/blob/master/algorithm/my_atoi.php)
+[字符串转换为整数-整数](https://github.com/ktcl444/php/blob/master/algorithm/my_atoi.php)
 
-[两数相除-递归]
-(https://github.com/ktcl444/php/blob/master/algorithm/divide.php)
+[两数相除-递归](https://github.com/ktcl444/php/blob/master/algorithm/divide.php)
 
-[数据流的中位数-最大堆和最小堆]
-(https://github.com/ktcl444/php/blob/master/algorithm/median_finder.php)
+[数据流的中位数-最大堆和最小堆](https://github.com/ktcl444/php/blob/master/algorithm/median_finder.php)
 
-[天际线-线段树]
-(https://github.com/ktcl444/php/blob/master/algorithm/get_skyline.php)
+[天际线-线段树](https://github.com/ktcl444/php/blob/master/algorithm/get_skyline.php)
 
-[缺失的第一个正数-数组转hash表]
-(https://github.com/ktcl444/php/blob/master/algorithm/first_missing_positive.php)
+[缺失的第一个正数-数组转hash表](https://github.com/ktcl444/php/blob/master/algorithm/first_missing_positive.php)
 
-[单词拆分2-DFS(回溯)]
-(https://github.com/ktcl444/php/blob/master/algorithm/word_break_blank.php)
+[单词拆分2-DFS(回溯)](https://github.com/ktcl444/php/blob/master/algorithm/word_break_blank.php)
 
-[通配符匹配-回溯+递归]
-(https://github.com/ktcl444/php/blob/master/algorithm/is_match_2.php)
+[通配符匹配-回溯+递归](https://github.com/ktcl444/php/blob/master/algorithm/is_match_2.php)
 
-[直线上最多的点-枚举]
-(https://github.com/ktcl444/php/blob/master/algorithm/nax_point.php)
+[直线上最多的点-枚举](https://github.com/ktcl444/php/blob/master/algorithm/nax_point.php)
 
-[反转字符串中的单词-双指针]
-(https://github.com/ktcl444/php/blob/master/algorithm/reverse_words.php)
+[反转字符串中的单词-双指针](https://github.com/ktcl444/php/blob/master/algorithm/reverse_words.php)
 
-[回文数+数值比较/字符串比较]
-(https://github.com/ktcl444/php/blob/master/algorithm/is_palindrome_int.php)
+[回文数+数值比较/字符串比较](https://github.com/ktcl444/php/blob/master/algorithm/is_palindrome_int.php)
 
-[2的幂-除法/位运算]
-(https://github.com/ktcl444/php/blob/master/algorithm/is_power_of_two.php)
+[2的幂-除法/位运算](https://github.com/ktcl444/php/blob/master/algorithm/is_power_of_two.php)
 
-[螺旋矩阵2-上下左右四指针]
-(https://github.com/ktcl444/php/blob/master/algorithm/generate_matrix.php)
+[螺旋矩阵2-上下左右四指针](https://github.com/ktcl444/php/blob/master/algorithm/generate_matrix.php)
 
-[最接近的三数之和-左右指针]
-(https://github.com/ktcl444/php/blob/master/algorithm/three_num_closest.php)
+[最接近的三数之和-左右指针](https://github.com/ktcl444/php/blob/master/algorithm/three_num_closest.php)
 
-[格雷码-镜像反射]
-(https://github.com/ktcl444/php/blob/master/algorithm/gray_code.php)
+[格雷码-镜像反射](https://github.com/ktcl444/php/blob/master/algorithm/gray_code.php)
 
-[字符串相乘-模拟竖式]
-(https://github.com/ktcl444/php/blob/master/algorithm/multiply.php)
+[字符串相乘-模拟竖式](https://github.com/ktcl444/php/blob/master/algorithm/multiply.php)
 
-[可以被一步捕获的棋子数-字符串查找]
-(https://github.com/ktcl444/php/blob/master/algorithm/num_rook_captures.php)
+[可以被一步捕获的棋子数-字符串查找](https://github.com/ktcl444/php/blob/master/algorithm/num_rook_captures.php)
 
-[拼写单词-字典比较]
-(https://github.com/ktcl444/php/blob/master/algorithm/count_characters.php)
+[拼写单词-字典比较](https://github.com/ktcl444/php/blob/master/algorithm/count_characters.php)
 
-[和为s的连续正数序列-等差数列/滑动窗口]
-(https://github.com/ktcl444/php/blob/master/algorithm/find_continuous_sequence.php)
+[和为s的连续正数序列-等差数列/滑动窗口](https://github.com/ktcl444/php/blob/master/algorithm/find_continuous_sequence.php)
 
-[分糖果-等差数列]
-(https://github.com/ktcl444/php/blob/master/algorithm/distribute_candies.php)
+[分糖果-等差数列](https://github.com/ktcl444/php/blob/master/algorithm/distribute_candies.php)
 
-[字符串的最大公因子-最大公约数]
-(https://github.com/ktcl444/php/blob/master/algorithm/god_of_string.php)
+[字符串的最大公因子-最大公约数](https://github.com/ktcl444/php/blob/master/algorithm/god_of_string.php)
 
-[最小的k个数-计数排序+最小堆]
-(https://github.com/ktcl444/php/blob/master/algorithm/get_leaest_numbers.php)
+[最小的k个数-计数排序+最小堆](https://github.com/ktcl444/php/blob/master/algorithm/get_leaest_numbers.php)
 
-[最长回文串-贪心+位运算]
-(https://github.com/ktcl444/php/blob/master/algorithm/longest_palindrome_redim.php)
+[最长回文串-贪心+位运算](https://github.com/ktcl444/php/blob/master/algorithm/longest_palindrome_redim.php)
 
-[按摩师-动态规划]
-(https://github.com/ktcl444/php/blob/master/algorithm/massage.php)
+[按摩师-动态规划](https://github.com/ktcl444/php/blob/master/algorithm/massage.php)
 
-[矩形重叠-检查相对位置/投影]
-(https://github.com/ktcl444/php/blob/master/algorithm/is_rectangle_overlap.php)
+[矩形重叠-检查相对位置/投影](https://github.com/ktcl444/php/blob/master/algorithm/is_rectangle_overlap.php)
 
-[字符串压缩-模拟]
-(https://github.com/ktcl444/php/blob/master/algorithm/compress_string.php)
+[字符串压缩-模拟](https://github.com/ktcl444/php/blob/master/algorithm/compress_string.php)
 
-[将数组分成和相等的三个部分-算二部分即]
-(https://github.com/ktcl444/php/blob/master/algorithm/can_three_parts_equal_sum.php)
+[将数组分成和相等的三个部分-算二部分即可](https://github.com/ktcl444/php/blob/master/algorithm/can_three_parts_equal_sum.php)
 
-[卡牌分组-暴力+最大公约数]
-(https://github.com/ktcl444/php/blob/master/algorithm/has_group_size_x.php)
+[卡牌分组-暴力+最大公约数](https://github.com/ktcl444/php/blob/master/algorithm/has_group_size_x.php)
 
-[数组排序-归并+快排]
-(https://github.com/ktcl444/php/blob/master/algorithm/sort_array.php)
+[数组排序-归并+快排](https://github.com/ktcl444/php/blob/master/algorithm/sort_array.php)
 
-[单词的压缩编码-反转排序]
-(https://github.com/ktcl444/php/blob/master/algorithm/minimum_length_encoding.php)
+[单词的压缩编码-反转排序](https://github.com/ktcl444/php/blob/master/algorithm/minimum_length_encoding.php)
 
-[队列的最大值-队列&最大值数组]
-(https://github.com/ktcl444/php/blob/master/algorithm/max_queue.php)
+[队列的最大值-队列&最大值数组](https://github.com/ktcl444/php/blob/master/algorithm/max_queue.php)
 
-[使数组唯一的最小增量-排序+计数]
-(https://github.com/ktcl444/php/blob/master/algorithm/minIncrement_for_unique.php)
+[使数组唯一的最小增量-排序+计数](https://github.com/ktcl444/php/blob/master/algorithm/minIncrement_for_unique.php)
 
-[水壶问题-数学(ax+by=z z为x,y最大公约数的整数倍)]
-(https://github.com/ktcl444/php/blob/master/algorithm/can_measure_water.php)
+[水壶问题-数学(ax+by=z z为x,y最大公约数的整数倍)](https://github.com/ktcl444/php/blob/master/algorithm/can_measure_water.php)
 
-[有效括号的嵌套深度-升降维度+维度奇偶分配)]
-(https://github.com/ktcl444/php/blob/master/algorithm/max_depth_after_split.php)
+[有效括号的嵌套深度-升降维度+维度奇偶分配)](https://github.com/ktcl444/php/blob/master/algorithm/max_depth_after_split.php)
 
-[数组中数字出现的次数-分组异或+计数数组)]
-(https://github.com/ktcl444/php/blob/master/algorithm/single_numbers.php)
+[数组中数字出现的次数-分组异或+计数数组)](https://github.com/ktcl444/php/blob/master/algorithm/single_numbers.php)
 
-[统计「优美子数组」-数学+前缀和/差分)]
-(https://github.com/ktcl444/php/blob/master/algorithm/number_of_sub_arrays.php)
+[统计「优美子数组」-数学+前缀和/差分)](https://github.com/ktcl444/php/blob/master/algorithm/number_of_sub_arrays.php)
 
-[硬币-动态规划+数学]
-(https://github.com/ktcl444/php/blob/master/algorithm/ways_to_change.php)
+[硬币-动态规划+数学](https://github.com/ktcl444/php/blob/master/algorithm/ways_to_change.php)
 
-[设计推特-哈希表]
-(https://github.com/ktcl444/php/blob/master/algorithm/twitter.php)
+[设计推特-哈希表](https://github.com/ktcl444/php/blob/master/algorithm/twitter.php)
 
-[交点-数学]
-(https://github.com/ktcl444/php/blob/master/algorithm/intersection.php)
+[交点-数学](https://github.com/ktcl444/php/blob/master/algorithm/intersection.php)
 
-[数组中的逆序对-归并排序]
-(https://github.com/ktcl444/php/blob/master/algorithm/reverse_pairs.php)
+[数组中的逆序对-归并排序](https://github.com/ktcl444/php/blob/master/algorithm/reverse_pairs.php)
 
-[LFU缓存-链表hash+链表]
-(https://github.com/ktcl444/php/blob/master/algorithm/LFU_cache.php)
+[LFU缓存-链表hash+链表](https://github.com/ktcl444/php/blob/master/algorithm/LFU_cache.php)
 
-[统计重复个数-循环节]
-(https://github.com/ktcl444/php/blob/master/algorithm/get_max_repetitions.php)
+[统计重复个数-循环节](https://github.com/ktcl444/php/blob/master/algorithm/get_max_repetitions.php)
 
-[山脉数组中查找目标值-二分找山顶]
-(https://github.com/ktcl444/php/blob/master/algorithm/find_in_mountain_array.php)
+[山脉数组中查找目标值-二分找山顶](https://github.com/ktcl444/php/blob/master/algorithm/find_in_mountain_array.php)
 
-[鸡蛋掉落-数学方法]
-(https://github.com/ktcl444/php/blob/master/algorithm/super_egg_drop.php)
+[鸡蛋掉落-数学方法](https://github.com/ktcl444/php/blob/master/algorithm/super_egg_drop.php)
 
-[不同路径-动态规划+DFS]
-(https://github.com/ktcl444/php/blob/master/algorithm/unique_paths_with_obstacles.php)
+[不同路径-动态规划+DFS](https://github.com/ktcl444/php/blob/master/algorithm/unique_paths_with_obstacles.php)
