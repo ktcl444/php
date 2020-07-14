@@ -117,6 +117,7 @@
 [矩阵-动态规划+BFS](https://github.com/ktcl444/php/blob/master/algorithm/graph/update_matrix.php)
 
 ### 其他
+#### 位运算
 
 [成对括号](https://github.com/ktcl444/php/blob/master/algorithm/brackets.php)
 
@@ -296,7 +297,7 @@
 
 [加一-从后往前](https://github.com/ktcl444/php/blob/master/algorithm/plus_one.php)
 
-[验证回文字符串-正则双指针](https://github.com/ktcl444/php/blob/master/algorithm/is_palindrome.php
+[验证回文字符串-正则双指针](https://github.com/ktcl444/php/blob/master/algorithm/is_palindrome.php)
 
 [旋转数组-环形+反转+延长](https://github.com/ktcl444/php/blob/master/algorithm/rotate_array.php)
 
