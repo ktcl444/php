@@ -38,7 +38,7 @@
 
 [二叉树的最大路径和-递归](https://github.com/ktcl444/php/blob/master/tree/algorithm/max_path_sum.php)
 
-[有组转换为高度平衡二叉树-递归](https://github.com/ktcl444/php/blob/master/tree/algorithm/sorted_array_to_BST.php
+[有组转换为高度平衡二叉树-递归](https://github.com/ktcl444/php/blob/master/tree/algorithm/sorted_array_to_BST.php)
 
 [二叉搜索树中第k小的元素-迭代+递归](https://github.com/ktcl444/php/blob/master/tree/algorithm/kth_smallest.php)
 
@@ -230,13 +230,9 @@
 
 [最大正方形-暴力破解+动态规划](https://github.com/ktcl444/php/blob/master/algorithm/maximal_square.php)
 
-[在排序数组中查找元素的第一个和最后一个位置
--二分](https://github.com/ktcl444/php/blob/master/algorithm/search_range.php)
+[在排序数组中查找元素的第一个和最后一个位置-二分](https://github.com/ktcl444/php/blob/master/algorithm/search_range.php)
 
 [零钱兑换-动态规划]
-(https://github.com/ktcl444/php/blob/master/algorithm/coin_change.php)
-
-[跳跃游戏-贪心+动态规划+递归]
 (https://github.com/ktcl444/php/blob/master/algorithm/coin_change.php)
 
 [乘积最大子数组-动态规划]

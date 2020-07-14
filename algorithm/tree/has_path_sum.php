@@ -18,6 +18,7 @@ class Solution extends \algorithm\tree\base\TreeAlgorithmBase
 		return $this->hasPathSum($root->left,$sum) || $this->hasPathSum($root->right,$sum);
 	}
 	#endregion
+	
 	#region DFS
 	function hasPathSum1($root, $sum) {
         if(empty($root))return false;

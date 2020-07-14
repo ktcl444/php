@@ -5,6 +5,8 @@ require_once 'base\AlgorithmBase.php';
 //上升下降字符串
 class Solution extends \algorithm\base\AlgorithmBase
 {
+	
+	
 	function sortString($s) {
         $char_mapping = [];
         $len = strlen($s);
@@ -12,7 +14,6 @@ class Solution extends \algorithm\base\AlgorithmBase
             $char_mapping[$s{$i}]++;
         }
         ksort($char_mapping);
-		print_r($char_mapping);
         $ans = '';
         $step = 0;
         while(count($char_mapping) > 0){
@@ -25,7 +26,6 @@ class Solution extends \algorithm\base\AlgorithmBase
                 }
             }
 			
-			print_r($char_mapping);
             $ans .= $step == 0 ? $temp : strrev($temp);
             $step = 1 - $step;
         }
