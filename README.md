@@ -117,7 +117,6 @@
 [矩阵-动态规划+BFS](https://github.com/ktcl444/php/blob/master/algorithm/graph/update_matrix.php)
 
 ### 其他
-#### 位运算
 
 [成对括号](https://github.com/ktcl444/php/blob/master/algorithm/brackets.php)
 
@@ -140,8 +139,6 @@
 [无重复字符的最长子串-正常遍历](https://github.com/ktcl444/php/blob/master/algorithm/length_of_longest_sub_string_traversal.php)
 
 [无重复字符的最长子串-滑动窗口](https://github.com/ktcl444/php/blob/master/algorithm/length_of_longest_sub_string_slide_window.php)
-
-[汉明距离-按位异或](https://github.com/ktcl444/php/blob/master/algorithm/hmjl.php)
 
 [汉明重量-本体与本体-1](https://github.com/ktcl444/php/blob/master/algorithm/hanming_weight.php)
 
@@ -170,8 +167,6 @@
 [最短无序连续子数组-双指针(交换/不交换)](https://github.com/ktcl444/php/blob/master/algorithm/find_unsorted_subarray.php)
 
 [所有子集-递归+迭代](https://github.com/ktcl444/php/blob/master/algorithm/sub_set.php)
-
-[比特位计数-遍历+动态规划(最后设置位)](https://github.com/ktcl444/php/blob/master/algorithm/count_bits.php)
 
 [全排列-递归](https://github.com/ktcl444/php/blob/master/algorithm/permute.php)
 
@@ -275,13 +270,9 @@
 
 [快乐数-快慢指针+字典循环](https://github.com/ktcl444/php/blob/master/algorithm/is_happy.php)
 
-[反转二进制位-逐位颠倒](https://github.com/ktcl444/php/blob/master/algorithm/reverse_bits.php)
-
 [缺失数字-求和公式](https://github.com/ktcl444/php/blob/master/algorithm/missing_number.php)
 
 [外观数列](https://github.com/ktcl444/php/blob/master/algorithm/count_and_say.php)
-
-[两整数之和-按位与或](https://github.com/ktcl444/php/blob/master/algorithm/get_sum.php)
 
 [存在重复元素-排序+哈希表](https://github.com/ktcl444/php/blob/master/algorithm/contains_duplicate.php)
 
@@ -304,8 +295,6 @@
 [阶乘后的零-统计5出现的次数](https://github.com/ktcl444/php/blob/master/algorithm/trailing_zeroes.php)
 
 [实现strstr-双指针](https://github.com/ktcl444/php/blob/master/algorithm/str_str.php)
-
-[x的平方根-递归位操作](https://github.com/ktcl444/php/blob/master/algorithm/str_str.php)
 
 [最长公共前缀-水平扫描](https://github.com/ktcl444/php/blob/master/algorithm/longest_common_prefix.php)
 
@@ -373,8 +362,6 @@
 
 [回文数+数值比较/字符串比较](https://github.com/ktcl444/php/blob/master/algorithm/is_palindrome_int.php)
 
-[2的幂-除法/位运算](https://github.com/ktcl444/php/blob/master/algorithm/is_power_of_two.php)
-
 [螺旋矩阵2-上下左右四指针](https://github.com/ktcl444/php/blob/master/algorithm/generate_matrix.php)
 
 [最接近的三数之和-左右指针](https://github.com/ktcl444/php/blob/master/algorithm/three_num_closest.php)
@@ -440,3 +427,17 @@
 [鸡蛋掉落-数学方法](https://github.com/ktcl444/php/blob/master/algorithm/super_egg_drop.php)
 
 [不同路径-动态规划+DFS](https://github.com/ktcl444/php/blob/master/algorithm/unique_paths_with_obstacles.php)
+
+#### 位运算
+
+[比特位计数-遍历+动态规划(最后设置位)](https://github.com/ktcl444/php/blob/master/algorithm/count_bits.php)
+
+[2的幂-除法/位运算](https://github.com/ktcl444/php/blob/master/algorithm/is_power_of_two.php)
+
+[x的平方根-递归位操作](https://github.com/ktcl444/php/blob/master/algorithm/str_str.php)
+
+[两整数之和-按位与或](https://github.com/ktcl444/php/blob/master/algorithm/get_sum.php)
+
+[汉明距离-按位异或](https://github.com/ktcl444/php/blob/master/algorithm/hmjl.php)
+
+[反转二进制位-逐位颠倒](https://github.com/ktcl444/php/blob/master/algorithm/reverse_bits.php)
