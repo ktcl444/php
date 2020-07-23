@@ -1,7 +1,7 @@
 <?php
 
 require_once 'base\AlgorithmBase.php';
-//将数组分成和相等的三个部分-算二部分即
+//将数组分成和相等的三个部分-算二部分即可
 class Solution extends \algorithm\base\AlgorithmBase
 {
     function canThreePartsEqualSum($A) {
