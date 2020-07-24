@@ -428,6 +428,8 @@
 
 [不同路径-动态规划+DFS](https://github.com/ktcl444/php/blob/master/algorithm/unique_paths_with_obstacles.php)
 
+[二进制表示中质数个计算置位](https://github.com/ktcl444/php/blob/master/algorithm/count_prime_set_bits.php)
+
 #### 位运算
 
 [比特位计数-遍历+动态规划(最后设置位)](https://github.com/ktcl444/php/blob/master/algorithm/count_bits.php)
