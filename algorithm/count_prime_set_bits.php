@@ -33,7 +33,6 @@ class Solution extends \algorithm\base\AlgorithmBase
             }
         }
 		
-		print_r($mapping);
 
         return $ans;
     }
