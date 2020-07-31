@@ -7,6 +7,7 @@ class Solution extends \algorithm\base\AlgorithmBase
 {
 	private $res = [];
     function partition($s) {
+		$this->res = [];
 		$length = strlen($s);
 		if($length == 0)return [];
 		$path = [];
@@ -18,7 +19,7 @@ class Solution extends \algorithm\base\AlgorithmBase
 				}
 			}
 		}
-		//print_r($dp);
+		print_r($dp);
 		$this->back($s,0,$length,$path,$dp);
 		return $this->res;
     }
@@ -41,7 +42,7 @@ class Solution extends \algorithm\base\AlgorithmBase
 
 	function test(){
 		print_r($this->partition('abc'));
-		//print_r($this->partition('caba'));
+		print_r($this->partition('ababa'));
 	}
 }
 

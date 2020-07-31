@@ -5,7 +5,7 @@ require '..\base\AlgorithmBase.php';
 //不同路径-动态规划+DFS
 class Solution extends \algorithm\base\AlgorithmBase
 {
-	#region 动态规划}
+	#region 动态规划
 	//dp[i][j] = dp[i-1][j] + dp[i][j-1]
 	function uniquePathsWithObstacles($obstacleGrid) {
         $rows = count($obstacleGrid);

@@ -1,7 +1,7 @@
 <?php
 
 require '..\base\AlgorithmBase.php';
-
+//矩阵中的幸运数-数组交集
 class Solution extends \algorithm\base\AlgorithmBase
 {
 

@@ -12,7 +12,6 @@ class Solution extends \algorithm\base\AlgorithmBase
             $mapping[$s{$i}]++;
         }
         $res = 0;
-        $single_count = 0;
         foreach($mapping as $count){
 			$res += intval($count / 2) * 2;
 			if($res % 2 == 0 && $count % 2 == 1)

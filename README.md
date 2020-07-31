@@ -116,6 +116,14 @@
 
 [矩阵-动态规划+BFS](https://github.com/ktcl444/php/blob/master/algorithm/graph/update_matrix.php)
 
+[不同路径-动态规划+DFS](https://github.com/ktcl444/php/blob/master/algorithm/graph/unique_paths_with_obstacles.php)
+
+[矩阵中的幸运数-数组交集](https://github.com/ktcl444/php/blob/master/algorithm/graph/lucky_numbers.php)
+
+[岛屿周长-遍历](https://github.com/ktcl444/php/blob/master/algorithm/graph/island_perimeter.php)
+
+[距离顺序排列矩阵单元格-BFS](https://github.com/ktcl444/php/blob/master/algorithm/graph/all_cells_dist_order.php)
+
 ### 其他
 
 [成对括号](https://github.com/ktcl444/php/blob/master/algorithm/brackets.php)
@@ -425,8 +433,6 @@
 [山脉数组中查找目标值-二分找山顶](https://github.com/ktcl444/php/blob/master/algorithm/find_in_mountain_array.php)
 
 [鸡蛋掉落-数学方法](https://github.com/ktcl444/php/blob/master/algorithm/super_egg_drop.php)
-
-[不同路径-动态规划+DFS](https://github.com/ktcl444/php/blob/master/algorithm/unique_paths_with_obstacles.php)
 
 [二进制表示中质数个计算置位](https://github.com/ktcl444/php/blob/master/algorithm/count_prime_set_bits.php)
 
