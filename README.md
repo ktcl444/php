@@ -436,6 +436,8 @@
 
 [二进制表示中质数个计算置位](https://github.com/ktcl444/php/blob/master/algorithm/count_prime_set_bits.php)
 
+[方阵中战斗力最弱的 K 行-键排序](https://github.com/ktcl444/php/blob/master/algorithm/k_weakest_rows.php)
+
 #### 位运算
 
 [比特位计数-遍历+动态规划(最后设置位)](https://github.com/ktcl444/php/blob/master/algorithm/count_bits.php)
