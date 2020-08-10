@@ -54,6 +54,8 @@
 
 [叶子相似的树-DFS](https://github.com/ktcl444/php/blob/master/tree/algorithm/leaf_similar.php)
 
+[对称的二叉树-DFS](https://github.com/ktcl444/php/blob/master/tree/algorithm/isSymmetric.php)
+
 ### 链表
 
 [两数相加-逆序](https://github.com/ktcl444/php/blob/master/algorithm/linked_list/add_two_number_desc.php)
