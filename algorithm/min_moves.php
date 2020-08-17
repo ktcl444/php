@@ -6,7 +6,7 @@ class Solution extends \algorithm\base\AlgorithmBase
 {
 	#region 数学方法	//将除了一个元素之外的全部元素+1，等价于将该元素-1，因为我们只对元素的相对大小感兴趣。因此，该问题简化为需要进行的减法次数。
     function minMoves($nums) {
-        return array_sum($nums)- min($nums) * min($nums);
+        return array_sum($nums)- min($nums) * count($nums);
     }
 	#endregion
 	
