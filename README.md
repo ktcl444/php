@@ -448,6 +448,9 @@
 
 [最小移动次数使数组元素相等-数学/dp/排序/暴力](https://github.com/ktcl444/php/blob/master/algorithm/min_moves.php)
 
+[n个骰子的点数-dp](https://github.com/ktcl444/php/blob/master/algorithm/two_sum.php)
+
+
 #### 位运算
 
 [比特位计数-遍历+动态规划(最后设置位)](https://github.com/ktcl444/php/blob/master/algorithm/count_bits.php)
