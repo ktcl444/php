@@ -450,6 +450,9 @@
 
 [n个骰子的点数-dp](https://github.com/ktcl444/php/blob/master/algorithm/two_sum.php)
 
+[重复的子字符串-双指针](https://github.com/ktcl444/php/blob/master/algorithm/repeated_substring_pattern.php)
+
+[K次取反后最大化的数组和-排序](https://github.com/ktcl444/php/blob/master/algorithm/largest_sum_after_k_negations.php)
 
 #### 位运算
 
