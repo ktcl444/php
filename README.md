@@ -467,3 +467,5 @@
 [汉明距离-按位异或](https://github.com/ktcl444/php/blob/master/algorithm/hmjl.php)
 
 [反转二进制位-逐位颠倒](https://github.com/ktcl444/php/blob/master/algorithm/reverse_bits.php)
+
+[整数转换-位运算](https://github.com/ktcl444/php/blob/master/algorithm/convert_integer.php)
