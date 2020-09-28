@@ -458,6 +458,8 @@
 
 [二维数组中的查找-左上角/右下角开始遍历](https://github.com/ktcl444/php/blob/master/algorithm/find_number_in_2D_array.php)
 
+[第三大的数-堆/冒泡三次/堆栈](https://github.com/ktcl444/php/blob/master/algorithm/third_max.php)
+
 #### 位运算
 
 [比特位计数-遍历+动态规划(最后设置位)](https://github.com/ktcl444/php/blob/master/algorithm/count_bits.php)
