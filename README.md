@@ -470,6 +470,8 @@
 
 [黑白方格棋-遍历](https://github.com/ktcl444/php/blob/master/algorithm/paint_plan.php)
 
+[三角形最小路径和-动态规划(从上往下/从下往上)](https://github.com/ktcl444/php/blob/master/algorithm/minimum_total.php)
+
 #### 位运算
 
 [比特位计数-遍历+动态规划(最后设置位)](https://github.com/ktcl444/php/blob/master/algorithm/count_bits.php)
