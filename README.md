@@ -56,6 +56,8 @@
 
 [对称的二叉树-DFS](https://github.com/ktcl444/php/blob/master/tree/algorithm/isSymmetric.php)
 
+[根据前序和后序遍历构造二叉树-递归](https://github.com/ktcl444/php/blob/master/tree/algorithm/construct_from_pre_post.php)
+
 ### 链表
 
 [两数相加-逆序](https://github.com/ktcl444/php/blob/master/algorithm/linked_list/add_two_number_desc.php)
@@ -129,6 +131,8 @@
 [距离顺序排列矩阵单元格-BFS](https://github.com/ktcl444/php/blob/master/algorithm/graph/all_cells_dist_order.php)
 
 [二维网格迁移-取模](https://github.com/ktcl444/php/blob/master/algorithm/graph/shift_grid.php)
+
+[由斜杠划分区域-并查集/找孤岛](https://github.com/ktcl444/php/blob/master/algorithm/graph/regions_by_slashes.php)
 
 ### 其他
 
