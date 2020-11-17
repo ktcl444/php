@@ -58,6 +58,8 @@
 
 [根据前序和后序遍历构造二叉树-递归](https://github.com/ktcl444/php/blob/master/tree/algorithm/construct_from_pre_post.php)
 
+[不同的二叉搜索树-递归](https://github.com/ktcl444/php/blob/master/tree/algorithm/generate_trees.php)
+
 ### 链表
 
 [两数相加-逆序](https://github.com/ktcl444/php/blob/master/algorithm/linked_list/add_two_number_desc.php)
