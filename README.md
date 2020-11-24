@@ -474,6 +474,8 @@
 
 [三角形最小路径和-动态规划(从上往下/从下往上)](https://github.com/ktcl444/php/blob/master/algorithm/minimum_total.php)
 
+[煎饼翻转-依次将最大值移到开头和末尾)](https://github.com/ktcl444/php/blob/master/algorithm/pancake_sort.php)
+
 #### 位运算
 
 [比特位计数-遍历+动态规划(最后设置位)](https://github.com/ktcl444/php/blob/master/algorithm/count_bits.php)
