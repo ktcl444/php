@@ -476,6 +476,10 @@
 
 [煎饼翻转-依次将最大值移到开头和末尾)](https://github.com/ktcl444/php/blob/master/algorithm/pancake_sort.php)
 
+[石子游戏-动态规划(自底向上))](https://github.com/ktcl444/php/blob/master/algorithm/stone_gameII.php
+
+[整数转罗马数字-贪心](https://github.com/ktcl444/php/blob/master/algorithm/int_to_roman.php)
+
 #### 位运算
 
 [比特位计数-遍历+动态规划(最后设置位)](https://github.com/ktcl444/php/blob/master/algorithm/count_bits.php)
