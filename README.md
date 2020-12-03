@@ -480,6 +480,8 @@
 
 [整数转罗马数字-贪心](https://github.com/ktcl444/php/blob/master/algorithm/int_to_roman.php)
 
+[优美的排列-回溯](https://github.com/ktcl444/php/blob/master/algorithm/count_arrangement.php)
+
 #### 位运算
 
 [比特位计数-遍历+动态规划(最后设置位)](https://github.com/ktcl444/php/blob/master/algorithm/count_bits.php)

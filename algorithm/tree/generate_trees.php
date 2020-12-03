@@ -41,7 +41,7 @@ class Solution extends \algorithm\tree\base\TreeAlgorithmBase
         return $ans;
     }
 	function test(){
- 		print_r($this->generateTrees([3,2,4,1]));
+ 		print_r($this->generateTrees(3));
 
 	}
 }
