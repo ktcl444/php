@@ -11,7 +11,7 @@ class Solution extends \algorithm\base\AlgorithmBase
         $visited = array_fill(1, $N, false);
         $step = 1;
         $this->backtrack($N, $visited, $step,[]);
-		print_r($this->ans);
+		//print_r($this->ans);
         return $this->count;
     }
 

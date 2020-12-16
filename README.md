@@ -60,6 +60,8 @@
 
 [不同的二叉搜索树-递归](https://github.com/ktcl444/php/blob/master/tree/algorithm/generate_trees.php)
 
+[完全二叉树插入器-迭代](https://github.com/ktcl444/php/blob/master/tree/algorithm/CBT_inserter.php)
+
 ### 链表
 
 [两数相加-逆序](https://github.com/ktcl444/php/blob/master/algorithm/linked_list/add_two_number_desc.php)
@@ -482,7 +484,7 @@
 
 [优美的排列-回溯](https://github.com/ktcl444/php/blob/master/algorithm/count_arrangement.php)
 
-[计算右侧小于当前元素的个数-树状数组](https://github.com/ktcl444/php/blob/master/algorithm/stream_rank.php)
+[数字流的秩-树状数组](https://github.com/ktcl444/php/blob/master/algorithm/stream_rank.php)
 
 #### 位运算
 
