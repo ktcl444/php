@@ -487,8 +487,12 @@
 [数字流的秩-树状数组](https://github.com/ktcl444/php/blob/master/algorithm/stream_rank.php)
 
 [最长公共子序列-动态规划](https://github.com/ktcl444/php/blob/master/algorithm/longest_common_subsequence.php)
+
 [移除石子的最大得分-两边之和大于第三边](https://github.com/ktcl444/php/blob/master/algorithm/maximum_score.php)
+
 [Z字型变换-数组追加](https://github.com/ktcl444/php/blob/master/algorithm/convert_z.php)
+
+[卡车上的最大单元数-排序](https://github.com/ktcl444/php/blob/master/algorithm/maximum_units.php)
 
 #### 位运算
 
