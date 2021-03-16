@@ -494,6 +494,8 @@
 
 [卡车上的最大单元数-排序](https://github.com/ktcl444/php/blob/master/algorithm/maximum_units.php)
 
+[最长的美好字符串-位运算/滑动窗口](https://github.com/ktcl444/php/blob/master/algorithm/longest_nice_substring.php)
+
 #### 位运算
 
 [比特位计数-遍历+动态规划(最后设置位)](https://github.com/ktcl444/php/blob/master/algorithm/count_bits.php)
