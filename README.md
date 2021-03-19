@@ -496,6 +496,8 @@
 
 [最长的美好字符串-位运算/滑动窗口](https://github.com/ktcl444/php/blob/master/algorithm/longest_nice_substring.php)
 
+[二进制手表-二进制1的个数/回溯](https://github.com/ktcl444/php/blob/master/algorithm/read_binary_watch.php)
+
 #### 位运算
 
 [比特位计数-遍历+动态规划(最后设置位)](https://github.com/ktcl444/php/blob/master/algorithm/count_bits.php)
