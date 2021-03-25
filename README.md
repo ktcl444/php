@@ -498,6 +498,10 @@
 
 [二进制手表-二进制1的个数/回溯](https://github.com/ktcl444/php/blob/master/algorithm/read_binary_watch.php)
 
+[查询带键的排列-双hash存储数值和位置](https://github.com/ktcl444/php/blob/master/algorithm/process_queries.php)
+
+[统计字典序元音字符串的数目-dp](https://github.com/ktcl444/php/blob/master/algorithm/count_vowel_strings.php)
+
 #### 位运算
 
 [比特位计数-遍历+动态规划(最后设置位)](https://github.com/ktcl444/php/blob/master/algorithm/count_bits.php)
