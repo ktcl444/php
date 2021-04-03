@@ -504,6 +504,8 @@
 
 [笨阶乘-数学/堆栈/暴力](https://github.com/ktcl444/php/blob/master/algorithm/clumsy.php)
 
+[连通网络的操作次数-并查集](https://github.com/ktcl444/php/blob/master/algorithm/make_connected.php)
+
 #### 位运算
 
 [比特位计数-遍历+动态规划(最后设置位)](https://github.com/ktcl444/php/blob/master/algorithm/count_bits.php)
