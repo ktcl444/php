@@ -502,6 +502,8 @@
 
 [统计字典序元音字符串的数目-dp](https://github.com/ktcl444/php/blob/master/algorithm/count_vowel_strings.php)
 
+[笨阶乘-数学/堆栈/暴力](https://github.com/ktcl444/php/blob/master/algorithm/clumsy.php)
+
 #### 位运算
 
 [比特位计数-遍历+动态规划(最后设置位)](https://github.com/ktcl444/php/blob/master/algorithm/count_bits.php)
