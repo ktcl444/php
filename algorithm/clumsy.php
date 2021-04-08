@@ -1,7 +1,7 @@
 <?php
 
 require_once 'base\AlgorithmBase.php';
-//统计只差一个字符的子串数目-暴力
+//笨阶乘-数学/堆栈/暴力
 class Solution extends \algorithm\base\AlgorithmBase
 {    //数学
 function clumsy($N) {

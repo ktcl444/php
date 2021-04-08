@@ -508,6 +508,8 @@
 
 [最长回文子序列-dp](https://github.com/ktcl444/php/blob/master/algorithm/longest_palindrome_subseq.php)
 
+[栈的压入、弹出序列-新堆栈/双向指针](https://github.com/ktcl444/php/blob/master/algorithm/validate_stack_sequences.php)
+
 #### 位运算
 
 [比特位计数-遍历+动态规划(最后设置位)](https://github.com/ktcl444/php/blob/master/algorithm/count_bits.php)
