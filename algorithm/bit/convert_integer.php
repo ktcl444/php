@@ -1,6 +1,8 @@
 <?php
 
-require_once 'base\AlgorithmBase.php';
+namespace algorithm\bit;
+require_once '..\base\AlgorithmBase.php';
+
 //整数转换-位运算
 class Solution extends \algorithm\base\AlgorithmBase
 {

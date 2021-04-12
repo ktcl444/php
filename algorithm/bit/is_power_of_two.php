@@ -1,6 +1,7 @@
 <?php
 
-require_once 'base\AlgorithmBase.php';
+namespace algorithm\bit;
+require_once '..\base\AlgorithmBase.php';
 
 //2的幂
 class Solution extends \algorithm\base\AlgorithmBase

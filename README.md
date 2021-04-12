@@ -512,16 +512,18 @@
 
 #### 位运算
 
-[比特位计数-遍历+动态规划(最后设置位)](https://github.com/ktcl444/php/blob/master/algorithm/count_bits.php)
+[比特位计数-遍历+动态规划(最后设置位)](https://github.com/ktcl444/php/blob/master/algorithm/bit/count_bits.php)
 
-[2的幂-除法/位运算](https://github.com/ktcl444/php/blob/master/algorithm/is_power_of_two.php)
+[2的幂-除法/位运算](https://github.com/ktcl444/php/blob/master/algorithm/bit/is_power_of_two.php)
 
-[x的平方根-递归位操作](https://github.com/ktcl444/php/blob/master/algorithm/str_str.php)
+[x的平方根-递归位操作](https://github.com/ktcl444/php/blob/master/algorithm/bit/str_str.php)
 
-[两整数之和-按位与或](https://github.com/ktcl444/php/blob/master/algorithm/get_sum.php)
+[两整数之和-按位与或](https://github.com/ktcl444/php/blob/master/algorithm/bit/get_sum.php)
 
-[汉明距离-按位异或](https://github.com/ktcl444/php/blob/master/algorithm/hmjl.php)
+[汉明距离-按位异或](https://github.com/ktcl444/php/blob/master/algorithm/bit/hmjl.php)
 
-[反转二进制位-逐位颠倒](https://github.com/ktcl444/php/blob/master/algorithm/reverse_bits.php)
+[反转二进制位-逐位颠倒](https://github.com/ktcl444/php/blob/master/algorithm/bit/reverse_bits.php)
 
-[整数转换-位运算](https://github.com/ktcl444/php/blob/master/algorithm/convert_integer.php)
+[整数转换-位运算](https://github.com/ktcl444/php/blob/master/algorithm/bit/convert_integer.php)
+
+[数组中两个数的最大异或值-二进制前缀树](https://github.com/ktcl444/php/blob/master/algorithm/bit/find_maximum_XOR.php)
