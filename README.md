@@ -510,6 +510,8 @@
 
 [栈的压入、弹出序列-新堆栈/双向指针](https://github.com/ktcl444/php/blob/master/algorithm/validate_stack_sequences.php)
 
+[大礼包-递归](https://github.com/ktcl444/php/blob/master/algorithm/shoppingOffers.php)
+
 #### 位运算
 
 [比特位计数-遍历+动态规划(最后设置位)](https://github.com/ktcl444/php/blob/master/algorithm/bit/count_bits.php)
