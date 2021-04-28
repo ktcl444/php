@@ -520,6 +520,8 @@
 
 [每个元音包含偶数次的最长子字符串-二进制/暴力](https://github.com/ktcl444/php/blob/master/algorithm/find_the_longest_substring.php)
 
+[金字塔转换矩阵-DFS](https://github.com/ktcl444/php/blob/master/algorithm/pyramid_transition.php)
+
 #### 位运算
 
 [比特位计数-遍历+动态规划(最后设置位)](https://github.com/ktcl444/php/blob/master/algorithm/bit/count_bits.php)
