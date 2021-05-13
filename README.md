@@ -62,6 +62,8 @@
 
 [完全二叉树插入器-迭代](https://github.com/ktcl444/php/blob/master/tree/algorithm/CBT_inserter.php)
 
+[寻找重复的子树-DFS](https://github.com/ktcl444/php/blob/master/tree/algorithm/find_duplicate_subtrees.php)
+
 ### 链表
 
 [两数相加-逆序](https://github.com/ktcl444/php/blob/master/algorithm/linked_list/add_two_number_desc.php)
