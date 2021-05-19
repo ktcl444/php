@@ -526,6 +526,8 @@
 
 [不同字符的最小子序列-贪心堆栈](https://github.com/ktcl444/php/blob/master/algorithm/smallest_subsequence.php)
 
+[从英文中重建数字-找字母出现规律](https://github.com/ktcl444/php/blob/master/algorithm/original_digits.php)
+
 #### 位运算
 
 [比特位计数-遍历+动态规划(最后设置位)](https://github.com/ktcl444/php/blob/master/algorithm/bit/count_bits.php)
